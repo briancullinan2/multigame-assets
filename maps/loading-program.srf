@@ -1,0 +1,645 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/common/portal
+	sampleSize 0
+}
+
+1 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+2 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+3 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+4 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+5 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+6 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+7 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+8 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+9 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+10 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+11 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+12 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+13 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+14 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+15 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+16 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+17 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+18 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+19 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+20 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/common/portal
+	sampleSize 0
+}
+
+21 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+22 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+23 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+24 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+25 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+26 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+27 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+28 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+29 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+30 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+31 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+32 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+33 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+34 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+35 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+36 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+37 // ESurfaceType::Face V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+38 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+39 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+40 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/skies/portalfog
+	sampleSize 0
+}
+
+41 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/skies/portalfog
+	sampleSize 0
+}
+
+42 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/skies/portalfog
+	sampleSize 0
+}
+
+43 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+44 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/sfx2/jumportal02
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+45 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/sfx2/swirl_b1
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+46 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/sfx2/jumportal02
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+47 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/sfx2/jumportal02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+48 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/sfx2/swirl_b1
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+49 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/sfx2/jumportal02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+50 // ESurfaceType::ForcedMeta V: 543 I: 1176 
+{
+	shader models/mapobjects/podium/podium
+}
+
+51 // ESurfaceType::ForcedMeta V: 160 I: 420 
+{
+	shader models/mapobjects/podium/podskull
+}
+
+52 // ESurfaceType::ForcedMeta V: 18 I: 48 
+{
+	shader models/mapobjects/podium/podiumfx2
+}
+
+53 // ESurfaceType::ForcedMeta V: 18 I: 48 
+{
+	shader models/mapobjects/podium/podiumfx1
+}
+
+54 // ESurfaceType::ForcedMeta V: 18 I: 48 
+{
+	shader models/mapobjects/podium/podiumfx3
+}
+
+55 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+56 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+57 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+58 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+59 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+60 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+61 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+62 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+63 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+64 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+65 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+66 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+67 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+68 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+69 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+70 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+71 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/liquids/clear_calm1
+	sampleSize 0
+}
+
+72 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/liquids/clear_calm1
+	sampleSize 0
+}
+
+73 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+74 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+75 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+76 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+77 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+78 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+79 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+80 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+81 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+82 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+83 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+84 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+85 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+86 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_sfx/lig_b064-02a
+	sampleSize 0
+}
+
+87 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/v064-03a
+	sampleSize 0
+}
+
+88 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/egyptsoc_trim/032-04c
+	sampleSize 0
+}
+
+89 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/liquids/clear_calm1
+	sampleSize 0
+}
+
+90 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/liquids/clear_calm1
+	sampleSize 0
+}
+
+91 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 62
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+92 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 62
+	castShadows 0
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+93 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 62
+	castShadows 0
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+94 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 62
+	castShadows 0
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+95 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 62
+	castShadows 0
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+96 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 62
+	castShadows 0
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+97 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 64
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+98 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 64
+	castShadows 0
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+99 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 64
+	castShadows 0
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+100 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 64
+	castShadows 0
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+101 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 64
+	castShadows 0
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+102 // ESurfaceType::Face V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 64
+	castShadows 0
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+

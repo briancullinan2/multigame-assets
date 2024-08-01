@@ -1,0 +1,20 @@
+cameraPathDef 
+{
+  time 7.500000
+  camera_Fixed
+  {
+    name position
+    pos ( 1004 -3060 -1560 )
+  }
+  target_Fixed
+  {
+    name target1
+    pos ( 1004 -3560 -1560 )
+  }
+  event
+  {
+    type 4
+    param "target1"
+    time 0
+  }
+}
