@@ -4,7 +4,7 @@
 {
 "classname" "worldspawn"
 "_tb_mod" "pak0.pk3dir;pak1.pk3dir;pak90.pk3dir;pak99.pk3dir;curry.pk3dir;common-spog.pk3dir;common-q3map2.pk3dir"
-"_tb_textures" "textures/common;textures/effects;textures/sfx;textures/sfx2;textures/skies;textures/skies2"
+"_tb_textures" "textures/common;textures/effects;textures/liquids;textures/liquids2;textures/sfx;textures/sfx2;textures/skies;textures/skies2"
 // brush 0
 {
 ( -22384 17488 1824 ) ( -22384 -19840 1824 ) ( -22384 -19840 1792 ) __TB_empty 0 0 0 0.5 0.5
@@ -302,6 +302,33 @@
 ( 2080 -932 -1628 ) ( 2081 -932 -1628 ) ( 2080 -932 -1627 ) __TB_empty 16 8 0 0.5 0.5
 ( 2088 -996 -1532 ) ( 2088 -997 -1532 ) ( 2088 -996 -1531 ) __TB_empty 24 8 179.99998 0.5 -0.5
 }
+// brush 33
+{
+( 576 -768 -1632 ) ( 576 -767 -1632 ) ( 576 -768 -1631 ) __TB_empty 0 0 0 0.5 0.5
+( 576 -768 -1632 ) ( 576 -768 -1631 ) ( 577 -768 -1632 ) __TB_empty 0 0 0 0.5 0.5
+( 576 -768 -1632 ) ( 577 -768 -1632 ) ( 576 -767 -1632 ) __TB_empty 0 0 0 0.5 0.5
+( 704 -512 -1600 ) ( 704 -511 -1600 ) ( 705 -512 -1600 ) __TB_empty 0 0 0 0.5 0.5
+( 704 -512 -1600 ) ( 705 -512 -1600 ) ( 704 -512 -1599 ) __TB_empty 0 0 0 0.5 0.5
+( 704 -512 -1600 ) ( 704 -512 -1599 ) ( 704 -511 -1600 ) __TB_empty 0 0 0 0.5 0.5
+}
+// brush 34
+{
+( 960 -768 -1632 ) ( 960 -767 -1632 ) ( 960 -768 -1631 ) __TB_empty 0 0 0 0.5 0.5
+( 960 -768 -1632 ) ( 960 -768 -1631 ) ( 961 -768 -1632 ) __TB_empty 0 0 0 0.5 0.5
+( 960 -768 -1632 ) ( 961 -768 -1632 ) ( 960 -767 -1632 ) __TB_empty 0 0 0 0.5 0.5
+( 1088 -512 -1600 ) ( 1088 -511 -1600 ) ( 1089 -512 -1600 ) __TB_empty 0 0 0 0.5 0.5
+( 1088 -512 -1600 ) ( 1089 -512 -1600 ) ( 1088 -512 -1599 ) __TB_empty 0 0 0 0.5 0.5
+( 1088 -512 -1600 ) ( 1088 -512 -1599 ) ( 1088 -511 -1600 ) __TB_empty 0 0 0 0.5 0.5
+}
+// brush 35
+{
+( 704 -512 -1600 ) ( 704 -768 -1600 ) ( 704 -768 -1632 ) liquids/lavahell 0 0 0 0.5 0.5
+( 704 -768 -1600 ) ( 960 -768 -1600 ) ( 960 -768 -1632 ) liquids/lavahell 0 0 0 0.5 0.5
+( 960 -768 -1632 ) ( 960 -512 -1632 ) ( 704 -512 -1632 ) liquids/lavahell 0 0 0 0.5 0.5
+( 704 -512 -1600 ) ( 960 -512 -1600 ) ( 960 -768 -1600 ) liquids/lavahell 0 0 0 0.5 0.5
+( 960 -512 -1632 ) ( 960 -512 -1600 ) ( 704 -512 -1600 ) liquids/lavahell 0 0 0 0.5 0.5
+( 960 -768 -1600 ) ( 960 -512 -1600 ) ( 960 -512 -1632 ) liquids/lavahell 0 0 0 0.5 0.5
+}
 }
 // entity 1
 {
@@ -347,67 +374,67 @@
 // entity 9
 {
 "classname" "weapon_gauntlet"
-"origin" "1648 -2896 -1584"
+"origin" "1648 -2832 -1584"
 }
 // entity 10
 {
 "classname" "weapon_grapplinghook"
-"origin" "1648 -2832 -1584"
+"origin" "1648 -2704 -1584"
 }
 // entity 11
 {
 "classname" "weapon_grenadelauncher"
-"origin" "1648 -2768 -1584"
+"origin" "1648 -2576 -1584"
 }
 // entity 12
 {
 "classname" "weapon_lightning"
-"origin" "1648 -2704 -1584"
+"origin" "1648 -2448 -1584"
 }
 // entity 13
 {
 "classname" "weapon_machinegun"
-"origin" "1648 -2640 -1584"
+"origin" "1648 -2320 -1584"
 }
 // entity 14
 {
 "classname" "weapon_plasmagun"
-"origin" "1648 -2576 -1584"
+"origin" "1648 -2192 -1584"
 }
 // entity 15
 {
 "classname" "weapon_railgun"
-"origin" "1648 -2448 -1584"
+"origin" "1648 -1936 -1584"
 }
 // entity 16
 {
 "classname" "weapon_rocketlauncher"
-"origin" "1648 -2512 -1584"
+"origin" "1648 -2064 -1584"
 }
 // entity 17
 {
 "classname" "weapon_shotgun"
-"origin" "1648 -2384 -1584"
+"origin" "1648 -1808 -1584"
 }
 // entity 18
 {
 "classname" "weapon_homingrocket"
-"origin" "1648 -2320 -1584"
+"origin" "1648 -1680 -1584"
 }
 // entity 19
 {
 "classname" "item_enviro"
-"origin" "688 -2256 -1584"
+"origin" "688 -1552 -1584"
 }
 // entity 20
 {
 "classname" "item_flight"
-"origin" "688 -2928 -1584"
+"origin" "688 -2736 -1584"
 }
 // entity 21
 {
 "classname" "item_haste"
-"origin" "688 -2432 -1584"
+"origin" "688 -1856 -1584"
 }
 // entity 22
 {
@@ -427,17 +454,17 @@
 // entity 25
 {
 "classname" "item_invis"
-"origin" "688 -2512 -1584"
+"origin" "688 -2000 -1584"
 }
 // entity 26
 {
 "classname" "item_quad"
-"origin" "688 -2672 -1584"
+"origin" "688 -2288 -1584"
 }
 // entity 27
 {
 "classname" "item_regen"
-"origin" "688 -2752 -1584"
+"origin" "688 -2432 -1584"
 }
 // entity 28
 {
@@ -452,57 +479,57 @@
 // entity 30
 {
 "classname" "item_enviro_multi"
-"origin" "688 -2176 -1584"
+"origin" "688 -1408 -1584"
 }
 // entity 31
 {
 "classname" "item_flight_long"
-"origin" "688 -3000 -1584"
+"origin" "688 -2872 -1584"
 }
 // entity 32
 {
 "classname" "item_haste_flash"
-"origin" "688 -2336 -1584"
+"origin" "688 -1696 -1584"
 }
 // entity 33
 {
 "classname" "holdable_portal"
-"origin" "440 -2376 -1584"
+"origin" "440 -1992 -1584"
 }
 // entity 34
 {
 "classname" "holdable_invulnerability"
-"origin" "440 -2456 -1584"
+"origin" "440 -2136 -1584"
 }
 // entity 35
 {
 "classname" "item_scout"
-"origin" "440 -2536 -1584"
+"origin" "440 -2280 -1584"
 }
 // entity 36
 {
 "classname" "item_guard"
-"origin" "440 -2616 -1584"
+"origin" "440 -2424 -1584"
 }
 // entity 37
 {
 "classname" "item_doubler"
-"origin" "440 -2696 -1584"
+"origin" "440 -2568 -1584"
 }
 // entity 38
 {
 "classname" "holdable_kamikaze"
-"origin" "440 -2296 -1584"
+"origin" "440 -1848 -1584"
 }
 // entity 39
 {
 "classname" "item_ammoregen"
-"origin" "440 -2776 -1584"
+"origin" "440 -2712 -1584"
 }
 // entity 40
 {
 "classname" "item_visibility"
-"origin" "688 -2592 -1584"
+"origin" "688 -2144 -1584"
 }
 // entity 41
 {
@@ -515,17 +542,17 @@
 // entity 42
 {
 "classname" "holdable_medkit"
-"origin" "432 -2208 -1584"
+"origin" "432 -1696 -1584"
 }
 // entity 43
 {
 "classname" "holdable_teleporter"
-"origin" "432 -2112 -1584"
+"origin" "432 -1536 -1584"
 }
 // entity 44
 {
 "classname" "ammo_bfg"
-"origin" "1936 -2320 -1584"
+"origin" "1936 -1872 -1584"
 }
 // entity 45
 {
@@ -535,42 +562,42 @@
 // entity 46
 {
 "classname" "ammo_cells"
-"origin" "1936 -2416 -1584"
+"origin" "1936 -2032 -1584"
 }
 // entity 47
 {
 "classname" "ammo_grenades"
-"origin" "1936 -2512 -1584"
+"origin" "1936 -2192 -1584"
 }
 // entity 48
 {
 "classname" "ammo_lightning"
-"origin" "1936 -2608 -1584"
+"origin" "1936 -2352 -1584"
 }
 // entity 49
 {
 "classname" "ammo_rockets"
-"origin" "1936 -2704 -1584"
+"origin" "1936 -2512 -1584"
 }
 // entity 50
 {
 "classname" "ammo_shells"
-"origin" "1936 -2800 -1584"
+"origin" "1936 -2672 -1584"
 }
 // entity 51
 {
 "classname" "ammo_slugs"
-"origin" "1936 -2896 -1584"
+"origin" "1936 -2832 -1584"
 }
 // entity 52
 {
 "classname" "item_regenammo"
-"origin" "688 -2832 -1584"
+"origin" "688 -2576 -1584"
 }
 // entity 53
 {
 "classname" "holdable_healer"
-"origin" "432 -2016 -1576"
+"origin" "432 -1376 -1576"
 }
 // entity 54
 {
@@ -856,247 +883,247 @@
 // entity 90
 {
 "classname" "rune_divine"
-"origin" "1924 -5368 -1616"
+"origin" "2116 -4056 -1616"
 }
 // entity 91
 {
 "classname" "rune_death"
-"origin" "2056 -4048 -1616"
+"origin" "2120 -4176 -1616"
 }
 // entity 92
 {
 "classname" "rune_holo"
-"origin" "2056 -4180 -1616"
+"origin" "2120 -4308 -1616"
 }
 // entity 93
 {
 "classname" "rune_orb"
-"origin" "2056 -4312 -1616"
+"origin" "2120 -4440 -1616"
 }
 // entity 94
 {
 "classname" "rune_blink"
-"origin" "2056 -4444 -1616"
+"origin" "2120 -4572 -1616"
 }
 // entity 95
 {
 "classname" "rune_camo"
-"origin" "2056 -4576 -1616"
+"origin" "2120 -4704 -1616"
 }
 // entity 96
 {
 "classname" "rune_jump"
-"origin" "2056 -4708 -1616"
+"origin" "2120 -4836 -1616"
 }
 // entity 97
 {
 "classname" "rune_action"
-"origin" "2056 -4840 -1616"
+"origin" "2120 -4968 -1616"
 }
 // entity 98
 {
 "classname" "rune_vampire"
-"origin" "2056 -4972 -1616"
+"origin" "2120 -5100 -1616"
 }
 // entity 99
 {
 "classname" "rune_shield"
-"origin" "2056 -5104 -1616"
+"origin" "2120 -5232 -1616"
 }
 // entity 100
 {
 "classname" "rune_health"
-"origin" "2056 -5236 -1616"
+"origin" "2312 -4052 -1616"
 }
 // entity 101
 {
 "classname" "rune_radio"
-"origin" "2056 -5368 -1616"
+"origin" "2312 -4184 -1616"
 }
 // entity 102
 {
 "classname" "rune_switch"
-"origin" "2188 -4048 -1616"
+"origin" "2316 -4304 -1616"
 }
 // entity 103
 {
 "classname" "rune_icetrap"
-"origin" "2188 -4180 -1616"
+"origin" "2316 -4436 -1616"
 }
 // entity 104
 {
 "classname" "rune_gravity"
-"origin" "2188 -4312 -1616"
+"origin" "2316 -4568 -1616"
 }
 // entity 105
 {
 "classname" "rune_tele"
-"origin" "2188 -4444 -1616"
+"origin" "2316 -4700 -1616"
 }
 // entity 106
 {
 "classname" "rune_impact"
-"origin" "2188 -4576 -1616"
+"origin" "2316 -4832 -1616"
 }
 // entity 107
 {
 "classname" "rune_vengeance"
-"origin" "2188 -4708 -1616"
+"origin" "2316 -4964 -1616"
 }
 // entity 108
 {
 "classname" "rune_shubhat"
-"origin" "2188 -4840 -1616"
+"origin" "2316 -5096 -1616"
 }
 // entity 109
 {
 "classname" "rune_repulsion"
-"origin" "2188 -4972 -1616"
+"origin" "2316 -5228 -1616"
 }
 // entity 110
 {
 "classname" "rune_phasing"
-"origin" "2188 -5104 -1616"
+"origin" "2508 -4048 -1616"
 }
 // entity 111
 {
 "classname" "rune_shambler"
-"origin" "2188 -5236 -1616"
+"origin" "2508 -4180 -1616"
 }
 // entity 112
 {
 "classname" "rune_dualrecall"
-"origin" "2188 -5368 -1616"
+"origin" "2508 -4312 -1616"
 }
 // entity 113
 {
 "classname" "rune_weirdness"
-"origin" "2320 -4048 -1616"
+"origin" "2512 -4432 -1616"
 }
 // entity 114
 {
 "classname" "rune_phoenix"
-"origin" "2320 -4180 -1616"
+"origin" "2512 -4564 -1616"
 }
 // entity 115
 {
 "classname" "rune_spikecloud"
-"origin" "2320 -4312 -1616"
+"origin" "2512 -4696 -1616"
 }
 // entity 116
 {
 "classname" "rune_firewalk"
-"origin" "2320 -4444 -1616"
+"origin" "2512 -4828 -1616"
 }
 // entity 117
 {
 "classname" "rune_grapple"
-"origin" "2320 -4576 -1616"
+"origin" "2512 -4960 -1616"
 }
 // entity 118
 {
 "classname" "rune_athletic"
-"origin" "2320 -4708 -1616"
+"origin" "2512 -5092 -1616"
 }
 // entity 119
 {
 "classname" "rune_lumberjack"
-"origin" "2320 -4840 -1616"
+"origin" "2512 -5224 -1616"
 }
 // entity 120
 {
 "classname" "rune_houngan"
-"origin" "2320 -4972 -1616"
+"origin" "2704 -4044 -1616"
 }
 // entity 121
 {
 "classname" "rune_piercing"
-"origin" "2320 -5104 -1616"
+"origin" "2704 -4176 -1616"
 }
 // entity 122
 {
 "classname" "rune_preserve"
-"origin" "2320 -5236 -1616"
+"origin" "2704 -4308 -1616"
 }
 // entity 123
 {
 "classname" "rune_zenmonk"
-"origin" "2320 -5368 -1616"
+"origin" "2704 -4440 -1616"
 }
 // entity 124
 {
 "classname" "rune_torch"
-"origin" "2452 -4048 -1616"
+"origin" "2708 -4560 -1616"
 }
 // entity 125
 {
 "classname" "rune_packrat"
-"origin" "2452 -4180 -1616"
+"origin" "2708 -4692 -1616"
 }
 // entity 126
 {
 "classname" "rune_armor"
-"origin" "2452 -4312 -1616"
+"origin" "2708 -4824 -1616"
 }
 // entity 127
 {
 "classname" "rune_quad"
-"origin" "2452 -4444 -1616"
+"origin" "2708 -4956 -1616"
 }
 // entity 128
 {
 "classname" "rune_jack"
-"origin" "2452 -4576 -1616"
+"origin" "2708 -5088 -1616"
 }
 // entity 129
 {
 "classname" "rune_bluegoo"
-"origin" "2452 -4708 -1616"
+"origin" "2708 -5220 -1616"
 }
 // entity 130
 {
 "classname" "rune_blizzard"
-"origin" "2452 -4840 -1616"
+"origin" "2900 -4040 -1616"
 }
 // entity 131
 {
 "classname" "rune_thor"
-"origin" "2452 -4972 -1616"
+"origin" "2900 -4172 -1616"
 }
 // entity 132
 {
 "classname" "rune_sniper"
-"origin" "2452 -5104 -1616"
+"origin" "2900 -4304 -1616"
 }
 // entity 133
 {
 "classname" "rune_antipack"
-"origin" "2452 -5236 -1616"
+"origin" "2900 -4436 -1616"
 }
 // entity 134
 {
 "classname" "rune_antitele"
-"origin" "2452 -5368 -1616"
+"origin" "2900 -4568 -1616"
 }
 // entity 135
 {
 "classname" "rune_cluster"
-"origin" "2584 -4048 -1616"
+"origin" "2904 -4688 -1616"
 }
 // entity 136
 {
 "classname" "rune_tornado"
-"origin" "2584 -4180 -1616"
+"origin" "2904 -4820 -1616"
 }
 // entity 137
 {
 "classname" "rune_requiem"
-"origin" "2584 -4312 -1616"
+"origin" "2904 -4952 -1616"
 }
 // entity 138
 {
 "classname" "rune_lithium"
-"origin" "2584 -4444 -1616"
+"origin" "2904 -5084 -1616"
 }
 // entity 139
 {
@@ -1127,4 +1154,84 @@
 "classname" "info_player_start"
 "origin" "1552 -3920 -1560"
 "angles" "0 90 0"
+}
+// entity 144
+{
+"classname" "weapon_flamethrower"
+"origin" "1640 -1528 -1584"
+}
+// entity 145
+{
+"classname" "ammo_fame"
+"origin" "1936 -1712 -1584"
+}
+// entity 146
+{
+"classname" "weapon_oa_bfg"
+"origin" "2832 -2960 -1584"
+}
+// entity 147
+{
+"classname" "weapon_oa_gauntlet"
+"origin" "2832 -2832 -1584"
+}
+// entity 148
+{
+"classname" "weapon_oa_grapplinghook"
+"origin" "2832 -2704 -1584"
+}
+// entity 149
+{
+"classname" "weapon_oa_grenadelauncher"
+"origin" "2832 -2576 -1584"
+}
+// entity 150
+{
+"classname" "weapon_oa_lightning"
+"origin" "2832 -2448 -1584"
+}
+// entity 151
+{
+"classname" "weapon_oa_machinegun"
+"origin" "2832 -2320 -1584"
+}
+// entity 152
+{
+"classname" "weapon_oa_plasmagun"
+"origin" "2832 -2192 -1584"
+}
+// entity 153
+{
+"classname" "weapon_oa_railgun"
+"origin" "2832 -1936 -1584"
+}
+// entity 154
+{
+"classname" "weapon_oa_rocketlauncher"
+"origin" "2832 -2064 -1584"
+}
+// entity 155
+{
+"classname" "weapon_oa_shotgun"
+"origin" "2832 -1808 -1584"
+}
+// entity 156
+{
+"classname" "weapon_prox_launcher"
+"origin" "1640 -1400 -1584"
+}
+// entity 157
+{
+"classname" "weapon_prox_launcher"
+"origin" "1640 -1400 -1584"
+}
+// entity 158
+{
+"classname" "weapon_chaingun"
+"origin" "1640 -1272 -1584"
+}
+// entity 159
+{
+"classname" "weapon_nailgun"
+"origin" "1640 -1144 -1584"
 }

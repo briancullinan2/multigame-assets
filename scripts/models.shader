@@ -3268,43 +3268,46 @@ models/powerups/ammo/bfgammo2
   }
 
 }
-//models/powerups/ammo/bounammo1
-//{
-  //	{
-    //		map models/powerups/ammo/bounammo1.tga
-    //		rgbGen lightingDiffuse
-  //	}
-//}
-//models/powerups/ammo/bounammo2
-//{
-  //	{
-    //		map models/powerups/ammo/bounammo2.tga
-    //		rgbGen lightingDiffuse
-  //	}
-  //	{
-    //		map models/powerups/ammo/bounammo2.glow.tga
-    //		blendfunc GL_ONE GL_ONE
-    //		rgbGen lightingDiffuse
-  //	}
-//}
-//models/powerups/ammo/flamammo1
-//{
-  //	{
-    //		map models/powerups/ammo/flamammo1.tga
-    //		rgbGen lightingDiffuse
-  //	}
-//}
-//models/powerups/ammo/flamammo2
-//{
-  //	{
-    //		map models/powerups/ammo/flamammo2.tga
-    //		rgbGen lightingDiffuse
-  //	}
-  //	{
-    //		map models/powerups/ammo/flamammo2.glow.tga
-    //		blendfunc GL_ONE GL_ONE
-  //	}
-//}
+models/powerups/ammo/bounammo1
+{
+  {
+    map models/powerups/ammo/bounammo1.tga
+    rgbGen lightingDiffuse
+  }
+}
+models/powerups/ammo/bounammo2
+{
+  {
+    map models/powerups/ammo/bounammo2.tga
+    rgbGen lightingDiffuse
+  }
+  {
+    map models/powerups/ammo/bounammo2.glow.tga
+    blendfunc GL_ONE GL_ONE
+    rgbGen lightingDiffuse
+  }
+}
+models/powerups/ammo/flamammo1
+{
+  {
+    map models/powerups/ammo/flamammo1.tga
+    rgbGen lightingDiffuse
+  }
+}
+models/powerups/ammo/flamammo
+{
+  {
+    map textures/effects/tinfx2d.tga
+    tcGen environment
+    blendfunc GL_ONE GL_ZERO
+    rgbGen identity
+  }
+  {
+    map models/powerups/ammo/flamammo.tga
+    blendfunc blend
+    rgbGen lightingDiffuse
+  }
+}
 models/powerups/ammo/grenammo
 {
   {
