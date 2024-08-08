@@ -1235,3 +1235,58 @@
 "classname" "weapon_nailgun"
 "origin" "1640 -1144 -1584"
 }
+// entity 160
+{
+"classname" "weapon_qc_icebeam"
+"origin" "3152 -3088 -1584"
+}
+// entity 161
+{
+"classname" "weapon_qc_crossbow"
+"origin" "3152 -2960 -1584"
+}
+// entity 162
+{
+"classname" "weapon_qc_nailgun"
+"origin" "3152 -2832 -1584"
+}
+// entity 163
+{
+"classname" "weapon_qc_trespasser"
+"origin" "3152 -2704 -1584"
+}
+// entity 164
+{
+"classname" "weapon_qc_lightning"
+"origin" "3152 -2448 -1584"
+}
+// entity 165
+{
+"classname" "weapon_qc_annihilator"
+"origin" "3152 -2320 -1584"
+}
+// entity 166
+{
+"classname" "weapon_qc_frostgun"
+"origin" "3152 -2192 -1584"
+}
+// entity 167
+{
+"classname" "weapon_qc_railgun"
+"origin" "3152 -1936 -1584"
+}
+// entity 168
+{
+"classname" "weapon_qc_peacemaker"
+"origin" "3152 -2064 -1584"
+}
+// entity 169
+{
+"classname" "weapon_qc_bitterman"
+"origin" "3152 -1808 -1584"
+}
+// entity 170
+{
+"classname" "weapon_qc_incinerator"
+"origin" "3152 -2576 -1584"
+}
