@@ -1290,3 +1290,8 @@
 "classname" "weapon_qc_incinerator"
 "origin" "3152 -2576 -1584"
 }
+// entity 171
+{
+"classname" "weapon_qc_thunderbolt"
+"origin" "3152 -1680 -1584"
+}

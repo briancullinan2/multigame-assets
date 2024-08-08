@@ -171,7 +171,7 @@ models/weapons4/shotgun/sg_bitterman
   }
   {
     map models/weapons4/shotgun/sg_bitterman_diffuse.tga
-    blendFunc blend
+    blendFunc filter
     rgbGen lightingdiffuse
   }
   {
@@ -193,7 +193,7 @@ models/weapons4/shotgun/sg_trespasser
   }
   {
     map models/weapons4/shotgun/sg_trespasser_diffuse.tga
-    blendFunc blend
+    blendFunc filter
     rgbGen lightingdiffuse
   }
   // {
@@ -216,7 +216,7 @@ models/weapons4/lightning/lg_icebeam
   }
   {
     map models/weapons4/lightning/lg_icebeam_diffuse.tga
-    blendFunc blend
+    blendFunc filter
     rgbGen lightingdiffuse
   }
   {
@@ -230,17 +230,17 @@ models/weapons4/lightning/lg_icebeam
 
 models/weapons4/railgun/rg_malediction
 {
-  {
-    map models/weapons4/railgun/rg_malediction_gloss.tga
-  }
+  // {
+  //   map models/weapons4/railgun/rg_malediction_gloss.tga
+  // }
   {
     map models/weapons4/railgun/rg_malediction_metal.tga
-    blendFunc filter
+    tcGen environment
     blendfunc GL_ONE GL_ZERO
   }
   {
     map models/weapons4/railgun/rg_malediction_diffuse.tga
-    blendFunc blend
+    blendFunc filter
     rgbGen lightingdiffuse
   }
   {
@@ -252,3 +252,26 @@ models/weapons4/railgun/rg_malediction
 
 
 //-scale 0.001 -rotate 180 0 0 -posoffset 8 8 0 -notex
+
+models/weapons4/lightning/lg_thunderbolt
+{
+  {
+    map models/weapons4/lightning/lg_thunderbolt_ao.tga
+  }
+  {
+    map models/weapons4/lightning/lg_thunderbolt_metal.tga
+    blendFunc filter
+    blendfunc GL_ONE GL_ZERO
+  }
+  {
+    map models/weapons4/lightning/lg_thunderbolt_diffuse.tga
+    blendFunc filter
+    rgbGen lightingdiffuse
+  }
+  // {
+  //   map models/weapons4/lightning/lg_thunderbolt_glow.tga
+  //   blendfunc add
+  //   rgbGen wave sin .2 .2 0 2
+  // }
+}
+
