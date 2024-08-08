@@ -1441,3 +1441,463 @@
 "classname" "holdable_earth_vengeance"
 "origin" "-2000 -2912 -1584"
 }
+// entity 203
+{
+"classname" "item_doom_armor_body"
+"origin" "-1680 -4304 -1584"
+}
+// entity 204
+{
+"classname" "item_doom_armor_combat"
+"origin" "-1680 -4432 -1584"
+}
+// entity 205
+{
+"classname" "item_doom_armor_shard"
+"origin" "-1680 -4560 -1584"
+}
+// entity 206
+{
+"classname" "weapon_doom_bfg"
+"origin" "-1360 -5136 -1584"
+}
+// entity 207
+{
+"classname" "weapon_doom_gauntlet"
+"origin" "-1360 -5008 -1584"
+}
+// entity 208
+{
+"classname" "weapon_doom_grenadelauncher"
+"origin" "-1360 -4880 -1584"
+}
+// entity 209
+{
+"classname" "weapon_doom_lightning"
+"origin" "-1360 -4752 -1584"
+}
+// entity 210
+{
+"classname" "weapon_doom_machinegun"
+"origin" "-1360 -4624 -1584"
+}
+// entity 211
+{
+"classname" "weapon_doom_plasmagun"
+"origin" "-1360 -4496 -1584"
+}
+// entity 212
+{
+"classname" "weapon_doom_rocketlauncher"
+"origin" "-1360 -4368 -1584"
+}
+// entity 213
+{
+"classname" "weapon_doom_shotgun"
+"origin" "-1360 -4112 -1584"
+}
+// entity 214
+{
+"classname" "item_doom_enviro"
+"origin" "-2000 -3920 -1584"
+}
+// entity 215
+{
+"classname" "item_doom_flight"
+"origin" "-2000 -4976 -1584"
+}
+// entity 216
+{
+"classname" "item_doom_haste"
+"origin" "-2000 -4096 -1584"
+}
+// entity 217
+{
+"classname" "item_doom_health"
+"origin" "-1680 -4816 -1584"
+}
+// entity 218
+{
+"classname" "item_doom_health_small"
+"origin" "-1680 -4688 -1584"
+}
+// entity 219
+{
+"classname" "item_doom_health_mega"
+"origin" "-1680 -5072 -1584"
+}
+// entity 220
+{
+"classname" "item_doom_invis"
+"origin" "-2000 -4304 -1584"
+}
+// entity 221
+{
+"classname" "item_doom_quad"
+"origin" "-2000 -4528 -1584"
+}
+// entity 222
+{
+"classname" "item_doom_regen"
+"origin" "-2000 -4736 -1584"
+}
+// entity 223
+{
+"classname" "item_doom_health_large"
+"origin" "-1680 -4944 -1584"
+}
+// entity 224
+{
+"classname" "holdable_doom_medkit"
+"origin" "-2000 -5344 -1584"
+}
+// entity 225
+{
+"classname" "ammo_doom_bfg"
+"origin" "-1008 -4176 -1584"
+}
+// entity 226
+{
+"classname" "ammo_doom_bullets"
+"origin" "-1008 -5296 -1584"
+}
+// entity 227
+{
+"classname" "ammo_doom_cells"
+"origin" "-1008 -4336 -1584"
+}
+// entity 228
+{
+"classname" "ammo_doom_grenades"
+"origin" "-1008 -4496 -1584"
+}
+// entity 229
+{
+"classname" "ammo_doom_lightning"
+"origin" "-1008 -4656 -1584"
+}
+// entity 230
+{
+"classname" "ammo_doom_rockets"
+"origin" "-1008 -4816 -1584"
+}
+// entity 231
+{
+"classname" "ammo_doom_shells"
+"origin" "-1008 -4976 -1584"
+}
+// entity 232
+{
+"classname" "ammo_doom_slugs"
+"origin" "-1008 -5136 -1584"
+}
+// entity 233
+{
+"classname" "holdable_earth_vengeance"
+"origin" "-2000 -5152 -1584"
+}
+// entity 234
+{
+"classname" "item_strogg_armor_body"
+"origin" "-4048 -2064 -1584"
+}
+// entity 235
+{
+"classname" "item_strogg_armor_combat"
+"origin" "-4048 -2192 -1584"
+}
+// entity 236
+{
+"classname" "item_strogg_armor_shard"
+"origin" "-4048 -2320 -1584"
+}
+// entity 237
+{
+"classname" "weapon_strogg_bfg"
+"origin" "-3728 -2896 -1584"
+}
+// entity 238
+{
+"classname" "weapon_strogg_gauntlet"
+"origin" "-3728 -2768 -1584"
+}
+// entity 239
+{
+"classname" "weapon_strogg_grenadelauncher"
+"origin" "-3728 -2640 -1584"
+}
+// entity 240
+{
+"classname" "weapon_strogg_lightning"
+"origin" "-3728 -2512 -1584"
+}
+// entity 241
+{
+"classname" "weapon_strogg_machinegun"
+"origin" "-3728 -2384 -1584"
+}
+// entity 242
+{
+"classname" "weapon_strogg_plasmagun"
+"origin" "-3728 -2256 -1584"
+}
+// entity 243
+{
+"classname" "weapon_strogg_railgun"
+"origin" "-3728 -2000 -1584"
+}
+// entity 244
+{
+"classname" "weapon_strogg_rocketlauncher"
+"origin" "-3728 -2128 -1584"
+}
+// entity 245
+{
+"classname" "weapon_strogg_shotgun"
+"origin" "-3728 -1872 -1584"
+}
+// entity 246
+{
+"classname" "item_strogg_enviro"
+"origin" "-4368 -1680 -1584"
+}
+// entity 247
+{
+"classname" "item_strogg_flight"
+"origin" "-4368 -2736 -1584"
+}
+// entity 248
+{
+"classname" "item_strogg_haste"
+"origin" "-4368 -1856 -1584"
+}
+// entity 249
+{
+"classname" "item_strogg_health"
+"origin" "-4048 -2576 -1584"
+}
+// entity 250
+{
+"classname" "item_strogg_health_small"
+"origin" "-4048 -2448 -1584"
+}
+// entity 251
+{
+"classname" "item_strogg_health_mega"
+"origin" "-4048 -2832 -1584"
+}
+// entity 252
+{
+"classname" "item_strogg_invis"
+"origin" "-4368 -2064 -1584"
+}
+// entity 253
+{
+"classname" "item_strogg_quad"
+"origin" "-4368 -2288 -1584"
+}
+// entity 254
+{
+"classname" "item_strogg_regen"
+"origin" "-4368 -2496 -1584"
+}
+// entity 255
+{
+"classname" "item_strogg_health_large"
+"origin" "-4048 -2704 -1584"
+}
+// entity 256
+{
+"classname" "holdable_strogg_medkit"
+"origin" "-4368 -3104 -1584"
+}
+// entity 257
+{
+"classname" "ammo_strogg_bfg"
+"origin" "-3376 -1936 -1584"
+}
+// entity 258
+{
+"classname" "ammo_strogg_bullets"
+"origin" "-3376 -3056 -1584"
+}
+// entity 259
+{
+"classname" "ammo_strogg_cells"
+"origin" "-3376 -2096 -1584"
+}
+// entity 260
+{
+"classname" "ammo_strogg_grenades"
+"origin" "-3376 -2256 -1584"
+}
+// entity 261
+{
+"classname" "ammo_strogg_lightning"
+"origin" "-3376 -2416 -1584"
+}
+// entity 262
+{
+"classname" "ammo_strogg_rockets"
+"origin" "-3376 -2576 -1584"
+}
+// entity 263
+{
+"classname" "ammo_strogg_shells"
+"origin" "-3376 -2736 -1584"
+}
+// entity 264
+{
+"classname" "ammo_strogg_slugs"
+"origin" "-3376 -2896 -1584"
+}
+// entity 265
+{
+"classname" "holdable_strogg_vengeance"
+"origin" "-4368 -2912 -1584"
+}
+// entity 266
+{
+"classname" "item_slip_armor_body"
+"origin" "-4048 -4176 -1584"
+}
+// entity 267
+{
+"classname" "item_slip_armor_combat"
+"origin" "-4048 -4304 -1584"
+}
+// entity 268
+{
+"classname" "item_slip_armor_shard"
+"origin" "-4048 -4560 -1584"
+}
+// entity 269
+{
+"classname" "weapon_slip_axe"
+"origin" "-3728 -5008 -1584"
+}
+// entity 270
+{
+"classname" "weapon_slip_grenadelauncher"
+"origin" "-3728 -4880 -1584"
+}
+// entity 271
+{
+"classname" "weapon_slip_lightning"
+"origin" "-3728 -4752 -1584"
+}
+// entity 272
+{
+"classname" "weapon_slip_machinegun"
+"origin" "-3728 -4624 -1584"
+}
+// entity 273
+{
+"classname" "weapon_slip_nailgun"
+"origin" "-3728 -4496 -1584"
+}
+// entity 274
+{
+"classname" "weapon_slip_rocketlauncher"
+"origin" "-3728 -4368 -1584"
+}
+// entity 275
+{
+"classname" "weapon_slip_shotgun"
+"origin" "-3728 -4240 -1584"
+}
+// entity 276
+{
+"classname" "item_slip_enviro"
+"origin" "-4368 -3920 -1584"
+}
+// entity 277
+{
+"classname" "item_slip_flight"
+"origin" "-4368 -4976 -1584"
+}
+// entity 278
+{
+"classname" "item_slip_haste"
+"origin" "-4368 -4096 -1584"
+}
+// entity 279
+{
+"classname" "item_slip_health"
+"origin" "-4048 -4816 -1584"
+}
+// entity 280
+{
+"classname" "item_slip_health_small"
+"origin" "-4048 -4688 -1584"
+}
+// entity 281
+{
+"classname" "item_slip_health_mega"
+"origin" "-4048 -5072 -1584"
+}
+// entity 282
+{
+"classname" "item_slip_invis"
+"origin" "-4368 -4304 -1584"
+}
+// entity 283
+{
+"classname" "item_slip_quad"
+"origin" "-4368 -4528 -1584"
+}
+// entity 284
+{
+"classname" "item_slip_regen"
+"origin" "-4368 -4736 -1584"
+}
+// entity 285
+{
+"classname" "item_slip_health_large"
+"origin" "-4048 -4944 -1584"
+}
+// entity 286
+{
+"classname" "holdable_slip_medkit"
+"origin" "-4368 -5216 -1584"
+}
+// entity 287
+{
+"classname" "ammo_slip_bullets"
+"origin" "-3376 -5168 -1584"
+}
+// entity 288
+{
+"classname" "ammo_slip_nails"
+"origin" "-3376 -4336 -1584"
+}
+// entity 289
+{
+"classname" "ammo_slip_grenades"
+"origin" "-3376 -4496 -1584"
+}
+// entity 290
+{
+"classname" "ammo_slip_lightning"
+"origin" "-3376 -4656 -1584"
+}
+// entity 291
+{
+"classname" "ammo_slip_rockets"
+"origin" "-3376 -4816 -1584"
+}
+// entity 292
+{
+"classname" "ammo_slip_shells"
+"origin" "-3376 -4976 -1584"
+}
+// entity 293
+{
+"classname" "weapon_doom_railgun"
+"origin" "-1360 -4240 -1584"
+}
+// entity 294
+{
+"classname" "item_slip_armor"
+"origin" "-4048 -4432 -1584"
+}

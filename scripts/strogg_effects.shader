@@ -960,28 +960,28 @@ stroggexplode2
 
 // ITEMS/POWERUPS
 
-models/powerups/armor/strogg_body_armor
+models/powerups5/armor/strogg_body_armor
 {
 	{
-	map models/powerups/armor/strogg_body_armor.tga
+	map models/powerups5/armor/strogg_body_armor.tga
 	rgbGen lightingdiffuse
 	}
 	{
-	map models/powerups/armor/strogg_body_glow1.jpg
+	map models/powerups5/armor/strogg_body_glow1.jpg
 	blendFunc GL_ONE GL_ONE
 	rgbGen wave sin 0.5 0.4 0.25 0.5
 	}
 	{
-	map models/powerups/armor/strogg_body_glow2.jpg
+	map models/powerups5/armor/strogg_body_glow2.jpg
 	blendFunc GL_ONE GL_ONE
 	rgbGen wave sin 0.5 0.3 0.25 0.5
 	}
 }
 
-models/powerups/holdable/adrenaline
+models/powerups5/holdable/adrenaline
 {
 	{
-	map models/powerups/holdable/adrenaline.jpg
+	map models/powerups5/holdable/adrenaline.jpg
 	rgbGen lightingdiffuse
 	}
 	{
@@ -994,7 +994,7 @@ models/powerups/holdable/adrenaline
 Adrenaline_glow
 {
 	{
-	map models/powerups/holdable/adrenaline_parts.jpg
+	map models/powerups5/holdable/adrenaline_parts.jpg
 	rgbGen lightingdiffuse
 	}
 	{
@@ -1003,7 +1003,7 @@ Adrenaline_glow
 	rgbGen wave sin 0.3 0.3 0.25 1.2
 	}
 	{
-	map models/powerups/holdable/adrenaline_glow.jpg
+	map models/powerups5/holdable/adrenaline_glow.jpg
 	blendFunc GL_ONE GL_ONE
 	rgbGen wave sin 0.6 0.4 0.25 0.5
 	}
