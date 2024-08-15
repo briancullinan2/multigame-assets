@@ -22,6 +22,53 @@ models/weapons4/lightning/lg_conductor
   }
 }
 
+models/weapons4/lightning/lg_conductor_2
+{
+  {
+    map models/weapons4/lightning/lg_conductor_metal.tga
+    tcGen environment
+    blendfunc GL_ONE GL_ZERO
+  }
+  {
+    map models/weapons4/lightning/lg_conductor_gradient.tga
+    blendfunc add
+    rgbGen wave sin .2 .2 0 2
+  }
+  {
+    map models/weapons4/lightning/lg_conductor_diffuse.tga
+    blendFunc filter
+    rgbGen lightingdiffuse
+  }
+  {
+    map models/weapons4/lightning/lg_conductor_glow.tga
+    blendFunc GL_ONE GL_ONE
+  }
+}
+
+
+models/weapons4/lightning/lg_conductor_fx_00
+{
+  {
+    map models/weapons4/lightning/lg_conductor_metal.tga
+    tcGen environment
+    blendfunc GL_ONE GL_ZERO
+  }
+  {
+    map models/weapons4/lightning/lg_conductor_gradient.tga
+    blendfunc add
+    rgbGen wave sin .2 .2 0 2
+  }
+  {
+    map models/weapons4/lightning/lg_conductor_diffuse.tga
+    blendFunc filter
+    rgbGen lightingdiffuse
+  }
+  {
+    map models/weapons4/lightning/lg_conductor_glow.tga
+    blendFunc GL_ONE GL_ONE
+  }
+}
+
 
 models/weapons4/lightning/lg_incinerator
 {
@@ -206,12 +253,12 @@ models/weapons4/shotgun/sg_trespasser
 
 models/weapons4/lightning/lg_icebeam
 {
-  {
-    map models/weapons4/lightning/lg_icebeam_gloss.tga
-  }
+  // {
+  //   map models/weapons4/lightning/lg_icebeam_gloss.tga
+  // }
   {
     map models/weapons4/lightning/lg_icebeam_metal.tga
-    blendFunc filter
+    tcGen environment
     blendfunc GL_ONE GL_ZERO
   }
   {
@@ -265,6 +312,57 @@ models/weapons4/lightning/lg_thunderbolt
   }
   {
     map models/weapons4/lightning/lg_thunderbolt_diffuse.tga
+    blendFunc filter
+    rgbGen lightingdiffuse
+  }
+  // {
+  //   map models/weapons4/lightning/lg_thunderbolt_glow.tga
+  //   blendfunc add
+  //   rgbGen wave sin .2 .2 0 2
+  // }
+}
+
+rl_original
+{
+  {
+    map models/weapons4/rl/rl_original_metal.tga
+  }
+  {
+    map models/weapons4/rl/rl_original_diffuse.tga
+    blendFunc filter
+    rgbGen lightingdiffuse
+  }
+  // {
+  //   map models/weapons4/lightning/lg_thunderbolt_glow.tga
+  //   blendfunc add
+  //   rgbGen wave sin .2 .2 0 2
+  // }
+}
+
+models/weapons4/rl/rl_original
+{
+  {
+    map models/weapons4/rl/rl_original_metal.tga
+  }
+  {
+    map models/weapons4/rl/rl_original_diffuse.tga
+    blendFunc filter
+    rgbGen lightingdiffuse
+  }
+  // {
+  //   map models/weapons4/lightning/lg_thunderbolt_glow.tga
+  //   blendfunc add
+  //   rgbGen wave sin .2 .2 0 2
+  // }
+}
+
+models/weapons4/rl/rocketlarl_original
+{
+  {
+    map models/weapons4/rl/rl_original_ao.tga
+  }
+  {
+    map models/weapons4/rl/rl_original_diffuse.tga
     blendFunc filter
     rgbGen lightingdiffuse
   }

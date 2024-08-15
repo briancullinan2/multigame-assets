@@ -1,0 +1,28 @@
+// Game: Quake 3
+// Format: Quake3 (legacy)
+// entity 0
+{
+"classname" "worldspawn"
+"_tb_mod" "pak0.pk3dir;pak90.pk3dir;pak91.pk3dir;pak99.pk3dir"
+"_tb_textures" "textures/monaco"
+// brush 0
+{
+( -9808 6080 104 ) ( -9808 -4096 104 ) ( -9808 -4096 88 ) monaco/track_map 1280 832 0 8 8
+( -9808 -4096 104 ) ( 5328 -4096 104 ) ( 5328 -4096 88 ) monaco/track_map 1280 832 0 8 8
+( 5328 -4096 88 ) ( 5328 6080 88 ) ( -9808 6080 88 ) monaco/track_map 1280 832 0 8 8
+( -9808 6080 104 ) ( 5328 6080 104 ) ( 5328 -4096 104 ) monaco/track_map 1280 832 0 8 8
+( 5328 6080 88 ) ( 5328 6080 104 ) ( -9808 6080 104 ) monaco/track_map 1280 832 0 8 8
+( 5328 -4096 104 ) ( 5328 6080 104 ) ( 5328 6080 88 ) monaco/track_map 1280 832 0 8 8
+}
+}
+// entity 1
+{
+"classname" "target_position"
+"origin" "-5792 2880 160"
+"message" "Sainte Devote"
+}
+// entity 2
+{
+"classname" "info_player_start"
+"origin" "-5872 2896 128"
+}

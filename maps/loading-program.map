@@ -1861,3 +1861,8 @@
 "classname" "weapon_strogg_grapple"
 "origin" "-3728 -3024 -1584"
 }
+// entity 287
+{
+"classname" "weapon_qc_original"
+"origin" "3152 -3216 -1584"
+}
