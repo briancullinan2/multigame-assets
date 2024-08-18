@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"_tb_mod" "pak0.pk3dir;pak99.pk3dir"
+"_tb_mod" "pak0.pk3dir;pak99.pk3dir;pak91.pk3dir"
 "_tb_textures" "textures/base_floor;textures/base_wall;textures/common;textures/house6;textures/sfx;textures/skies;textures/skies2;textures/terrain;textures/trees;textures/urban_floors;textures/urban_ground;textures/urban_terror;textures/urban_terror2"
 "_playerscale" "2.0"
 // brush 0
@@ -4439,6 +4439,7 @@
 // entity 90
 {
 "classname" "func_rotating"
+"speed" "500"
 // brush 0
 {
 ( -2880 1280 -1152 ) ( -2880 1280 -1088 ) ( -3584 576 -1088 ) house6/Granite_Dark_Gray 0 0 0 0.5 0.5
@@ -4460,7 +4461,7 @@
 // entity 91
 {
 "classname" "func_rotating"
-"speed" "-100"
+"speed" "-300"
 // brush 0
 {
 ( -3584 1344 -1088 ) ( -3584 1344 -1024 ) ( -2880 640 -1024 ) house6/Granite_Dark_Gray -128 128 0 0.5 0.5
@@ -4700,4 +4701,25 @@
 "targetname" "camera3"
 "spawnflags" "4"
 "angles" "0 90 0"
+}
+// entity 106
+{
+"classname" "misc_model"
+"origin" "-2272 1840 -2368"
+"model" "maps/weatherford-main.obj"
+"spawnflags" "2"
+}
+// entity 107
+{
+"classname" "misc_model"
+"origin" "-2496 -368 -2368"
+"model" "maps/weatherford-guest.obj"
+"spawnflags" "2"
+}
+// entity 108
+{
+"classname" "misc_model"
+"origin" "-3632 -752 -2432"
+"model" "maps/weatherford-garage.obj"
+"spawnflags" "2"
 }

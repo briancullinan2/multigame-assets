@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"_tb_mod" "pak0.pk3dir;pak1.pk3dir;pak90.pk3dir;pak99.pk3dir;curry.pk3dir;common-spog.pk3dir;common-q3map2.pk3dir"
+"_tb_mod" "pak0.pk3dir;pak1.pk3dir;pak90.pk3dir;pak99.pk3dir;curry.pk3dir;common-spog.pk3dir;common-q3map2.pk3dir;pak91.pk3dir"
 "_tb_textures" "textures/common;textures/effects;textures/liquids;textures/liquids2;textures/sfx;textures/sfx2;textures/skies;textures/skies2"
 // brush 0
 {
@@ -34,30 +34,30 @@
 }
 // brush 3
 {
-( -22384 17488 1792 ) ( -22384 -19840 1792 ) ( -22384 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
+( -22384 18576 1792 ) ( -22384 -19840 1792 ) ( -22384 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
 ( -22384 -19840 1792 ) ( -22352 -19840 1792 ) ( -22352 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
-( -22352 -19840 -1888 ) ( -22352 17488 -1888 ) ( -22384 17488 -1888 ) __TB_empty 0 0 90 0.5 -0.5
-( -22384 17488 1792 ) ( -22352 17488 1792 ) ( -22352 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
-( -22352 17488 -1888 ) ( -22352 17488 1792 ) ( -22384 17488 1792 ) __TB_empty 0 0 270 0.5 0.5
-( -22352 -19840 1792 ) ( -22352 17488 1792 ) ( -22352 17488 -1888 ) skies2/nebula2 0 0 270 0.5 0.5
+( -22352 -19840 -1888 ) ( -22352 18576 -1888 ) ( -22384 18576 -1888 ) __TB_empty 0 0 90 0.5 -0.5
+( -22384 18576 1792 ) ( -22352 18576 1792 ) ( -22352 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
+( -22352 18576 -1888 ) ( -22352 18576 1792 ) ( -22384 18576 1792 ) __TB_empty 0 0 270 0.5 0.5
+( -22352 -19840 1792 ) ( -22352 18576 1792 ) ( -22352 18576 -1888 ) skies2/nebula2 0 0 270 0.5 0.5
 }
 // brush 4
 {
-( 25136 17488 1792 ) ( 25136 -19840 1792 ) ( 25136 -19840 -1888 ) skies2/nebula2 0 0 270 0.5 0.5
+( 25136 18576 1792 ) ( 25136 -19840 1792 ) ( 25136 -19840 -1888 ) skies2/nebula2 0 0 270 0.5 0.5
 ( 25136 -19840 1792 ) ( 25168 -19840 1792 ) ( 25168 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
-( 25168 -19840 -1888 ) ( 25168 17488 -1888 ) ( 25136 17488 -1888 ) __TB_empty 0 0 90 0.5 -0.5
-( 25136 17488 1792 ) ( 25168 17488 1792 ) ( 25168 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
-( 25168 17488 -1888 ) ( 25168 17488 1792 ) ( 25136 17488 1792 ) __TB_empty 0 0 270 0.5 0.5
-( 25168 -19840 1792 ) ( 25168 17488 1792 ) ( 25168 17488 -1888 ) __TB_empty 0 0 270 0.5 0.5
+( 25168 -19840 -1888 ) ( 25168 18576 -1888 ) ( 25136 18576 -1888 ) __TB_empty 0 0 90 0.5 -0.5
+( 25136 18576 1792 ) ( 25168 18576 1792 ) ( 25168 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
+( 25168 18576 -1888 ) ( 25168 18576 1792 ) ( 25136 18576 1792 ) __TB_empty 0 0 270 0.5 0.5
+( 25168 -19840 1792 ) ( 25168 18576 1792 ) ( 25168 18576 -1888 ) __TB_empty 0 0 270 0.5 0.5
 }
 // brush 5
 {
-( -22384 17488 -1888 ) ( -22384 -19840 -1888 ) ( -22384 -19840 -1920 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 -1888 ) ( -22384 -19840 -1888 ) ( -22384 -19840 -1920 ) __TB_empty 0 0 0 0.5 0.5
 ( -22384 -19840 -1888 ) ( 25168 -19840 -1888 ) ( 25168 -19840 -1920 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 -1920 ) ( 25168 17488 -1920 ) ( -22384 17488 -1920 ) __TB_empty 0 0 0 0.5 0.5
-( -22384 17488 -1888 ) ( 25168 17488 -1888 ) ( 25168 -19840 -1888 ) skies2/nebula2 0 0 0 0.5 0.5
-( 25168 17488 -1920 ) ( 25168 17488 -1888 ) ( -22384 17488 -1888 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 -1888 ) ( 25168 17488 -1888 ) ( 25168 17488 -1920 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 -1920 ) ( 25168 18512 -1920 ) ( -22384 18512 -1920 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 -1888 ) ( 25168 18512 -1888 ) ( 25168 -19840 -1888 ) skies2/nebula2 0 0 0 0.5 0.5
+( 25168 18512 -1920 ) ( 25168 18512 -1888 ) ( -22384 18512 -1888 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 -1888 ) ( 25168 18512 -1888 ) ( 25168 18512 -1920 ) __TB_empty 0 0 0 0.5 0.5
 }
 // brush 6
 {
@@ -70,12 +70,12 @@
 }
 // brush 7
 {
-( -14240 17488 1792 ) ( -14240 -19840 1792 ) ( -14240 -19840 -1888 ) common/clip 0 0 270 0.5 0.5
+( -14240 18512 1792 ) ( -14240 -19840 1792 ) ( -14240 -19840 -1888 ) common/clip 0 0 270 0.5 0.5
 ( -14240 -19840 1792 ) ( -14208 -19840 1792 ) ( -14208 -19840 -1888 ) common/clip 0 0 270 0.5 0.5
-( -14208 -19840 -1888 ) ( -14208 17488 -1888 ) ( -14240 17488 -1888 ) common/clip 0 0 90 0.5 -0.5
-( -14240 17488 1792 ) ( -14208 17488 1792 ) ( -14208 -19840 1792 ) common/clip 0 0 90 0.5 -0.5
-( -14208 17488 -1888 ) ( -14208 17488 1792 ) ( -14240 17488 1792 ) common/clip 0 0 270 0.5 0.5
-( -14208 -19840 1792 ) ( -14208 17488 1792 ) ( -14208 17488 -1888 ) common/clip 0 0 270 0.5 0.5
+( -14208 -19840 -1888 ) ( -14208 18512 -1888 ) ( -14240 18512 -1888 ) common/clip 0 0 90 0.5 -0.5
+( -14240 18512 1792 ) ( -14208 18512 1792 ) ( -14208 -19840 1792 ) common/clip 0 0 90 0.5 -0.5
+( -14208 18512 -1888 ) ( -14208 18512 1792 ) ( -14240 18512 1792 ) common/clip 0 0 270 0.5 0.5
+( -14208 -19840 1792 ) ( -14208 18512 1792 ) ( -14208 18512 -1888 ) common/clip 0 0 270 0.5 0.5
 }
 // brush 8
 {
@@ -88,12 +88,12 @@
 }
 // brush 9
 {
-( 16528 17488 1792 ) ( 16528 -19840 1792 ) ( 16528 -19840 -1888 ) common/clip 0 0 270 0.5 0.5
+( 16528 18512 1792 ) ( 16528 -19840 1792 ) ( 16528 -19840 -1888 ) common/clip 0 0 270 0.5 0.5
 ( 16528 -19840 1792 ) ( 16560 -19840 1792 ) ( 16560 -19840 -1888 ) common/clip 0 0 270 0.5 0.5
-( 16560 -19840 -1888 ) ( 16560 17488 -1888 ) ( 16528 17488 -1888 ) common/clip 0 0 90 0.5 -0.5
-( 16528 17488 1792 ) ( 16560 17488 1792 ) ( 16560 -19840 1792 ) common/clip 0 0 90 0.5 -0.5
-( 16560 17488 -1888 ) ( 16560 17488 1792 ) ( 16528 17488 1792 ) common/clip 0 0 270 0.5 0.5
-( 16560 -19840 1792 ) ( 16560 17488 1792 ) ( 16560 17488 -1888 ) common/clip 0 0 270 0.5 0.5
+( 16560 -19840 -1888 ) ( 16560 18512 -1888 ) ( 16528 18512 -1888 ) common/clip 0 0 90 0.5 -0.5
+( 16528 18512 1792 ) ( 16560 18512 1792 ) ( 16560 -19840 1792 ) common/clip 0 0 90 0.5 -0.5
+( 16560 18512 -1888 ) ( 16560 18512 1792 ) ( 16528 18512 1792 ) common/clip 0 0 270 0.5 0.5
+( 16560 -19840 1792 ) ( 16560 18512 1792 ) ( 16560 18512 -1888 ) common/clip 0 0 270 0.5 0.5
 }
 // brush 10
 {
@@ -151,12 +151,12 @@
 }
 // brush 16
 {
-( 24880 17488 1792 ) ( 24880 -19840 1792 ) ( 24880 -19840 -1888 ) skies/portalfog 0 0 270 0.5 0.5
+( 24880 18576 1792 ) ( 24880 -19840 1792 ) ( 24880 -19840 -1888 ) skies/portalfog 0 0 270 0.5 0.5
 ( 24880 -19840 1792 ) ( 24912 -19840 1792 ) ( 24912 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
-( 24912 -19840 -1888 ) ( 24912 17488 -1888 ) ( 24880 17488 -1888 ) __TB_empty 0 0 90 0.5 -0.5
-( 24880 17488 1792 ) ( 24912 17488 1792 ) ( 24912 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
-( 24912 17488 -1888 ) ( 24912 17488 1792 ) ( 24880 17488 1792 ) __TB_empty 0 0 270 0.5 0.5
-( 24912 -19840 1792 ) ( 24912 17488 1792 ) ( 24912 17488 -1888 ) __TB_empty 0 0 270 0.5 0.5
+( 24912 -19840 -1888 ) ( 24912 18576 -1888 ) ( 24880 18576 -1888 ) __TB_empty 0 0 90 0.5 -0.5
+( 24880 18576 1792 ) ( 24912 18576 1792 ) ( 24912 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
+( 24912 18576 -1888 ) ( 24912 18576 1792 ) ( 24880 18576 1792 ) __TB_empty 0 0 270 0.5 0.5
+( 24912 -19840 1792 ) ( 24912 18576 1792 ) ( 24912 18576 -1888 ) __TB_empty 0 0 270 0.5 0.5
 }
 // brush 17
 {
@@ -169,30 +169,30 @@
 }
 // brush 18
 {
-( -22128 17488 1792 ) ( -22128 -19840 1792 ) ( -22128 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
+( -22128 18576 1792 ) ( -22128 -19840 1792 ) ( -22128 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
 ( -22128 -19840 1792 ) ( -22096 -19840 1792 ) ( -22096 -19840 -1888 ) __TB_empty 0 0 270 0.5 0.5
-( -22096 -19840 -1888 ) ( -22096 17488 -1888 ) ( -22128 17488 -1888 ) __TB_empty 0 0 90 0.5 -0.5
-( -22128 17488 1792 ) ( -22096 17488 1792 ) ( -22096 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
-( -22096 17488 -1888 ) ( -22096 17488 1792 ) ( -22128 17488 1792 ) __TB_empty 0 0 270 0.5 0.5
-( -22096 -19840 1792 ) ( -22096 17488 1792 ) ( -22096 17488 -1888 ) skies/portalfog 0 0 270 0.5 0.5
+( -22096 -19840 -1888 ) ( -22096 18576 -1888 ) ( -22128 18576 -1888 ) __TB_empty 0 0 90 0.5 -0.5
+( -22128 18576 1792 ) ( -22096 18576 1792 ) ( -22096 -19840 1792 ) __TB_empty 0 0 90 0.5 -0.5
+( -22096 18576 -1888 ) ( -22096 18576 1792 ) ( -22128 18576 1792 ) __TB_empty 0 0 270 0.5 0.5
+( -22096 -19840 1792 ) ( -22096 18576 1792 ) ( -22096 18576 -1888 ) skies/portalfog 0 0 270 0.5 0.5
 }
 // brush 19
 {
-( -22384 17488 1568 ) ( -22384 -19840 1568 ) ( -22384 -19840 1536 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 1568 ) ( -22384 -19840 1568 ) ( -22384 -19840 1536 ) __TB_empty 0 0 0 0.5 0.5
 ( -22384 -19840 1568 ) ( 25168 -19840 1568 ) ( 25168 -19840 1536 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 1536 ) ( 25168 17488 1536 ) ( -22384 17488 1536 ) __TB_empty 0 0 0 0.5 0.5
-( -22384 17488 1568 ) ( 25168 17488 1568 ) ( 25168 -19840 1568 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 17488 1536 ) ( 25168 17488 1568 ) ( -22384 17488 1568 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 1568 ) ( 25168 17488 1568 ) ( 25168 17488 1536 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 1536 ) ( 25168 18512 1536 ) ( -22384 18512 1536 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 1568 ) ( 25168 18512 1568 ) ( 25168 -19840 1568 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 18512 1536 ) ( 25168 18512 1568 ) ( -22384 18512 1568 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 1568 ) ( 25168 18512 1568 ) ( 25168 18512 1536 ) __TB_empty 0 0 0 0.5 0.5
 }
 // brush 20
 {
-( -22384 17488 -1632 ) ( -22384 -19840 -1632 ) ( -22384 -19840 -1664 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 -1632 ) ( -22384 -19840 -1632 ) ( -22384 -19840 -1664 ) __TB_empty 0 0 0 0.5 0.5
 ( -22384 -19840 -1632 ) ( 25168 -19840 -1632 ) ( 25168 -19840 -1664 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 -1664 ) ( 25168 17488 -1664 ) ( -22384 17488 -1664 ) __TB_empty 0 0 0 0.5 0.5
-( -22384 17488 -1632 ) ( 25168 17488 -1632 ) ( 25168 -19840 -1632 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 17488 -1664 ) ( 25168 17488 -1632 ) ( -22384 17488 -1632 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 -1632 ) ( 25168 17488 -1632 ) ( 25168 17488 -1664 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 -1664 ) ( 25168 18512 -1664 ) ( -22384 18512 -1664 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 -1632 ) ( 25168 18512 -1632 ) ( 25168 -19840 -1632 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 18512 -1664 ) ( 25168 18512 -1632 ) ( -22384 18512 -1632 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 -1632 ) ( 25168 18512 -1632 ) ( 25168 18512 -1664 ) __TB_empty 0 0 0 0.5 0.5
 }
 // brush 21
 {
@@ -232,30 +232,30 @@
 }
 // brush 25
 {
-( -22384 17488 -1888 ) ( -22384 -19840 -1888 ) ( -22384 -19840 -1920 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 -1888 ) ( -22384 -19840 -1888 ) ( -22384 -19840 -1920 ) __TB_empty 0 0 0 0.5 0.5
 ( -22384 -19840 -1888 ) ( 25168 -19840 -1888 ) ( 25168 -19840 -1920 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 -1920 ) ( 25168 17488 -1920 ) ( -22384 17488 -1920 ) __TB_empty 0 0 0 0.5 0.5
-( -22384 17488 -1888 ) ( 25168 17488 -1888 ) ( 25168 -19840 -1888 ) skies2/nebula2 0 0 0 0.5 0.5
-( 25168 17488 -1920 ) ( 25168 17488 -1888 ) ( -22384 17488 -1888 ) __TB_empty 0 0 0 0.5 0.5
-( 25168 -19840 -1888 ) ( 25168 17488 -1888 ) ( 25168 17488 -1920 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 -1920 ) ( 25168 18512 -1920 ) ( -22384 18512 -1920 ) __TB_empty 0 0 0 0.5 0.5
+( -22384 18512 -1888 ) ( 25168 18512 -1888 ) ( 25168 -19840 -1888 ) skies2/nebula2 0 0 0 0.5 0.5
+( 25168 18512 -1920 ) ( 25168 18512 -1888 ) ( -22384 18512 -1888 ) __TB_empty 0 0 0 0.5 0.5
+( 25168 -19840 -1888 ) ( 25168 18512 -1888 ) ( 25168 18512 -1920 ) __TB_empty 0 0 0 0.5 0.5
 }
 // brush 26
 {
-( -22384 17552 1824 ) ( -22384 -19776 1824 ) ( -22384 -19776 -1904 ) sfx/fog3 0 0 0 0.5 0.5
+( -22384 18576 1824 ) ( -22384 -19776 1824 ) ( -22384 -19776 -1904 ) sfx/fog3 0 0 0 0.5 0.5
 ( -22384 -19776 1824 ) ( 25168 -19776 1824 ) ( 25168 -19776 -1904 ) sfx/fog3 0 0 0 0.5 0.5
-( 25168 -19776 -1904 ) ( 25168 17552 -1904 ) ( -22384 17552 -1904 ) skies2/nebula2 0 0 0 0.5 0.5
-( -22384 17552 1824 ) ( 25168 17552 1824 ) ( 25168 -19776 1824 ) sfx/fog3 0 0 0 0.5 0.5
-( 25168 17552 -1904 ) ( 25168 17552 1824 ) ( -22384 17552 1824 ) sfx/fog3 0 0 0 0.5 0.5
-( 25168 -19776 1824 ) ( 25168 17552 1824 ) ( 25168 17552 -1904 ) sfx/fog3 0 0 0 0.5 0.5
+( 25168 -19776 -1904 ) ( 25168 18576 -1904 ) ( -22384 18576 -1904 ) skies2/nebula2 0 0 0 0.5 0.5
+( -22384 18576 1824 ) ( 25168 18576 1824 ) ( 25168 -19776 1824 ) sfx/fog3 0 0 0 0.5 0.5
+( 25168 18576 -1904 ) ( 25168 18576 1824 ) ( -22384 18576 1824 ) sfx/fog3 0 0 0 0.5 0.5
+( 25168 -19776 1824 ) ( 25168 18576 1824 ) ( 25168 18576 -1904 ) sfx/fog3 0 0 0 0.5 0.5
 }
 // brush 27
 {
-( -22384 17492 1824 ) ( -22384 17460 1824 ) ( -22384 17460 -1920 ) __TB_empty 0 -8 270 0.5 -0.5
-( -22384 17460 1824 ) ( 25168 17460 1824 ) ( 25168 17460 -1920 ) skies2/nebula2 0 0 180.00002 0.5 0.5
-( 25168 17460 -1920 ) ( 25168 17492 -1920 ) ( -22384 17492 -1920 ) __TB_empty 0 -8 179.99998 0.5 0.5
-( -22384 17492 1824 ) ( 25168 17492 1824 ) ( 25168 17460 1824 ) __TB_empty 0 -8 179.99998 0.5 0.5
-( 25168 17492 -1920 ) ( 25168 17492 1824 ) ( -22384 17492 1824 ) __TB_empty 0 0 180.00002 0.5 0.5
-( 25168 17460 1824 ) ( 25168 17492 1824 ) ( 25168 17492 -1920 ) __TB_empty 0 -8 270 0.5 -0.5
+( -22384 18516 1824 ) ( -22384 18484 1824 ) ( -22384 18484 -1920 ) __TB_empty 0 -8 270 0.5 -0.5
+( -22384 18484 1824 ) ( 25168 18484 1824 ) ( 25168 18484 -1920 ) skies2/nebula2 0 0 180.00002 0.5 0.5
+( 25168 18484 -1920 ) ( 25168 18516 -1920 ) ( -22384 18516 -1920 ) __TB_empty 0 -8 179.99998 0.5 0.5
+( -22384 18516 1824 ) ( 25168 18516 1824 ) ( 25168 18484 1824 ) __TB_empty 0 -8 179.99998 0.5 0.5
+( 25168 18516 -1920 ) ( 25168 18516 1824 ) ( -22384 18516 1824 ) __TB_empty 0 0 180.00002 0.5 0.5
+( 25168 18484 1824 ) ( 25168 18516 1824 ) ( 25168 18516 -1920 ) __TB_empty 0 -8 270 0.5 -0.5
 }
 // brush 28
 {
@@ -759,25 +759,11 @@
 }
 // entity 73
 {
-"classname" "trigger_teleport"
-"target" "tele100"
-// brush 0
-{
-( 144 -980 -1532 ) ( 144 -1060 -1532 ) ( 144 -1060 -1628 ) common/trigger 56 8 0 0.5 0.5
-( 144 -1060 -1532 ) ( 168 -1060 -1532 ) ( 168 -1060 -1628 ) common/trigger -48 8 180.00002 0.5 -0.5
-( 168 -1060 -1628 ) ( 168 -980 -1628 ) ( 144 -980 -1628 ) common/trigger 56 48 90 0.5 0.5
-( 144 -980 -1532 ) ( 168 -980 -1532 ) ( 168 -1060 -1532 ) common/trigger 56 48 90 0.5 0.5
-( 168 -980 -1628 ) ( 168 -980 -1532 ) ( 144 -980 -1532 ) common/trigger -48 8 180.00002 0.5 -0.5
-( 168 -1060 -1532 ) ( 168 -980 -1532 ) ( 168 -980 -1628 ) common/trigger 56 8 0 0.5 0.5
-}
-}
-// entity 74
-{
 "classname" "misc_teleporter_dest"
 "origin" "236 -1020 -1596"
 "targetname" "tele101"
 }
-// entity 75
+// entity 74
 {
 "classname" "misc_portal_camera"
 "origin" "192 -1020 -1576"
@@ -785,13 +771,13 @@
 "spawnflags" "4"
 "roll" "180"
 }
-// entity 76
+// entity 75
 {
 "classname" "misc_portal_surface"
 "origin" "2064 -964 -1572"
 "target" "camera4"
 }
-// entity 77
+// entity 76
 {
 "classname" "trigger_teleport"
 "target" "tele102"
@@ -805,14 +791,14 @@
 ( 2096 -1004 -1532 ) ( 2096 -924 -1532 ) ( 2096 -924 -1628 ) common/trigger 56 8 179.99998 0.5 -0.5
 }
 }
-// entity 78
+// entity 77
 {
 "classname" "misc_teleporter_dest"
 "origin" "2004 -964 -1596"
 "targetname" "tele103"
 "angles" "0 180 0"
 }
-// entity 79
+// entity 78
 {
 "classname" "misc_portal_camera"
 "origin" "2048 -964 -1572"
@@ -821,1048 +807,1109 @@
 "roll" "180"
 "angles" "0 180 0"
 }
-// entity 80
+// entity 79
 {
 "classname" "rune_strength"
 "origin" "1924 -4048 -1616"
 }
-// entity 81
+// entity 80
 {
 "classname" "rune_regen"
 "origin" "1924 -4180 -1616"
 }
-// entity 82
+// entity 81
 {
 "classname" "rune_resist"
 "origin" "1924 -4312 -1616"
 }
-// entity 83
+// entity 82
 {
 "classname" "rune_haste"
 "origin" "1924 -4444 -1616"
 }
-// entity 84
+// entity 83
 {
 "classname" "rune_enviro"
 "origin" "1924 -4576 -1616"
 }
-// entity 85
+// entity 84
 {
 "classname" "rune_flight"
 "origin" "1924 -4708 -1616"
 }
-// entity 86
+// entity 85
 {
 "classname" "rune_berserk"
 "origin" "1924 -4840 -1616"
 }
-// entity 87
+// entity 86
 {
 "classname" "rune_recall"
 "origin" "1924 -4972 -1616"
 }
-// entity 88
+// entity 87
 {
 "classname" "rune_electric"
 "origin" "1924 -5104 -1616"
 }
-// entity 89
+// entity 88
 {
 "classname" "rune_cloak"
 "origin" "1924 -5236 -1616"
 }
-// entity 90
+// entity 89
 {
 "classname" "rune_divine"
 "origin" "2116 -4056 -1616"
 }
-// entity 91
+// entity 90
 {
 "classname" "rune_death"
 "origin" "2120 -4176 -1616"
 }
-// entity 92
+// entity 91
 {
 "classname" "rune_holo"
 "origin" "2120 -4308 -1616"
 }
-// entity 93
+// entity 92
 {
 "classname" "rune_orb"
 "origin" "2120 -4440 -1616"
 }
-// entity 94
+// entity 93
 {
 "classname" "rune_blink"
 "origin" "2120 -4572 -1616"
 }
-// entity 95
+// entity 94
 {
 "classname" "rune_camo"
 "origin" "2120 -4704 -1616"
 }
-// entity 96
+// entity 95
 {
 "classname" "rune_jump"
 "origin" "2120 -4836 -1616"
 }
-// entity 97
+// entity 96
 {
 "classname" "rune_action"
 "origin" "2120 -4968 -1616"
 }
-// entity 98
+// entity 97
 {
 "classname" "rune_vampire"
 "origin" "2120 -5100 -1616"
 }
-// entity 99
+// entity 98
 {
 "classname" "rune_shield"
 "origin" "2120 -5232 -1616"
 }
-// entity 100
+// entity 99
 {
 "classname" "rune_health"
 "origin" "2312 -4052 -1616"
 }
-// entity 101
+// entity 100
 {
 "classname" "rune_radio"
 "origin" "2312 -4184 -1616"
 }
-// entity 102
+// entity 101
 {
 "classname" "rune_switch"
 "origin" "2316 -4304 -1616"
 }
-// entity 103
+// entity 102
 {
 "classname" "rune_icetrap"
 "origin" "2316 -4436 -1616"
 }
-// entity 104
+// entity 103
 {
 "classname" "rune_gravity"
 "origin" "2316 -4568 -1616"
 }
-// entity 105
+// entity 104
 {
 "classname" "rune_tele"
 "origin" "2316 -4700 -1616"
 }
-// entity 106
+// entity 105
 {
 "classname" "rune_impact"
 "origin" "2316 -4832 -1616"
 }
-// entity 107
+// entity 106
 {
 "classname" "rune_vengeance"
 "origin" "2316 -4964 -1616"
 }
-// entity 108
+// entity 107
 {
 "classname" "rune_shubhat"
 "origin" "2316 -5096 -1616"
 }
-// entity 109
+// entity 108
 {
 "classname" "rune_repulsion"
 "origin" "2316 -5228 -1616"
 }
-// entity 110
+// entity 109
 {
 "classname" "rune_phasing"
 "origin" "2508 -4048 -1616"
 }
-// entity 111
+// entity 110
 {
 "classname" "rune_shambler"
 "origin" "2508 -4180 -1616"
 }
-// entity 112
+// entity 111
 {
 "classname" "rune_dualrecall"
 "origin" "2508 -4312 -1616"
 }
-// entity 113
+// entity 112
 {
 "classname" "rune_weirdness"
 "origin" "2512 -4432 -1616"
 }
-// entity 114
+// entity 113
 {
 "classname" "rune_phoenix"
 "origin" "2512 -4564 -1616"
 }
-// entity 115
+// entity 114
 {
 "classname" "rune_spikecloud"
 "origin" "2512 -4696 -1616"
 }
-// entity 116
+// entity 115
 {
 "classname" "rune_firewalk"
 "origin" "2512 -4828 -1616"
 }
-// entity 117
+// entity 116
 {
 "classname" "rune_grapple"
 "origin" "2512 -4960 -1616"
 }
-// entity 118
+// entity 117
 {
 "classname" "rune_athletic"
 "origin" "2512 -5092 -1616"
 }
-// entity 119
+// entity 118
 {
 "classname" "rune_lumberjack"
 "origin" "2512 -5224 -1616"
 }
-// entity 120
+// entity 119
 {
 "classname" "rune_houngan"
 "origin" "2704 -4044 -1616"
 }
-// entity 121
+// entity 120
 {
 "classname" "rune_piercing"
 "origin" "2704 -4176 -1616"
 }
-// entity 122
+// entity 121
 {
 "classname" "rune_preserve"
 "origin" "2704 -4308 -1616"
 }
-// entity 123
+// entity 122
 {
 "classname" "rune_zenmonk"
 "origin" "2704 -4440 -1616"
 }
-// entity 124
+// entity 123
 {
 "classname" "rune_torch"
 "origin" "2708 -4560 -1616"
 }
-// entity 125
+// entity 124
 {
 "classname" "rune_packrat"
 "origin" "2708 -4692 -1616"
 }
-// entity 126
+// entity 125
 {
 "classname" "rune_armor"
 "origin" "2708 -4824 -1616"
 }
-// entity 127
+// entity 126
 {
 "classname" "rune_quad"
 "origin" "2708 -4956 -1616"
 }
-// entity 128
+// entity 127
 {
 "classname" "rune_jack"
 "origin" "2708 -5088 -1616"
 }
-// entity 129
+// entity 128
 {
 "classname" "rune_bluegoo"
 "origin" "2708 -5220 -1616"
 }
-// entity 130
+// entity 129
 {
 "classname" "rune_blizzard"
 "origin" "2900 -4040 -1616"
 }
-// entity 131
+// entity 130
 {
 "classname" "rune_thor"
 "origin" "2900 -4172 -1616"
 }
-// entity 132
+// entity 131
 {
 "classname" "rune_sniper"
 "origin" "2900 -4304 -1616"
 }
-// entity 133
+// entity 132
 {
 "classname" "rune_antipack"
 "origin" "2900 -4436 -1616"
 }
-// entity 134
+// entity 133
 {
 "classname" "rune_antitele"
 "origin" "2900 -4568 -1616"
 }
-// entity 135
+// entity 134
 {
 "classname" "rune_cluster"
 "origin" "2904 -4688 -1616"
 }
-// entity 136
+// entity 135
 {
 "classname" "rune_tornado"
 "origin" "2904 -4820 -1616"
 }
-// entity 137
+// entity 136
 {
 "classname" "rune_requiem"
 "origin" "2904 -4952 -1616"
 }
-// entity 138
+// entity 137
 {
 "classname" "rune_lithium"
 "origin" "2904 -5084 -1616"
 }
-// entity 139
+// entity 138
 {
 "classname" "info_player_start"
 "origin" "1488 -3152 -1560"
 "angles" "0 90 0"
 }
-// entity 140
+// entity 139
 {
 "classname" "info_player_start"
 "origin" "560 -3120 -1560"
 "angles" "0 90 0"
 }
-// entity 141
+// entity 140
 {
 "classname" "info_player_start"
 "origin" "592 -3856 -1560"
 "angles" "0 90 0"
 }
-// entity 142
+// entity 141
 {
 "classname" "info_player_start"
 "origin" "1008 -3888 -1560"
 "angles" "0 90 0"
 }
-// entity 143
+// entity 142
 {
 "classname" "info_player_start"
 "origin" "1552 -3920 -1560"
 "angles" "0 90 0"
 }
-// entity 144
+// entity 143
 {
 "classname" "weapon_flamethrower"
 "origin" "1640 -1528 -1584"
 }
-// entity 145
+// entity 144
 {
 "classname" "ammo_flame"
 "origin" "1936 -1712 -1584"
 }
-// entity 146
+// entity 145
 {
 "classname" "weapon_oa_bfg"
 "origin" "2832 -2960 -1584"
 }
-// entity 147
+// entity 146
 {
 "classname" "weapon_oa_gauntlet"
 "origin" "2832 -2832 -1584"
 }
-// entity 148
+// entity 147
 {
 "classname" "weapon_oa_grapplinghook"
 "origin" "2832 -2704 -1584"
 }
-// entity 149
+// entity 148
 {
 "classname" "weapon_oa_grenadelauncher"
 "origin" "2832 -2576 -1584"
 }
-// entity 150
+// entity 149
 {
 "classname" "weapon_oa_lightning"
 "origin" "2832 -2448 -1584"
 }
-// entity 151
+// entity 150
 {
 "classname" "weapon_oa_machinegun"
 "origin" "2832 -2320 -1584"
 }
-// entity 152
+// entity 151
 {
 "classname" "weapon_oa_plasmagun"
 "origin" "2832 -2192 -1584"
 }
-// entity 153
+// entity 152
 {
 "classname" "weapon_oa_railgun"
 "origin" "2832 -1936 -1584"
 }
-// entity 154
+// entity 153
 {
 "classname" "weapon_oa_rocketlauncher"
 "origin" "2832 -2064 -1584"
 }
-// entity 155
+// entity 154
 {
 "classname" "weapon_oa_shotgun"
 "origin" "2832 -1808 -1584"
 }
-// entity 156
+// entity 155
 {
 "classname" "weapon_prox_launcher"
 "origin" "1640 -1400 -1584"
 }
-// entity 157
+// entity 156
 {
 "classname" "weapon_chaingun"
 "origin" "1640 -1272 -1584"
 }
-// entity 158
+// entity 157
 {
 "classname" "weapon_nailgun"
 "origin" "1640 -1144 -1584"
 }
-// entity 159
+// entity 158
 {
 "classname" "weapon_qc_icebeam"
 "origin" "3152 -3088 -1584"
 }
-// entity 160
+// entity 159
 {
 "classname" "weapon_qc_crossbow"
 "origin" "3152 -2960 -1584"
 }
-// entity 161
+// entity 160
 {
 "classname" "weapon_qc_nailgun"
 "origin" "3152 -2832 -1584"
 }
-// entity 162
+// entity 161
 {
 "classname" "weapon_qc_trespasser"
 "origin" "3152 -2704 -1584"
 }
-// entity 163
+// entity 162
 {
 "classname" "weapon_qc_lightning"
 "origin" "3152 -2448 -1584"
 }
-// entity 164
+// entity 163
 {
 "classname" "weapon_qc_annihilator"
 "origin" "3152 -2320 -1584"
 }
-// entity 165
+// entity 164
 {
 "classname" "weapon_qc_frostgun"
 "origin" "3152 -2192 -1584"
 }
-// entity 166
+// entity 165
 {
 "classname" "weapon_qc_railgun"
 "origin" "3152 -1936 -1584"
 }
-// entity 167
+// entity 166
 {
 "classname" "weapon_qc_peacemaker"
 "origin" "3152 -2064 -1584"
 }
-// entity 168
+// entity 167
 {
 "classname" "weapon_qc_bitterman"
 "origin" "3152 -1808 -1584"
 }
-// entity 169
+// entity 168
 {
 "classname" "weapon_qc_incinerator"
 "origin" "3152 -2576 -1584"
 }
-// entity 170
+// entity 169
 {
 "classname" "weapon_qc_thunderbolt"
 "origin" "3152 -1680 -1584"
 }
-// entity 171
+// entity 170
 {
 "classname" "item_earth_armor_body"
 "origin" "-1680 -2064 -1584"
 }
-// entity 172
+// entity 171
 {
 "classname" "item_earth_armor_combat"
 "origin" "-1680 -2192 -1584"
 }
-// entity 173
+// entity 172
 {
 "classname" "item_earth_armor_shard"
 "origin" "-1680 -2320 -1584"
 }
-// entity 174
+// entity 173
 {
 "classname" "weapon_earth_bfg"
 "origin" "-1360 -2896 -1584"
 }
-// entity 175
+// entity 174
 {
 "classname" "weapon_earth_gauntlet"
 "origin" "-1360 -2768 -1584"
 }
-// entity 176
+// entity 175
 {
 "classname" "weapon_earth_grenadelauncher"
 "origin" "-1360 -2640 -1584"
 }
-// entity 177
+// entity 176
 {
 "classname" "weapon_earth_lightning"
 "origin" "-1360 -2512 -1584"
 }
-// entity 178
+// entity 177
 {
 "classname" "weapon_earth_machinegun"
 "origin" "-1360 -2384 -1584"
 }
-// entity 179
+// entity 178
 {
 "classname" "weapon_earth_plasmagun"
 "origin" "-1360 -2256 -1584"
 }
-// entity 180
+// entity 179
 {
 "classname" "weapon_earth_railgun"
 "origin" "-1360 -2000 -1584"
 }
-// entity 181
+// entity 180
 {
 "classname" "weapon_earth_rocketlauncher"
 "origin" "-1360 -2128 -1584"
 }
-// entity 182
+// entity 181
 {
 "classname" "weapon_earth_shotgun"
 "origin" "-1360 -1872 -1584"
 }
-// entity 183
+// entity 182
 {
 "classname" "item_earth_enviro"
 "origin" "-2000 -1680 -1520"
 }
-// entity 184
+// entity 183
 {
 "classname" "item_earth_flight"
 "origin" "-2000 -2736 -1520"
 }
-// entity 185
+// entity 184
 {
 "classname" "item_earth_haste"
 "origin" "-2000 -1856 -1520"
 }
-// entity 186
+// entity 185
 {
 "classname" "item_earth_health"
 "origin" "-1680 -2576 -1584"
 }
-// entity 187
+// entity 186
 {
 "classname" "item_earth_health_small"
 "origin" "-1680 -2448 -1584"
 }
-// entity 188
+// entity 187
 {
 "classname" "item_earth_health_mega"
 "origin" "-1680 -2832 -1584"
 }
-// entity 189
+// entity 188
 {
 "classname" "item_earth_invis"
 "origin" "-2000 -2064 -1520"
 }
-// entity 190
+// entity 189
 {
 "classname" "item_earth_quad"
 "origin" "-2000 -2288 -1520"
 }
-// entity 191
+// entity 190
 {
 "classname" "item_earth_regen"
 "origin" "-2000 -2496 -1520"
 }
-// entity 192
+// entity 191
 {
 "classname" "item_earth_health_large"
 "origin" "-1680 -2704 -1584"
 }
-// entity 193
+// entity 192
 {
 "classname" "holdable_earth_medkit"
 "origin" "-2000 -2976 -1520"
 }
-// entity 194
+// entity 193
 {
 "classname" "ammo_earth_bfg"
 "origin" "-1008 -1936 -1584"
 }
-// entity 195
+// entity 194
 {
 "classname" "ammo_earth_bullets"
 "origin" "-1008 -3056 -1584"
 }
-// entity 196
+// entity 195
 {
 "classname" "ammo_earth_cells"
 "origin" "-1008 -2096 -1584"
 }
-// entity 197
+// entity 196
 {
 "classname" "ammo_earth_grenades"
 "origin" "-1008 -2256 -1584"
 }
-// entity 198
+// entity 197
 {
 "classname" "ammo_earth_lightning"
 "origin" "-1008 -2416 -1584"
 }
-// entity 199
+// entity 198
 {
 "classname" "ammo_earth_rockets"
 "origin" "-1008 -2576 -1584"
 }
-// entity 200
+// entity 199
 {
 "classname" "ammo_earth_shells"
 "origin" "-1008 -2736 -1584"
 }
-// entity 201
+// entity 200
 {
 "classname" "ammo_earth_slugs"
 "origin" "-1008 -2896 -1584"
 }
-// entity 202
+// entity 201
 {
 "classname" "item_doom_armor_body"
 "origin" "-1680 -4304 -1584"
 }
-// entity 203
+// entity 202
 {
 "classname" "item_doom_armor_combat"
 "origin" "-1680 -4432 -1584"
 }
-// entity 204
+// entity 203
 {
 "classname" "item_doom_armor_shard"
 "origin" "-1680 -4560 -1584"
 }
-// entity 205
+// entity 204
 {
 "classname" "weapon_doom_bfg"
 "origin" "-1360 -5136 -1584"
 }
-// entity 206
+// entity 205
 {
 "classname" "weapon_doom_pistol"
 "origin" "-1360 -5008 -1584"
 }
-// entity 207
+// entity 206
 {
 "classname" "weapon_doom_chainsaw"
 "origin" "-1360 -4880 -1584"
 }
-// entity 208
+// entity 207
 {
 "classname" "weapon_doom_plasmagun"
 "origin" "-1360 -4752 -1584"
 }
-// entity 209
+// entity 208
 {
 "classname" "weapon_doom_rocketlauncher"
 "origin" "-1360 -4624 -1584"
 }
-// entity 210
+// entity 209
 {
 "classname" "weapon_doom_shotgun"
 "origin" "-1360 -4368 -1584"
 }
-// entity 211
+// entity 210
 {
 "classname" "item_doom_enviro"
 "origin" "-2000 -3920 -1456"
 }
-// entity 212
+// entity 211
 {
 "classname" "item_doom_flight"
 "origin" "-2000 -4976 -1456"
 }
-// entity 213
+// entity 212
 {
 "classname" "item_doom_haste"
 "origin" "-2000 -4096 -1456"
 }
-// entity 214
+// entity 213
 {
 "classname" "item_doom_health"
 "origin" "-1680 -4816 -1584"
 }
-// entity 215
+// entity 214
 {
 "classname" "item_doom_health_small"
 "origin" "-1680 -4688 -1584"
 }
-// entity 216
+// entity 215
 {
 "classname" "item_doom_health_mega"
 "origin" "-1680 -5072 -1584"
 }
-// entity 217
+// entity 216
 {
 "classname" "item_doom_invis"
 "origin" "-2000 -4304 -1456"
 }
-// entity 218
+// entity 217
 {
 "classname" "item_doom_quad"
 "origin" "-2000 -4528 -1456"
 }
-// entity 219
+// entity 218
 {
 "classname" "item_doom_regen"
 "origin" "-2000 -4736 -1456"
 }
-// entity 220
+// entity 219
 {
 "classname" "item_doom_health_large"
 "origin" "-1680 -4944 -1584"
 }
-// entity 221
+// entity 220
 {
 "classname" "holdable_doom_medkit"
 "origin" "-2000 -5344 -1456"
 }
-// entity 222
+// entity 221
 {
 "classname" "ammo_doom_bfg"
 "origin" "-1008 -4496 -1584"
 }
-// entity 223
+// entity 222
 {
 "classname" "ammo_doom_bullets"
 "origin" "-1008 -5296 -1584"
 }
-// entity 224
+// entity 223
 {
 "classname" "ammo_doom_cells"
 "origin" "-1008 -4656 -1584"
 }
-// entity 225
+// entity 224
 {
 "classname" "ammo_doom_rockets"
 "origin" "-1008 -4816 -1584"
 }
-// entity 226
+// entity 225
 {
 "classname" "ammo_doom_shells"
 "origin" "-1008 -4976 -1584"
 }
-// entity 227
+// entity 226
 {
 "classname" "ammo_doom_slugs"
 "origin" "-1008 -5136 -1584"
 }
-// entity 228
+// entity 227
 {
 "classname" "holdable_earth_vengeance"
 "origin" "-2000 -5152 -1456"
 }
-// entity 229
+// entity 228
 {
 "classname" "item_strogg_armor_body"
 "origin" "-4048 -2064 -1584"
 }
-// entity 230
+// entity 229
 {
 "classname" "item_strogg_armor_combat"
 "origin" "-4048 -2192 -1584"
 }
-// entity 231
+// entity 230
 {
 "classname" "item_strogg_armor_shard"
 "origin" "-4048 -2320 -1584"
 }
-// entity 232
+// entity 231
 {
 "classname" "weapon_strogg_bfg"
 "origin" "-3728 -2896 -1584"
 }
-// entity 233
+// entity 232
 {
 "classname" "weapon_strogg_blaster"
 "origin" "-3728 -2768 -1584"
 }
-// entity 234
+// entity 233
 {
 "classname" "weapon_strogg_grenadelauncher"
 "origin" "-3728 -2640 -1584"
 }
-// entity 235
+// entity 234
 {
 "classname" "weapon_strogg_lightning"
 "origin" "-3728 -2512 -1584"
 }
-// entity 236
+// entity 235
 {
 "classname" "weapon_strogg_machinegun"
 "origin" "-3728 -2384 -1584"
 }
-// entity 237
+// entity 236
 {
 "classname" "weapon_strogg_plasmagun"
 "origin" "-3728 -2256 -1584"
 }
-// entity 238
+// entity 237
 {
 "classname" "weapon_strogg_railgun"
 "origin" "-3728 -2000 -1584"
 }
-// entity 239
+// entity 238
 {
 "classname" "weapon_strogg_rocketlauncher"
 "origin" "-3728 -2128 -1584"
 }
-// entity 240
+// entity 239
 {
 "classname" "weapon_strogg_shotgun"
 "origin" "-3728 -1872 -1584"
 }
-// entity 241
+// entity 240
 {
 "classname" "item_strogg_enviro"
 "origin" "-4368 -1680 -1520"
 }
-// entity 242
+// entity 241
 {
 "classname" "item_strogg_flight"
 "origin" "-4368 -2736 -1520"
 }
-// entity 243
+// entity 242
 {
 "classname" "item_strogg_haste"
 "origin" "-4368 -1856 -1520"
 }
-// entity 244
+// entity 243
 {
 "classname" "item_strogg_health"
 "origin" "-4048 -2576 -1584"
 }
-// entity 245
+// entity 244
 {
 "classname" "item_strogg_health_small"
 "origin" "-4048 -2448 -1584"
 }
-// entity 246
+// entity 245
 {
 "classname" "item_strogg_health_mega"
 "origin" "-4048 -2832 -1584"
 }
-// entity 247
+// entity 246
 {
 "classname" "item_strogg_invis"
 "origin" "-4368 -2064 -1520"
 }
-// entity 248
+// entity 247
 {
 "classname" "item_strogg_quad"
 "origin" "-4368 -2288 -1520"
 }
-// entity 249
+// entity 248
 {
 "classname" "item_strogg_regen"
 "origin" "-4368 -2496 -1520"
 }
-// entity 250
+// entity 249
 {
 "classname" "item_strogg_health_large"
 "origin" "-4048 -2704 -1584"
 }
-// entity 251
+// entity 250
 {
 "classname" "holdable_strogg_medkit"
 "origin" "-4368 -2976 -1520"
 }
-// entity 252
+// entity 251
 {
 "classname" "ammo_strogg_bullets"
 "origin" "-3376 -3056 -1584"
 }
-// entity 253
+// entity 252
 {
 "classname" "ammo_strogg_cells"
 "origin" "-3376 -2224 -1584"
 }
-// entity 254
+// entity 253
 {
 "classname" "ammo_strogg_grenades"
 "origin" "-3376 -2384 -1584"
 }
-// entity 255
+// entity 254
 {
 "classname" "ammo_strogg_rockets"
 "origin" "-3376 -2576 -1584"
 }
-// entity 256
+// entity 255
 {
 "classname" "ammo_strogg_shells"
 "origin" "-3376 -2736 -1584"
 }
-// entity 257
+// entity 256
 {
 "classname" "ammo_strogg_slugs"
 "origin" "-3376 -2896 -1584"
 }
-// entity 258
+// entity 257
 {
 "classname" "item_slip_armor_body"
 "origin" "-4048 -4176 -1584"
 }
-// entity 259
+// entity 258
 {
 "classname" "item_slip_armor_combat"
 "origin" "-4048 -4304 -1584"
 }
-// entity 260
+// entity 259
 {
 "classname" "item_slip_armor_shard"
 "origin" "-4048 -4560 -1584"
 }
-// entity 261
+// entity 260
 {
 "classname" "weapon_slip_axe"
 "origin" "-3728 -5008 -1584"
 }
-// entity 262
+// entity 261
 {
 "classname" "weapon_slip_grenadelauncher"
 "origin" "-3728 -4880 -1584"
 }
-// entity 263
+// entity 262
 {
 "classname" "weapon_slip_lightning"
 "origin" "-3728 -4752 -1584"
 }
-// entity 264
+// entity 263
 {
 "classname" "weapon_slip_machinegun"
 "origin" "-3728 -4624 -1584"
 }
-// entity 265
+// entity 264
 {
 "classname" "weapon_slip_nailgun"
 "origin" "-3728 -4496 -1584"
 }
-// entity 266
+// entity 265
 {
 "classname" "weapon_slip_rocketlauncher"
 "origin" "-3728 -4368 -1584"
 }
-// entity 267
+// entity 266
 {
 "classname" "weapon_slip_shotgun"
 "origin" "-3728 -4240 -1584"
 }
-// entity 268
+// entity 267
 {
 "classname" "item_slip_enviro"
 "origin" "-4368 -3920 -1520"
 }
-// entity 269
+// entity 268
 {
 "classname" "item_slip_flight"
 "origin" "-4368 -4976 -1520"
 }
-// entity 270
+// entity 269
 {
 "classname" "item_slip_haste"
 "origin" "-4368 -4096 -1520"
 }
-// entity 271
+// entity 270
 {
 "classname" "item_slip_health"
 "origin" "-4048 -4816 -1584"
 }
-// entity 272
+// entity 271
 {
 "classname" "item_slip_health_small"
 "origin" "-4048 -4688 -1584"
 }
-// entity 273
+// entity 272
 {
 "classname" "item_slip_health_mega"
 "origin" "-4048 -5072 -1584"
 }
-// entity 274
+// entity 273
 {
 "classname" "item_slip_invis"
 "origin" "-4368 -4304 -1520"
 }
-// entity 275
+// entity 274
 {
 "classname" "item_slip_quad"
 "origin" "-4368 -4528 -1520"
 }
-// entity 276
+// entity 275
 {
 "classname" "item_slip_regen"
 "origin" "-4368 -4736 -1520"
 }
-// entity 277
+// entity 276
 {
 "classname" "item_slip_health_large"
 "origin" "-4048 -4944 -1584"
 }
-// entity 278
+// entity 277
 {
 "classname" "holdable_slip_medkit"
 "origin" "-4368 -5216 -1520"
 }
-// entity 279
+// entity 278
 {
 "classname" "ammo_slip_bullets"
 "origin" "-3376 -5040 -1584"
 }
-// entity 280
+// entity 279
 {
 "classname" "ammo_slip_nails"
 "origin" "-3376 -4336 -1584"
 }
-// entity 281
+// entity 280
 {
 "classname" "ammo_slip_lightning"
 "origin" "-3376 -4528 -1584"
 }
-// entity 282
+// entity 281
 {
 "classname" "ammo_slip_rockets"
 "origin" "-3376 -4688 -1584"
 }
-// entity 283
+// entity 282
 {
 "classname" "ammo_slip_shells"
 "origin" "-3376 -4848 -1584"
 }
-// entity 284
+// entity 283
 {
 "classname" "weapon_doom_chaingun"
 "origin" "-1360 -4496 -1584"
 }
-// entity 285
+// entity 284
 {
 "classname" "item_slip_armor"
 "origin" "-4048 -4432 -1584"
 }
-// entity 286
+// entity 285
 {
 "classname" "weapon_strogg_grapple"
 "origin" "-3728 -3024 -1584"
 }
-// entity 287
+// entity 286
 {
 "classname" "weapon_qc_original"
 "origin" "3152 -3216 -1584"
+}
+// entity 287
+{
+"classname" "misc_model"
+"origin" "-5200 17968 -784"
+"model" "maps/q3dm1-small.obj"
+"angles" "0 90 0"
+}
+// entity 288
+{
+"classname" "misc_portal_camera"
+"origin" "-5064 18092 -712"
+"targetname" "camera2"
+}
+// entity 289
+{
+"classname" "trigger_multiple"
+"target" "target1"
+// brush 0
+{
+( 144 -980 -1532 ) ( 144 -1060 -1532 ) ( 144 -1060 -1628 ) common/trigger 56 8 0 0.5 0.5
+( 144 -1060 -1532 ) ( 168 -1060 -1532 ) ( 168 -1060 -1628 ) common/trigger -48 8 180.00002 0.5 -0.5
+( 168 -1060 -1628 ) ( 168 -980 -1628 ) ( 144 -980 -1628 ) common/trigger 56 48 90 0.5 0.5
+( 144 -980 -1532 ) ( 168 -980 -1532 ) ( 168 -1060 -1532 ) common/trigger 56 48 90 0.5 0.5
+( 168 -980 -1628 ) ( 168 -980 -1532 ) ( 144 -980 -1532 ) common/trigger -48 8 180.00002 0.5 -0.5
+( 168 -1060 -1532 ) ( 168 -980 -1532 ) ( 168 -980 -1628 ) common/trigger 56 8 0 0.5 0.5
+}
+}
+// entity 290
+{
+"classname" "target_exec"
+"origin" "136 -952 -1576"
+"targetname" "target1"
+"spawnflags" "32"
+"message" "map q3dm1"
+"notmultiworld" "1"
+}
+// entity 291
+{
+"classname" "target_exec"
+"origin" "200 -952 -1576"
+"targetname" "target1"
+"spawnflags" "32"
+"message" "game 0 1"
+"multiworld" "1"
+}
+// entity 292
+{
+"classname" "trigger_always"
+"origin" "328 -952 -1540"
+"wait" "3"
+"target" "load_map_client1"
+"multiworld" "1"
+}
+// entity 293
+{
+"classname" "target_exec"
+"origin" "328 -432 -1576"
+"targetname" "load_map_client1"
+"message" "load q3dm1"
+"spawnflags" "32"
 }
