@@ -1,0 +1,7 @@
+{
+	map		"noca1"
+	bots		"xaero ranger major"
+	longname	"The Edge"
+	fraglimit	69
+	type		"ffa ca"
+}

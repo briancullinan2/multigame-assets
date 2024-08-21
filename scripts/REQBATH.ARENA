@@ -1,0 +1,7 @@
+{ 
+map "reqbath" 
+bots "major razor sarge xaero anarki" 
+longname "Deathroom Bathroom" 
+fraglimit 20 
+type "ffa team tourney" 
+} 

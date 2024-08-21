@@ -1,0 +1,7 @@
+{
+map             "cascades"
+bots            ""
+longname        "Cascade Rails"
+fraglimit       10
+type            " ffa team"
+}

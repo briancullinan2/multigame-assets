@@ -1,0 +1,7 @@
+{
+map			"padshop"
+bots		"padman doom slash"
+longname	"PC Gamer presents PadShop by ENTE"
+fraglimit	20
+type		"ffa team"
+}

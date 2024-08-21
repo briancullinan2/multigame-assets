@@ -1,0 +1,7 @@
+{
+map	"wintergames"
+longname	"Winter Games"
+bots	"anarki slash major doom"
+fraglimit	20
+type	"ffa"
+}

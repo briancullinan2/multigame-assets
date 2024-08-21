@@ -1,0 +1,6 @@
+{
+map		"nor3ctf1"
+longname	"Derwyll's Castle 2"
+timelimit	"50"
+type		"team ctf"
+}

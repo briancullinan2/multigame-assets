@@ -1,0 +1,8 @@
+{
+	map "q3fp2002"
+	bots "keel"
+	longname "The Frag Pipe 2002"
+        timelimit 15
+	fraglimit 0
+	type "tourney"
+}

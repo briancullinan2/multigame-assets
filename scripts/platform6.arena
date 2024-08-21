@@ -1,0 +1,7 @@
+{
+map	"platform6"
+longname	"Platform6 by Cyben"
+bots	"anarki doom xaero"
+fraglimit	20
+type	"ffa team tourney"
+}

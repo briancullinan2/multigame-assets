@@ -1,0 +1,11 @@
+// Return to the Cistern
+// by Tabun (www.tabun.nl)
+
+{
+	map "tabq1dm5"
+	bots "angel tankjr sorlag"
+	longname "Return to the Cistern"
+	fraglimit 25
+	type "ffa tourney team"
+}
+

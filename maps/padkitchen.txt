@@ -1,0 +1,161 @@
+10/9/2000
+================================================================
+
+
+Title                   : PadKitchen for Quake III Arena
+Filename                : padKitchen.pk3
+Maps			: padKitchen.bsp
+Author                  : ENTE (Andreas Endres)
+Email Address           : mail@padman.de
+home page		:http://www.padman.de or www.padmaps.de
+
+			 
+Description		:Quake III Arena - dm map
+
+Instructions:
+-------------
+1 ) Extract padkitchen.pk3 into your Quake3/baseq3/ directory
+2 ) Start Quake3
+3 ) Both maps will be accessable from the menu
+
+* Play Information *
+
+type of game:
+padCenter - ffa & team dm
+
+
+
+ Settings                : Deathmatch, Team Deathmatch
+ Bot Support             : Bots are fully supported
+
+			: 
+Level Name(s)           : PadKitchen
+Single Player           : bots
+Cooperative 2-4 Player  : bots
+Deathmatch Player       : yes
+Ctf			: no
+Difficulty Settings     : bots again
+
+
+Puter:			:by TimeTurne, his machine is bigger as mean..;-)
+                        :AMD Athlon 700@753MHz /256ram PC133@107 MHz/win98SE 
+compile time:		:2:40 hours with bsp_FullVis 
+
+
+================================================================
+Credits:   
+ID Software, for Doom, Quake, Quake II, and Quake3Arena
+id software rules !
+================================================================
+
+In PadKitchen you are not bigger as an cup coffee..hehe
+This is my third Map in this Style and you will find many details and some jokes in this map.
+PadKitchen is a little bit smaller as PadGarden or Padpool and the Gameplay is a little bit faster too,
+but the FPS...yes, you know, the PadMaps are performance killer !!!! This map is full with many details, new textures and soundfiles and this 
+map is not so good for slow computers, really. 
+On my PII266Mhz, 128ram and with an TNT2 I have not more as 8FPS with two Bots on many places in PadKitchen.
+I will see what the most gamers think of this problem and when all peoples say, NOW, this is really to hard, than I must make a smaller PadKitchen
+Map...:(
+
+
+
+I hope you know my other maps PADMAN'S PADCASTLE, PADMAN'S PADHOME, PADGALLERY, PADCENTER, PADGARDEN, PADPOOL and PadSpace..:-))
+And the only real PADMAN Model from TONE (http://homepages.tig.com.au/~adbell/)
+
+My next project is a CTF version from PadGallery..;-)
+
+
+
+A Special Thank to:
+
+-Ronny Rassmuson from DiESELKOPF for idea to PadKitchen and for the cool kitchen soundfiles and the funny radio music file..!
+ I hope, he can make a complete new song for the background music in PadKitchen too...in the next...:-) 
+ The man:   Ronny Rassmuson
+ eMail:     ronny@sjostroms.se
+ homepage:  http://www.geocities.com/SunsetStrip/Alley/7013/
+
+-Frank[ger] for the many, many textures they he send me and they he search for me in the word wide web.
+Fantastic, now I have enough for the next 8 maps...gg
+
+-TimeTurne, he help me to compiled PadKitchen, that was to hard for my olp PII266Mhz..:-)
+ TimeTurn write:
+ ---------
+ I'm very proud being the first who saw this map with bsp_FullVis
+ compiled and to be a beta tester for the previous (beta) release
+ of the greatest map ever! Now get it and prepare to die :)
+ 
+ A very big "Thank you" goes to ENTE for his great maps and for
+ mentioning me in the map itself as a beta tester and in this
+ readme :)
+
+ *Keep Going Andreas*
+
+ TimeTurn@gmx.de, http://www.timeturn.purespace.de
+ Visit our Clan [Masta Of Disasta] @ http://www.modclanstation.de
+ ---------
+
+-Michel who help me with many tips for my  maps....!!!
+ http://www.dangerzone.de.st (very good german tutor on his site)
+
+
+And to the Beta tester and for the help of PadKitchen:
+
+-Bomerlunder
+-Bonebraeker
+-CleanerWolf
+-Dangerzone
+-Frank[ger]
+-HiTMAN
+-KARMU
+-Magnacus
+-MEPHiSTO
+-MR.SLOMO
+-RONNY
+-TEAM-AK
+-TEAM-DD
+-TiMETURN
+-TONE
+-Worldman
+
+
+
+
+And a very special big Thank to all of the Quake3 Sites; 
+
+www.quake.de        
+www.planetquake.de
+www.planetquake.com
+www.quake3world.com
+www.k-quake.de
+www.qscene.de
+www.quakerszone.de
+www.quakequakequake.com
+www.fragazone.com
+www.extreme-players.de
+www.swissarena.ch
+www.q3a.de
+www.3d-zone.de
+www.quake2.net
+www.stomped.com
+www.q3e.yashuu.de/
+www.quake3fans.de/
+www.planetquake.com/lvl/default.asp
+
+
+and to all the other Site for the nice reports of my Maps !
+================================================================
+
+
+* Legal Stuff *
+
+This level is (c) 2000 ENTE (Andreas Endres).
+You are not to include or distribute this map in any sort of commercial product without 
+first obtaining permission from the author.  You may not mass distribute this level via any 
+non-electronic means, including but not limited to compact disks, and floppy disks.
+
+
+The Comic charaktere PADMAN (c)ENTE  
+
+
+
+sorry, for my bad english..!!

@@ -1,0 +1,11 @@
+// The Heinous Place
+// by AndehX
+
+{
+	map "axdm1"
+	bots "doom ranger sarge"
+	longname "The Heinous Place"
+	fraglimit 20
+	type "ffa tourney team"
+}
+

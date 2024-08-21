@@ -1,0 +1,7 @@
+{
+map		"wmgdm1"
+bots		"Doom Hunter Mynx Sarge TankJr Visor "
+longname	"Ancient Greek Arena"
+fraglimit	50
+type		"ffa team "
+}

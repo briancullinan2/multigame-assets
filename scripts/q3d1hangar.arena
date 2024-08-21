@@ -1,0 +1,7 @@
+{
+map "q3d1hangar"
+bots "Doom Phobos Ranger "
+longname "Hangar"
+fraglimit "50"
+type "ffa team tourney "
+}

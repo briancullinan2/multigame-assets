@@ -1,0 +1,7 @@
+{
+map "marsv1"
+bots "Phobos Doom Grunt crash slash"
+longname "Vermilion Dreams"
+fraglimit 50
+type "ffa Team"
+}

@@ -1,0 +1,7 @@
+{
+map             "gas-st"
+bots            "Bitterman Bones Angel Hunter"
+longname        "TNK Gas Station by Anton"
+fraglimit       "0"
+type            "ffa tourney"
+}

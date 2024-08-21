@@ -1,0 +1,7 @@
+{
+map         "pom_bots"
+longname    "Pyramid Of the Bots"
+bots        "Hunter Sarge Lucy Bones Klesk Grunt"
+fraglimit   30
+type        "ffa tourney"
+}

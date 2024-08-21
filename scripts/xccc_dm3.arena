@@ -1,0 +1,8 @@
+{
+map			"xccc_dm3"
+bots		"keel slash bitterman biker"
+longname	"temple of the damned a tribute to ds´s church" 
+fraglimit    "75"
+timelimit 	"10"
+type		"tourney ffa team"
+}

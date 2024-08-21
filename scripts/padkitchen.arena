@@ -1,0 +1,7 @@
+{
+map		"padkitchen"
+bots		"padman no.one mr.spuck"
+longname	"ENTE'S PadKitchen"
+fraglimit	20
+type		"ffa team"
+}

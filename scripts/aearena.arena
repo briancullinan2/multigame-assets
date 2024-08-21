@@ -1,0 +1,7 @@
+{
+map			"aearena"
+bots		"doom klesk hunter daemia uriel tankjr crash"
+longname	"AEon's Arena"
+fraglimit	30
+type		"ffa team"
+}

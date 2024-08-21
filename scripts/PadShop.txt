@@ -1,0 +1,160 @@
+1/30/2001
+================================================================
+
+The american 'PC Gamer' presents PadShop
+
+
+
+Title                   : PC Gamer presents PadShop for Quake3
+Filename                : padshop.pk3
+Maps			: padshop.bsp
+Author                  : ENTE (Andreas Endres)
+Email Address           : mail@padman.de
+home page		: http://www.padmaps.de or www.padman.de
+
+Models by TONE          : http://homepages.tig.com.au/~adbell/index.html
+                        : abell@iname.com
+
+Music by DiESELKOPF     : http://www.geocities.com/SunsetStrip/Alley/7013/
+                        : deady@geocities.com
+
+Presentator PC Gamer    : http://www.pcgamer.com
+                        
+
+			 
+Description		:Q3A - dm map
+
+Instructions:
+-------------
+1 ) Extract padshop.pk3 into your quake3/baseq3/ directory
+2 ) Start Quake3
+3 ) Both maps will be accessable from the menu
+
+* Playing Information *
+
+type of game:
+padshop - ffa & team dm
+
+
+
+ Settings                : Deathmatch, Team Deathmatch
+ Bot Support             : Bots are fully supported
+
+			: 
+Level Name(s)           : PadShop
+Single Player           : bots
+Cooperative 2-4 Player  : bots
+Deathmatch Player       : yes
+Ctf			: no
+Difficulty Settings     : bots again
+
+
+Puter:			:AMD 900MHz, 256ram, GeFoce2 
+compile time:		:6,20 Hours with FullVis 
+
+
+================================================================
+
+PadShop is a pad-map for the fantastic 'PC gamer' magazin.
+This was really a honor and a great felling for me and my work that I get this big 
+offer to made a special map for a magazin how PC gamer.
+Big, big, big, Thanks !!!
+What is PadShop..?
+PadShop is a great pc games shop and in this you are not bigger as an gashopper.
+You will find many food for your eyes how new models, new textures, nice jokes and some 
+secrets (in this map are four other rooms, two of this are secret rooms..gg).
+Than you hear nice soundfiles and new music, special for this map (for this you need 
+the extra music file).
+PadShop is a really big map, a hardware killer how my other maps PadGarden and PadKitchen.
+You need a verry good hardware to play this pad-map with high details, sorry.
+
+Okay, time to rock...!!!
+
+I hope you like it...!!??
+
+
+================================================================
+More of the Pad-Maps you can see on www.padmaps.de..!
+See the other 3A Pad-Maps: PADMAN'S PADCASTLE, PADMAN'S PADHOME, PADGALLERY, PADCENTER, 
+PADGARDEN, PADPOOL, PadSpace, PadKitchen
+Or my EF Pad-Maps; PadGallery, PadKitchen and PadGarden...!
+and the only real PADMAN Model from TONE (http://homepages.tig.com.au/~adbell/).
+================================================================
+
+
+The Skybox is from the Mighty Pete       : http://www.geocities.com/petes-oasis/ 
+                             Big Thanks..!!
+
+The 'Cpt.Kork' is Skin from Angstroem    : http://themen01.exit.de/pc/members/angstroem/
+                             Great Work !
+
+
+================================================================
+
+A Special Thank to:
+
+-Jeremy Williams:
+ for the great offer to made a map for PC Gamer and for the really great working with him.
+
+-TONE:
+ the maker of the PADMAN model, I love him for doing this...:)
+ He made the beautiful models in PadShop. Verry nice teamwork again and I hope it was not the
+ last.
+ 
+-Ronny:
+ the man behind the swedish band DiESELKOPF. Fantastic guy, fantastic music...hear his work in
+ PadSpace and PadKitchen too.
+
+-the BETA testers of PadShop:
+
+-Bomerlunder   : www.bomerlunder.de
+-KARMU         : find him on the PadServer..:)
+-Sixpack       : the big brother of Bomerlunder...hehe
+
+
+-All the PADMAN and Pad-Maps Fans, you are the best..!!!
+
+
+-Michel who help me with many tips for my  maps....!!!
+ http://www.dangerzone.de.st 
+
+
+And a very special big Thank to all of the Quake3 Sites; 
+
+www.quake.de        
+www.planetquake.de
+www.planetquake.com
+www.quake3world.com
+www.k-quake.de
+www.qscene.de
+www.quakerszone.de
+www.quakequakequake.com
+www.fragazone.com
+www.extreme-players.de
+www.swissarena.ch
+www.q3a.de
+www.3d-zone.de
+www.quake2.net
+www.stomped.com
+www.q3e.yashuu.de/
+www.quake3fans.de/
+www.planetquake.com/lvl/default.asp
+
+
+and to all the other Site for the nice reports of my Maps !
+================================================================
+
+
+* Legal Stuff *
+
+This level is (c) 2000 ENTE (Andreas Endres).
+You are not to include or distribute this map in any sort of commercial product without 
+first obtaining permission from the author.  You may not mass distribute this level via any 
+non-electronic means, including but not limited to compact disks, and floppy disks.
+
+
+The Comic charaktere PADMAN (c)ENTE  
+
+
+
+sorry, for my bad english..!!

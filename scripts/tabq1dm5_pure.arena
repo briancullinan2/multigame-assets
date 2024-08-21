@@ -1,0 +1,11 @@
+// Return to the Cistern
+// by Tabun (www.tabun.nl)
+
+{
+	map "tabq1dm5_pure"
+	bots "ranger keel wrack"
+	longname "Return to the Cistern (pure)"
+	fraglimit 25
+	type "ffa tourney team"
+}
+

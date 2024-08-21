@@ -1,0 +1,84 @@
+=====================================================================
+Title                   : AEon's Arena
+Filename                : map-AEarena.pk3
+Map			: AEarena.bsp
+Version                 : 03/17/2000  (r138)
+
+Author                  : Christoph A. Loewe (AEon)
+Email Address           : AEon@gxp.de
+Website                 : http://AEons.gametown.de
+			 
+Description		: Quake III Arena - DM Map in gothic style.
+                          Cathedral Arena, lots of Lava, Bi-Pyramids,
+                          Lava-Fall, Pool, "Secret"-Room, The Tube, 
+                          The Columns, The Dungeons...
+                          Map has distinct Quake(I)ish feel to it.
+
+Other Levels by Author  : AEcantow, AEcthdrl, AEcube for Half-Life. 
+                          AEcyrena, AEshake2 both for Quake II
+                          See http://aeons.gametown.de under "Files".
+
+Thanks to               : ^AP^, [F\N\S], [M7], Trigger, AciD|BurN,... 
+                          and others on IRC #quake2.ger & #gXp for 
+                          testing!
+=====================================================================
+
+
+* Instructions *
+
+1) Extract aearena.pk3 into your Quake3/baseq3/ directory
+2) Start Quake3
+3) Maps will be accessable from the menu
+
+
+* Play Information *
+
+Settings                : Deathmatch, Team Deathmatch
+Bot Support             : Bots are fully supported
+			: 
+Level Name              : AEarena
+Single Player           : Bots
+Cooperative 2-4 Player  : Bots
+Deathmatch Player       : yes (8 respawn points)
+Difficulty Settings     : Bots again
+
+Map build system	: p2 350MHz w/256 meg /Win98 & g400 16MB
+Number cruncher		: Dual p2-450MHz w/256 meg /NT4.0
+Compile Time 		: 1:50 hours (full vis), 
+                          5:28 hours (light -extra)
+
+
+* Construction *
+
+Base                    : Completely from scratch
+Editor used             : Q3Radiant v1.81
+Known Bugs              : None of importance 8-)
+Build time	        : Weeks sorta :)... February 4th - March 14th
+
+New Textures            : yes... 7 new textures based on gothic_block/blocks9. 
+                          Quake (I) inspired Art was provided by [M7] <M7@bigfoot.de>
+                          Levelshot touched up by Trigger <Trigger@gXp.de>
+                          "BFG-Free Zone" sign by TF|Pot <Pot@gxp.de> 
+                          Thanx folks :))
+New Sounds              : nope... (nearly had a Quake (I) monster roar in there :)
+
+
+* Credits *
+
+Thanx to id Software, for Doom, Quake, Quake II, and Quake3Arena.
+The gothic_block/blocks9 texture is part of Quake III Arena and Copyright 
+by id Software.
+
+
+* Legal Stuff *
+
+This level is (c) 2000 Christoph A. Loewe (AEon).
+You are not to include or distribute this map in any sort of commercial 
+product without first obtaining permission from the author.  You may not mass 
+distribute this level via any non-electronic means, including but not limited 
+to compact disks, and floppy disks.
+
+
+* Where to get this map *
+
+AEons.gametown.de, www.quake3arena.de, ftp.cdrom.com and mirror sites.

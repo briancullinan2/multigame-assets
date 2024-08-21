@@ -32,7 +32,6 @@ textures/glass/darkglass
                       qer_trans .5
                       surfaceparm trans
 		      surfaceparm solid
-			surfaceparm glass
 
                       cull disable
                       {
@@ -54,65 +53,112 @@ textures/glass/plainglass
 {
 	surfaceparm nolightmap
 	surfaceparm nonsolid
+
 	cull twosided
 	{
 		map textures/glass/plainglass.tga
 		tcGen environment
 		blendfunc GL_ONE GL_ONE
-                }
+      }
 }
 
-textures/glass/darkglass2
-{
-	qer_trans .5
-	surfaceparm trans
-	surfaceparm nonsolid
-	surfaceparm glass
-
-	cull disable
-	{
-		map textures/glass/darkglass.tga
-		tcgen environment
-		blendfunc gl_one gl_one
-		rgbGen identity
-	}
-	{
-		map $lightmap
-		blendFunc gl_dst_color gl_zero
-		rgbgen identity
-	}
+textures/glass/haste_onesided
+{ 
+  qer_editorimage textures/effects/tinfx.tga
+  qer_trans 0.4 
+  surfaceparm trans 
+  surfaceparm nolightmap 
+  { 
+     map textures/effects/tinfx.tga 
+     blendFunc blend 
+     tcGen environment 
+     //rgbgen identity
+     rgbgen const ( 0.0 0.8 0.8 )  
+     alphagen const 0.35 
+  }
 }
 
-//Created by Louie "KnightBK" Doulias for Black Knights Productions, Prisoners of War Q3 Mod.  
-//Please check out our mod site at http://www.og-world.com/bkp/
-
-//
-// LADDERCLIP
-//
-textures/urban_terror/ladderclip
-{
-	qer_trans 0.40
-	surfaceparm nolightmap
-	surfaceparm nomarks
-	surfaceparm nodraw
-	surfaceparm nonsolid
-	surfaceparm playerclip
-	surfaceparm noimpact
-	surfaceparm ladder
+textures/glass/opaque_glass
+{ 
+  qer_editorimage textures/effects/tinfx.tga
+  {
+    map textures/effects/tinfx.tga 
+    tcGen environment
+    //rgbGen identity
+    rgbgen const ( 0.0 0.8 0.8 )  
+  } 
+  //{
+      //map textures/base_trim/pewter_shiney.tga
+      //blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
+      //rgbGen identity
+  //} 
+  {
+    map $lightmap
+    blendFunc GL_DST_COLOR GL_ONE_MINUS_DST_ALPHA
+    rgbGen identity
+    //rgbgen const ( 0.0 0.8 0.8 )  
+  }
 }
 
 
-textures/ut_subway/subway_sky
-{
-	surfaceparm noimpact
-	qer_editorimage textures/ut_subway/subway_sky_blend.tga
-	surfaceparm nolightmap
-	surfaceparm sky
-//	q3map_skyambientlight 6
-	q3map_sun 1.000000 0.947734 0.735540 225 300 60  //old values q3map_sun 1.0 0.947734 0.735540 75 300 60
-	q3map_surfacelight 300 //old value 100
-	q3map_globaltexture
-	q3map_lightsubdivide 512
-	skyparms env/ut_subway 256 -
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,0 +1,10 @@
+
+
+{
+map			"bloodrust"
+bots		"orbb hossman bitterman grunt"
+longname	"bloodrustin"
+fraglimit	40
+type		"ffa team"
+}
+

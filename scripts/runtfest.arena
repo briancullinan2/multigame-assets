@@ -1,0 +1,8 @@
+
+{
+map "runtfest"
+bots "ranger mynx visor crash"
+longname "RuntFesT"
+fraglimit 20
+type "ffa"
+}

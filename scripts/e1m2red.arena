@@ -1,0 +1,8 @@
+{
+	map		"e1m2red"
+	longname	"E1M2: Deva Plant"
+	fraglimit	0
+	timelimit	15
+	bots		"doom phobos ranger bitterman mynx"
+	type		"ffa tourney team"
+}

@@ -1,0 +1,8 @@
+{
+map	"lun3dm3"
+longname	"A Load of Useless Bloody Loonies"
+bots	"flynn mace bryson mccormick"
+type	"ffa tourney"
+timelimit	"0"
+fraglimit	"75"
+}

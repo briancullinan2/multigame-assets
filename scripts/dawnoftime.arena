@@ -1,0 +1,8 @@
+{
+map "dawnoftime"
+longname "Dawn of Time"
+bots "hunter lucy keel gorre ranger"
+type "tourney ffa team ctf"
+fraglimit 25
+timelimit 0
+}

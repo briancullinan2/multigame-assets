@@ -1,0 +1,65 @@
+**Skeleton pack by Gollum**
+
+Title                   	: Skeleton pack
+Mapobject types			: Skeletons in different positions
+Date                    	: August 5 - 8
+Filename                	: skeletons.pk3
+
+Author                  	: Gollum
+Email Address           	: sam.a.williams@virginnet.co.uk
+
+Program Used			: milkshape
+Additional Ideas / Remarks	: Used Id's .tga and initial models for railgun and skeleton
+
+============================================================================
+
+As the base model i took the skeleton model, made by Kenneth Scott, from the 
+Id Software team. Thanx Kenneth.
+
+Basicaly i wanted summut to help me get to know milkshape
+
+=============================================================================
+* How to install the models *
+=============================================================================
+put the pk3 into baseq3...Or if that fails:
+
+=============================================================================
+* How to add these models to your maps *
+=============================================================================
+Start Q3radiant and open/create the destination map for the model.
+Right click wherever you want and select the "misc-model" option.
+Close the browser and type this in the "key" and "value" boxes from the 
+newborn floating window:
+
+Key: "model"
+
+Value: "models/mapobjects/skeletons/crucified/crucified.md3" 
+       "models/mapobjects/skeletons/sit_headless/sit_headless.md3"
+       "models/mapobjects/skeletons/sit_rail/sit_rail.md3"
+       "models/mapobjects/skeletons/suspend/suspend.md3"
+
+Depending in which of the four versions you want to add.
+
+=============================================================================
+* Permissions *
+=============================================================================
+These mapobjects may be electronically distributed only at no charge to
+the recipient, and may not be modified in any way.  This text file
+must be included with the models.
+These models may not be distributed on any CD-ROM without the prior,
+explicit consent of its author.
+You may run these on your server as long as no money is charged to 
+players for playing on you server.
+
+=============================================================================
+* IMPORTANT NOTE *
+=============================================================================
+Remember that, in order that other players can see correctly the mapobjects 
+in your map, you'll have to include at least every custom .tga and . shader (included in the
+mapobject .pk3 file) files you used in your zipfile at distribution.
+
+If you are going to display and distribute models or skins based on repositioning 
+or recoloring existing id models and or skins, please note and include the proper 
+id copyright information on the accompanying readme documentation. 
+You should also attribute both the model and the skin to Kenneth Scott, 
+the id artist who created the original for Quake 3 Arena.

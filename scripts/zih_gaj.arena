@@ -1,0 +1,8 @@
+{
+map         "zih_gaj"
+longname    "Gajapoor by Zihaben"
+bots        "Angel Bones Daemia Doom Keel"
+fraglimit   20
+timelimit   20
+type        "ffa"
+}

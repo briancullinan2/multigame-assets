@@ -1,0 +1,7 @@
+{
+map             "stchdm1"
+bots            "Anarki Bitterman Daemia Klesk Major Tankjr"
+longname        "Poolshark"
+fraglimit       "10"
+type            " ffa team"
+}

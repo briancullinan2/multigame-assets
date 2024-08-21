@@ -1,0 +1,7 @@
+{
+map         "FLWFW"
+bots        "doom hunter bitterman"
+longname    "FRANK LLOYD WRIGHT'S - FALLING WATER"
+fraglimit   20
+type        "team ffa tourney"
+}

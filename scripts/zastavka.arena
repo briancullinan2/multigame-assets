@@ -1,0 +1,7 @@
+{
+       map "zastavka"
+       bots "maxell millhouse pascal roman"
+       longname "obec: Zastavka u Brna"
+       fraglimit 25
+       type "ffa tourney team"
+}

@@ -1,0 +1,7 @@
+{
+map		"q3hipdm1"
+bots		"doom slash sarge klesk ranger"
+longname	"The Edge of Oblivion"
+fraglimit	32
+type		"ffa team"
+}

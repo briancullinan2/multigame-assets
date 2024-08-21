@@ -1,0 +1,23 @@
+{
+name		Flynn
+model		doom/junglestorm
+aifile	bots/flynn_c.c
+}
+
+{
+name		Mace
+model		doom/redstorm
+aifile	bots/mace_c.c
+}
+
+{
+name		Bryson
+model		doom/desertstorm
+aifile	bots/bryson_c.c
+}
+
+{
+name		McCormick
+model		doom/urbanstorm
+aifile	bots/mccormick_c.c
+}

@@ -1,0 +1,7 @@
+{
+	map		"nodm10_beta4"
+	bots		"xaero"
+	longname	"The Edge"
+	fraglimit	69
+	type		"tourney ffa team"
+}

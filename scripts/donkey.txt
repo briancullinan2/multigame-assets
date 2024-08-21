@@ -1,0 +1,73 @@
+date:  June 2012
+Quake3 Arena level 
+
+====================================================
+title:            Dual Cores
+file:             dk_msg4_ctf.pk3
+author:           dONKEY 
+email address:    dk@leveldk.co.uk
+URL:             http://www.leveldk.co.uk
+description:      Quake 3 Arena level
+             
+
+====================================================
+play information
+
+skills 0,1,2,3:   no
+tourney:          no
+deathmatch:       no
+CTF:              yes
+Bot File (aas):   yes
+other:            no
+new sounds:       yes
+new graphics:     yes
+new music:        no
+new textures:	  yes
+how to play       place dk_msg4_ctf.pk3 in your /baseq3/ folder
+                  start quake 3 Arena
+		  Map should appear in the create servermenu,
+		  but probably will not load with bots 
+		  selected so...       
+                  hit ~
+                  type \map dk_msg4_ctf
+                  type \addbot <botname> <skill>
+                  hit ~ (to clear the console)
+                  
+====================================================
+info: My entry for the 2012 Maverick Servers and Gaming level design competition.
+A Capture the Flag level for Quake 3, with (almost) all new assets designed and built for this map.
+Two partially decommissioned atomic reactors sit facing each other in opposition. Perched, crumbling into the sea atop of rocky cliff tops. Perfect place for a CTF arena....:)
+N.B.
+I had problems with the level's aas (bot navigation) file. In spite of my best effort an aas file created from the map's bsp crashed Quake 3.
+I had to create a separate bot-only-map and apply -fixaas to link the bsp and aas. Even so Quake 3 still refuses to load on my clean test install if bots are pre-selected from the skirmish menu. Load the map without bots, then add bots from the in game menu.
+Due to the hasty construction of the bot-only-map, bots will be seen acting more dumb than usual at times, as they get confused by geometry that does not exist in their navigation files. That said, on hardcore, with 2 teams of 3 or 4, bots will use the entire level, all of the routes and will make flag captures.
+==================================================== 
+construction
+
+base:           none
+editor:         GTKRadiant 1.5
+other progs:    Q3map2, Paint Shop Pro, Gimp and Blender3D
+know bugs:      Sigh, mainly bots...
+build time:     Not too long....
+
+====================================================
+thanx to ...All design, models and textures built or painted from scratch by the author :) With the exception of waterfall texture by Kit Carson, water spalsh effect from Noruen, water particles from Rota, and some shader scripting from Obsidian. Sound files were taken from free source sound effects sites.
+The majority of textures were based from photo source material taken by the author, others were based on free material from CG Textures.
+
+====================================================
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2012, dONKEY, dk@leveldk.co.uk
+All rights reserved.
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+====================================================
+

@@ -1,0 +1,23 @@
+{
+map	        "q3adler"
+bots		"Patriot"
+fraglimit	20
+timelimit	5
+type		"tourney"
+}
+
+{
+map	        "q3death"
+bots		"Angel Cadavre"
+fraglimit	25
+timelimit	10
+type		"ffa"
+}
+
+{
+map	        "q3damned"
+bots		"Grunt Hossman Hunter"
+fraglimit	20
+timelimit	5
+type		"team"
+}

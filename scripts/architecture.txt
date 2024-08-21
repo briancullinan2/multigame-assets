@@ -1,0 +1,179 @@
+
+{
+map			"chartres"
+bots		"mummy ogre"
+longname	"Chartres"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"phantq3dm4"
+bots		"mummy ogre"
+longname	"Windsong Keep"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"csq3sg1"
+bots		"mummy ogre"
+longname	"Camelot Castle / Sahra Catacombs"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"wmgdm1"
+bots		"mummy ogre"
+longname	"Ancient Greek Arena"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+
+
+
+
+
+
+
+{
+map			"padshop"
+bots		"mummy ogre"
+longname	"PadShop"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"padkitchen"
+bots		"knight demon"
+longname	"PadKitchen"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"reqbath"
+bots		"knight demon"
+longname	"Nu Clear Lunch Time"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"stchdm1"
+bots		"knight demon"
+longname	"POOLSHARK"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+
+
+
+
+{
+map			"zih_gaj"
+bots		"mummy ogre"
+longname	"Gajapoor"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"qsc_town"
+bots		"mummy ogre"
+longname	"Krichevo Town"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"zastavka"
+bots		"mummy ogre"
+longname	"Obec: Zastavka u Brna"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"platform6"
+bots		"mummy ogre"
+longname	"Platform6"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+
+
+
+{
+map			"dk_msg4_ctf"
+bots		"knight demon mummy ogre"
+longname	"Dual Cores"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"nor3ctf1"
+bots		"knight demon mummy ogre"
+longname	"Derwyll's Castle 2"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"pom_bots"
+bots		"knight demon mummy ogre"
+longname	"Pyramid of the Magician"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"wvwq3dm7"
+bots		"knight demon mummy ogre"
+longname	"Decidia"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+
+
+
+{
+map			"cascades"
+bots		"knight demon mummy ogre"
+longname	"Cascade Rails"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"estatica"
+bots		"knight demon mummy ogre"
+longname	"Estatica"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"gas-st"
+bots		"knight demon mummy ogre"
+longname	"TNK gas station"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+{
+map			"FLWFW"
+bots		"knight demon mummy ogre"
+longname	"Falling Water"
+fraglimit	10
+type		"single ffa tourney"
+}
+
+

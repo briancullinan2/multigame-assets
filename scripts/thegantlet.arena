@@ -1,0 +1,7 @@
+{
+map             "thegantlet"
+bots            "Phobos Sarge Uriel"
+longname        "The Gantlet"
+fraglimit       "50"
+type            " ffa"
+}

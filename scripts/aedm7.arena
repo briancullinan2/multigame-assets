@@ -1,0 +1,7 @@
+{
+map	 "aedm7"
+longname "AEon's DM7 Redux"
+bots	 "doom visor tankjr major klesk anarki hunter"
+fraglimit 30
+type	 "ffa team"
+}

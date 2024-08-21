@@ -1,0 +1,7 @@
+{
+map		"phantq3dm4"
+longname	"Windsong Keep"
+bots		"bitterman visor phobos"
+fraglimit	"20"
+type		"tourney ffa"
+}

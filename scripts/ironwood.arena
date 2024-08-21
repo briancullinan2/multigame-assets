@@ -1,0 +1,7 @@
+{
+map          "Ironwood"
+longname     "Ironwood"
+capturelimit 8
+type         "ctf"
+author       "pat howard"
+}

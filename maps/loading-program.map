@@ -1864,6 +1864,8 @@
 "classname" "misc_portal_camera"
 "origin" "-5064 18092 -712"
 "targetname" "camera2"
+"spawnflags" "4"
+"roll" "180"
 }
 // entity 289
 {

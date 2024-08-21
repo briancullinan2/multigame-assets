@@ -1,0 +1,8 @@
+{
+map "estatica"
+longname "Estatica"
+bots "hunter lucy keel gorre ranger"
+type "tourney ffa"
+fraglimit 25
+timelimit 15
+}
