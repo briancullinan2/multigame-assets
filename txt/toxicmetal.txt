@@ -1,0 +1,40 @@
+*** This maps is designed for FFA, Quake 3 ARENA***
+
+================================================================
+Title                   : toxicmetal
+File name		: "toxicmetal"
+Author                  : PlayerName : Scorn/or/Unknown (real name : Samuel De Cruz)
+Email Address           : samdec86@yahoo.fr
+Description             : FFA
+================================================================
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch		: Yes
+Bots			: Yes
+=================================================================
+* Construction *
+
+
+Editor(s) used          : GTK 1.6
+New Textures            : Yes
+New Model(s)		: No
+New Sounds              : No
+New Music:              : No
+Known Bugs              : Hope nahhh
+Build Time              : Bout 16 hours
+			
+=================================================================
+*Details*
+This map will take you into a industrial environment where uranium is used to kill virus. ground area is toxic so
+be aware of toxic hazards... Try to reach the center of the map to get the quad damage. You can also move around the map while 
+being on a storage train. 
+
+
+=================================================================
+I am a futurist artist, you can see all my 3D work (100% free, no ads) here : 
+(robots,mutants,bases, spacecrafts,vehicular...)
+
+https://www.flickr.com/photos/132163973@N03/albums
+

@@ -1,0 +1,77 @@
+================================================================
+Title				: The Edge 2004 CPM Remix
+Date				: 25th February 2004
+
+Author				: Rich "swelt" Jacques
+
+Email Address			: swelt@cpma.org.uk
+Website				: http://www.cpma.org.uk
+
+Description			: Remake of Q2DM1 for Q3/CPMA
+
+		~~  OPTIMISED FOR CHALLENGE PROMODE  ~~
+			~ http://www.promode.org ~
+
+================================================================
+
+- Play Information -
+ : Make sure you have Quake III point release 1.31 or later.
+   (http://www.quake3arena.com/)
+ : Extract map_nodm10.pk3 from the zip into quake3/baseq3 folder.
+ : Find or start a dedicated server running the map
+ : or play vs bots /map nodm10
+
+- Level Information -
+Game type		: 1v1, ffa, tdm, ca
+Single Player		: Yes
+Player load		: 1v1, 2 - 8
+Weapons			: 2xSG, GL, 2xRL, PG, LG, Rail
+Stuff			: 2xYA, MH
+
+- Construction -
+Editors used	: GTKRadiant
+Utilities used	: Q3Map2, Editpad
+
+- Notes -
+
+Q2DM1 is an all time classic.  There are many remakes for many games, 
+but I felt that the world could do with just one more :)
+
+NODM10 is a straight remake.  Scale, the eternal enemy of the remake, is
+optimised for smaller CPM matches: 1v1, 2v2 is likely to be ideal.  That
+said, I've played at least one fun 4v4 tdm on it.  A quick word on the
+'chaingun corner':  You'll notice that I've added a chain mesh.  I really
+didn't want to do this, but without it there is a really simple way to 
+trickjump out of that dead end without having to come around the corner.
+This was a critical point of the map in Q2 and to lose that dead end trap
+altogether was not acceptable.  I tried many different options, and this
+was the best that I (or anyone I asked) could come up with.
+
+NOCA1 is an altered version, optimised for clan arena (hiding places removed)
+but also with a high octane FFA item loadout (including a Quad).  Good
+for a blast!
+
+
+- Credits -
+: id Software for Quake, Quake 2, Quake 3, the original Q2DM1
+	http://www.idsoftware.com
+: Lunaran for his texture sets (MKOxide + lun3dm4)
+	http://lunaran.fov120.com/
+: Than for his industrial textures
+	http://planetquake.com/cesspit/
+: Any other texture artists that have had their work jumbled up (oops!)
+: Everyone who has given me feedback
+: Everyone who has played this level, cheers!
+
+- Links -
+
+CPMA Homepage		http://www.promode.org
+CPMA.org.uk		http://www.cpma.org.uk
+
+
+- Copyright / Permissions -
+You may not include or distribute this map in any sort of 
+commercial product without permission from the author. You may 
+not mass distribute this level via any non-electronic means, 
+including but not limited to compact disks, and floppy disks
+without permission from the author.

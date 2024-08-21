@@ -1,0 +1,88 @@
+===========================================================================================
+    TABQ1DM5          Return to the Cistern          by Tabun                2009-10-27
+===========================================================================================
+
+    Title               : Return to the Cistern
+    Filename            : tabq1dm5.pk3
+    Author              : Asmodai Tabun
+    Email Address       : tabun@xs4all.nl
+    Web Sites           : http://www.tabun.nl
+			  http://www.wireheadstudios.org
+
+    This is my second released map -- the first being "Return to the Entryway" (tabd2map01).
+    I've picked up a few new techniques and learned better ways to construct maps, and
+    I hope (and tend to think) it shows.
+
+- Play Information -----------------------------------------------------------------------
+
+    Player Base :   Designed for FFA (3-5) and tourney.
+    Note	:   The map is, and is supposed to be, mainly material for nostalgia-gaming.
+		    It is most enjoyably played with the Generations Arena mod
+		    (http://www.wireheadstudios.org), which recreates a mix of old-school
+		    id gameplay in the Quake 3 environment.
+    Versions    :
+			TABQ1DM5
+				Default, alternative Q3A-friendly item layout
+				(RL, RG, LG, SG, GL, PG / RA, MH, YA)
+			TABQ1DM5_PURE
+				"Purist" version with (mostly) exact item layout from
+				Quake's DM5.
+			
+
+
+- Construction ---------------------------------------------------------------------------
+    Brushes             : ~3300
+    Average R_Speeds    : ~7500 world, w/ entities, no players
+    Worst Case R_Speeds : ~11500 world, w/ entities, no players
+    Editor(s) used      : GTKRadiant 1.5, Photoshop
+
+- Thanks ---------------------------------------------------------------------------------
+
+    Many thanks to:
+        - The people at Wirehead Studios who helped with testing and feedback (esp. Phoenix, 
+	  for doing his usual routing of extensive testing + lengthy and detailed feedback).
+	- The regulars at the Quake 3 World forum who really dedicate themselves to aiding
+	  other mappers (esp. AEon, for helping me figure out a few technical aspects
+	  of mapping I'd been in the dark on -- and for seeming to spend his every waking
+	  hour browsing the Q3W Forum).
+
+
+- Textures used --------------------------------------------------------------------------
+
+    All textures I've made myself (or composed myself from license-free materials,
+    mostly from http://cgtextures.com) (this includes the texture for the torch).
+
+    None of those textures may be modified without my explicit permission.
+    They may however be freely used for mapping purposes (as-is).
+    Give full credit where due.
+
+    Although I won't make a fuss over it, I'd like to think of this set of textures as
+    a set that specifically belongs to this map, and that should help to keep it looking
+    unique. I'd really appreciate it if you, if using these textures, don't build a map
+    with texture use recognisably similar to tabq1dm5.
+
+
+- Sounds ---------------------------------------------------------------------------------
+
+    http://www.freesound.org sounds used:
+
+	- 18265 	by 	zippi1			(underwater loop)
+	- 25879		by 	acclivity		(1shot sharp drip)
+	- 1014		by 	RHumphries		(1shot several drips)
+	- 17726		by	suonho			(1shot weird underwater)
+	- 60895		by	alextundra		(1shot creepy choir)
+	- 32422		by	ERH			(1shot creepy drone)
+
+    All files were (at least slightly) edited.
+
+
+- Copyright / Permissions ----------------------------------------------------------------
+
+ * You MAY: 
+- Distribute this pak file and/or its contents by any electronic means, provided you leave 
+the contents unaltered and include this text file, also unaltered.
+
+ * You MAY NOT:
+- Decompile or reproduce the BSP as a base to build additional levels or pre-fabs.
+  Make your own damned maps. (But not necessarily your own damn text-files ;))
+- Commercially exploit these files or their contents in any way.

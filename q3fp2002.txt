@@ -1,0 +1,80 @@
+Date: 13st of June 2002.
+Quake3Arena DM/Tourney level.
+
+====================================================
+title:            The Frag Pipe 2002
+file:             q3fp2002.pk3
+author:           Wesley "Simon" Tack
+email address:    simon.wt@pandora.be
+URL:              http://users.pandora.be/simon.wt
+description:      A remake of the popular Q2DM3 (The Frag Pipe),
+                  i for one liked that map very much, and i wanted
+                  to play it in Q3 also, since the "conversions" usualy
+                  were not to good, i desided to remake it from scratch.
+                  It a tactical 1on1 map, 8 spawnpoints. The weapons are
+                  pretty much the same as the Q2 map, there is no quad or
+                  powerups.
+
+====================================================
+play information
+
+tourney:          1on1/2on2
+deathmatch:       DM (up to 6 players)
+CTF:              no
+Bot File (aas):   yes
+other:            no
+new sounds:       no
+new graphics:     no
+new music:        no
+
+====================================================
+construction
+
+base:           Q2DM3 (The Frag Pipe)
+editor:         GTKRadiant 1.2.9
+other progs:    BSPC		  
+know bugs:      none
+build time:     WAY TO LONG!
+compile machine: AMD Athlon XP 1700+ / 512mb RAM / GeForce 3 Ti 200
+compile time:   approximately 20 minutes
+		(-vis, -light, -fast, -extra, -bounce 5)
+playtesters:    Slip, Grudge, SludgE, C-note, Salvador, Dark.
+
+====================================================
+how to play?
+
+- Make sure you have the latest Quake III: Arena patch installed,
+  For more information, visit http://www.quake3arena.com/
+- Unzip the contents of q3fp2002.zip to your Quake3\baseq3 folder.
+- Run Quake III: Arena.
+- From the main menu select Single player then Skirmish, select game type: Tournament,
+  the map should appear somewhere on the list, usually at the end.
+- Then select your bot (default: Keel), and have fun.
+
+====================================================
+thanks to
+
+- "Grudge": for helping me out debugging the map (without him there would be no Q3FP2002), very big thanks!
+            Grudge maps homepage: http://www.grudgedesign.com
+- "Slip": for his help on testing the map, very big help.
+- "Old Fellow": for helping me out with my SERIEUS LAVA TRAP problem, he made it work, thanks alot for that!
+- id Software for making the best FPS games out there!
+
+====================================================
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2002 Wesley "Simon" Tack
+All rights reserved.
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+====================================================
+Enjoy and thank you,
+-Simon

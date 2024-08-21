@@ -1,0 +1,106 @@
+
+--------------------------------------------------------------------------------------------
+ * LEVEL INFORMATION *
+--------------------------------------------------------------------------------------------
+TITLE			: q3Q1pak1
+FILENAME		: Place of two Deaths, Schloss Adler, Castle of the Damned
+rebuilt by			: H. Berger aka Insane Kid aka Rascal
+DATE			: Oct11
+GAME			: Q3A (ExcessivePlus, NoGhost, Nexuiz, OpenArena and others)
+TYPE			: 
+
+EMAIL ADDRESS		: SupaDJLova@hotmail.com
+
+HOMEPAGE URL		: www.excessivePlus.net
+			  openarena.ws
+			  nexuiz.com (alientrap.org/nexuiz/)
+			  noghost.net
+
+
+--------------------------------------------------------------------------------------------
+ * PLAY INSTRUCTIONS *
+--------------------------------------------------------------------------------------------
+
+1. Extract "q3Q1pak1.pk3" to your Q****3/baseq3 directory
+
+2. Select from the skirmish menu or type    \map q3deaths	q3adler	or q3damned    in the console
+
+3. Enjoy!
+
+
+--------------------------------------------------------------------------------------------
+ * AUTHOR's NOTES *
+--------------------------------------------------------------------------------------------
+
+These maps come from Quake1/QuakeWorld.
+
+Place of two Deaths	by id-software
+Schloss Adler		by Zaka
+Castle of the Damned	by American McGee
+
+
+--------------------------------------------------------------------------------------------
+ * NOTES ON BOTSUPPORT *
+--------------------------------------------------------------------------------------------
+
+
+For much more fun and gaming experience try with your friends at the next lan.
+Most enjoyable!     :)
+
+
+--------------------------------------------------------------------------------------------
+ * PREVIOUS MAPS FROM THE AUTHOR *
+--------------------------------------------------------------------------------------------
+
+Computer Station 2		q3D1dm7 (modified Doom1-map)
+
+q3Doom3			Hellplay, Eclipse, Edge2
+
+e+Doom1, 2, 3		from DOOM/zDaemon
+
+Q3Radikus		from Unreal
+
+
+and MANY others		
+
+
+--------------------------------------------------------------------------------------------
+ * CONSTRUCTION *
+--------------------------------------------------------------------------------------------
+MAP BASE		: taken from Quake1 (reconsidered and modified)
+PREFABS USED		: None
+TOOLs USED		: Q3Radiant 2.01
+
+
+CONSTRUCTION TIME
+BRUSH COUNT
+ENTITY COUNT
+KNOWN BUGS
+			
+
+COMPILE MACHINE         	:
+			 
+BSP TIME	
+VIS TIME
+LIGHT TIME
+BSPC TIME		: 1h
+
+
+
+--------------------------------------------------------------------------------------------
+ * QUOTES *
+--------------------------------------------------------------------------------------------
+
+"i like ur versions so much more than the originals" (Tartaros)
+
+
+
+
+--------------------------------------------------------------------------------------------
+ * CREDITS *
+--------------------------------------------------------------------------------------------
+
+
+-  id Software		For the game and all inspiration!!!
+-  E+Community		For their support.
++ Bleah 			for motivatin me! :> DooM-pal!

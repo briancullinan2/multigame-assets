@@ -1,0 +1,37 @@
+_______________
+House Of Chthon
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Game			: Quake 3 Arena
+Map Title		: House Of Chthon
+Map Filenames		: 13house.bsp
+Relase Date		: 9. September 2020
+
+Author			: Stefan Scholz "sst13"
+e-Mail			: sst13@gmx.de
+Author Homepage		: http://www.sst13.de
+
+Description		: Remake of Quake1 E1M7 with some additional passages.
+
+Player			: 4-10
+Gametypes		: FFA, Tourney, TDM
+Botsupport		: Yes
+
+New Textures		: Yes, mostly from the Quake Retexturing Project (http://qrp.quakeone.com)
+New Shaders		: Yes
+New Sounds		: Yes
+New Models		: chthonarm
+			  demon
+			  deamon_light
+			  eye
+			  firecage
+			  fireholder
+			  lavafall
+			  lava_filter1
+			  lava_filter2
+			  statue_knight1
+			  			  
+Editors used		: Q3Radiant v2.02 , Q3Map Explorer, q3map2 v2.5.17, q3ASE v1.5.3, NPhernos MD3 Compiler, Milkshape 3D v1.7.8
+Compile Machine		: Intel core i5 with 8GB RAM
+Compile Time		: 14min
+
+Credits			: id Software, Q3W Editing Forum & all "Bus Station tnucs"
