@@ -1,0 +1,32 @@
+________________________
+The Lost Yard - Extended
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Game			: Quake 3 Arena
+Map Title		: The Lost Yard - Extended (by sst13)
+Map Filename		: 13yard_xt.bsp
+Relase Date		: 15. January 2021
+
+Author			: Stefan Scholz "aka sst13 / [FDK]Railraver"
+e-Mail			: sst13@gmx.de
+Author Homepage		: http://www.sst13.de
+
+Description		: Quake1 styled version of q3dm17 "The Longest Yard" (Extended version of 13yard)
+
+Player			: 4-8
+Gametypes		: FFA, 1v1, TDM
+Botsupport		: Yes
+
+New Textures		: Yes, some modidified original and some from "Quake Retexturing Project" (http://qrp.quakeone.com)
+New Shaders		: Yes
+New Sounds		: Yes
+New Models		: nateivy (by Nathan Silvers)
+			  slipgate2
+			  chainend
+			  chain
+			  ring
+
+Editors used		: Q3Radiant v2.02 , Q3Map Explorer, q3map2 v2.5.17, q3ASE v1.5.3, NPhernos MD3 Compiler, Milkshape 3D v1.7.8
+Compile Machine		: Intel core i5 with 8GB RAM
+Compile Time		: 20min
+
+Credits			: id Software, Q3W Editing Forum & all "Bus Station tnucs"

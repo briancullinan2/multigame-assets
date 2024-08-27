@@ -392,3 +392,29 @@
 "spawnflags" "8"
 "health" "200"
 }
+// entity 25
+{
+"classname" "misc_model2"
+"origin" "2000 16 -1424"
+"model2" "maps/platforms/13yard-blitz-half.md3"
+"spawnflags" "8"
+"health" "200"
+"modelscale" "2"
+}
+// entity 26
+{
+"classname" "misc_model"
+"origin" "3600 -48 -1169"
+"model" "maps/clip/platforms/13yard-small.obj"
+"spawnflags" "2"
+"modelscale" "2"
+}
+// entity 27
+{
+"classname" "misc_model2"
+"origin" "3600 -48 -1168"
+"model2" "maps/platforms/13yard-small.obj"
+"spawnflags" "8"
+"health" "200"
+"modelscale" "2"
+}

@@ -1,0 +1,84 @@
+newmtl 13yard_xt/bars
+map_Kd textures/13yard_xt/bars
+
+newmtl 13yard_xt/bars2
+map_Kd textures/13yard_xt/bars2
+
+newmtl 13yard_xt/baselamp_flare_static
+map_Kd textures/13yard_xt/baselamp_flare_static
+
+newmtl 13yard_xt/block
+map_Kd textures/13yard_xt/block
+
+newmtl 13yard_xt/block_slime2
+map_Kd textures/13yard_xt/block_slime2
+
+newmtl 13yard_xt/block_slime_border
+map_Kd textures/13yard_xt/block_slime_border
+
+newmtl 13yard_xt/block_trim
+map_Kd textures/13yard_xt/block_trim
+
+newmtl 13yard_xt/block_trim_mix
+map_Kd textures/13yard_xt/block_trim_mix
+
+newmtl 13yard_xt/blockfloor_slime
+map_Kd textures/13yard_xt/blockfloor_slime
+
+newmtl 13yard_xt/crosslight_10k
+map_Kd textures/13yard_xt/crosslight_10k
+
+newmtl 13yard_xt/eyeball
+map_Kd textures/13yard_xt/eyeball
+
+newmtl 13yard_xt/grass_fog
+map_Kd textures/13yard_xt/grass_fog
+
+newmtl 13yard_xt/metal
+map_Kd textures/13yard_xt/metal
+
+newmtl 13yard_xt/metal_dark
+map_Kd textures/13yard_xt/metal_dark
+
+newmtl 13yard_xt/metal_dark_bolts_border
+map_Kd textures/13yard_xt/metal_dark_bolts_border
+
+newmtl 13yard_xt/metal_dark_trans
+map_Kd textures/13yard_xt/metal_dark_trans
+
+newmtl 13yard_xt/spine_move
+map_Kd textures/13yard_xt/spine_move
+
+newmtl 13yard_xt/waste
+map_Kd textures/13yard_xt/waste
+
+newmtl common/WTF
+
+newmtl common/botclip
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/clip
+map_Kd 
+
+newmtl common/hint
+map_Kd 
+
+newmtl common/nodraw
+map_Kd 
+
+newmtl common/origin
+map_Kd 
+
+newmtl common/watercaulk
+
+newmtl common/weapclip
+map_Kd 
+
+newmtl gothic_ceiling/xstucco7top
+
+newmtl skies/xblacksky_dm7
+map_Kd textures/skies/xblacksky_dm7
+
