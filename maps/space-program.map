@@ -384,3 +384,11 @@
 "light" "200"
 "classname" "light"
 }
+// entity 24
+{
+"classname" "misc_model2"
+"origin" "912 16 -1424"
+"model2" "maps/platforms/space-blitz.md3"
+"spawnflags" "8"
+"health" "200"
+}
