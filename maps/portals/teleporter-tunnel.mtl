@@ -1,0 +1,9 @@
+newmtl common/nodraw
+map_Kd 
+
+newmtl sfx/swirl_b1
+map_Kd textures/sfx/swirl_b1
+
+newmtl sfx2/bluegoal2
+map_Kd textures/sfx2/bluegoal2
+

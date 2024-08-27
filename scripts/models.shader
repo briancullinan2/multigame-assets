@@ -565,7 +565,7 @@ menu/art/font1_prop2
     map menu/art/font1_prop.tga
     blendFunc GL_ONE_MINUS_DST_ALPHA GL_SRC_ALPHA 
   }
-  
+
 }
 
 

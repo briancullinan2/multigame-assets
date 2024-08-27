@@ -1854,15 +1854,15 @@
 }
 // entity 287
 {
-"classname" "misc_model"
+"classname" "misc_model2"
 "origin" "-5200 17968 -784"
-"model" "maps/q3dm1-small.obj"
-"angles" "0 90 0"
+"model2" "maps/q3dm1-small.md3"
+"angles" "0 0 0"
 }
 // entity 288
 {
 "classname" "misc_portal_camera"
-"origin" "-5064 18092 -712"
+"origin" "-5128 18284 -712"
 "targetname" "camera2"
 "spawnflags" "4"
 "roll" "180"
