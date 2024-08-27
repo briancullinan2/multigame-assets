@@ -75,24 +75,24 @@ default
 11 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 12 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/skies2/nebula2
+	sampleSize 0
 }
 
 13 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/skies/portalfog
+	sampleSize 0
 }
 
 14 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/skies2/nebula2
+	shader textures/skies/portalfog
 	sampleSize 0
 }
 

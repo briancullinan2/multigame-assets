@@ -7,11 +7,11 @@ textures/skies/portalfog
 
 	qer_editorimage textures/skies/portalfog.tga
 
-	q3map_surfacelight 400
-	q3map_sun	1 1 0.5 150	30 60
+	//q3map_surfacelight 200
+	q3map_sun	1 1 0.5 50	30 60
 	//	q3map_sun	1 1 0.5 150	200 85
-	skyparms - 512 -
-	skyparms env/portalfog 256 -
+	//skyparms - 512 -
+	//skyparms env/portalfog 256 -
 
 	{
 		map textures/skies/portalfog.tga
@@ -34,7 +34,7 @@ textures/sfx/fog3
 	surfaceparm nolightmap
 	surfaceparm nonsolid
 	surfaceparm trans
-	fogparms ( 0.9 0.9 0.9 ) 4096
+	fogparms ( 0.9 0.9 0.9 ) 2048
 	{
 		map textures/liquids/kc_fogcloud3.tga
 		blendfunc filter

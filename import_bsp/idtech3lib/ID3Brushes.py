@@ -110,7 +110,7 @@ class Plane():
             raise Exception("False data to parse plane")
 
         data = array[3].split()
-        if len(data) != 9:
+        if len(data) != 9 and len(data) != 6:
             raise Exception("Non quake brush format definition found")
 
         points = (array[0], array[1], array[2])

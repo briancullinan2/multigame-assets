@@ -20,6 +20,17 @@ import_map_file(import_settings)
 
 bpy.context.view_layer.update()
 
+# https://github.com/SomaZ/Blender_BSP_Importer/blob/main/import_bsp/UI.py#L362
+# bpy.ops.export_scene.id3_md3(
+#     filepath = file,
+#     preset = "MATERIALS",
+#     only_selected = True,
+#     limits = "LEGACY",
+#     start_frame = 0,
+#     end_frame = 0,
+#     individual = False # use model space coordinates instead of world space
+#     )
+
 MD3.ExportMD3(
   sys.argv[4].replace('.map', '.md3'),
   bpy.data.objects,
