@@ -1,7 +1,5 @@
 import bpy
-from import_bsp import MD3
-from import_bsp.BlenderBSP import import_map_file,import_bsp_file
-from import_bsp.idtech3lib.ImportSettings import *
+# from import_bsp import MD3
 import sys
 from pathlib import Path
 
@@ -14,16 +12,16 @@ bpy.ops.object.delete()
 
 print(f'Starting {sys.argv[4]}...')
 
-import_settings = Import_Settings(
-  file=sys.argv[4]
-)
-
 extname = '.map'
-if ".map" not in import_settings.file:
+if ".map" not in sys.argv[4]:
   extname = '.bsp'
-  bpy.ops.import_scene.id3_bsp(filepath=sys.argv[4], preset="BRUSHES")
+  bpy.ops.import_scene.id3_bsp(
+    filepath=sys.argv[4], 
+    preset="PREVIEW", 
+    vert_map_packing="Primitive"
+    )
 else:
-  import_map_file(import_settings)
+  bpy.ops.import_scene.id_map(filepath=sys.argv[4])
 
 
 bpy.context.view_layer.update()
@@ -39,14 +37,22 @@ bpy.context.view_layer.update()
 #     individual = False # use model space coordinates instead of world space
 #     )
 
-MD3.ExportMD3(
-  sys.argv[4].replace(extname, '.md3'),
-  bpy.data.objects,
-  range(0, 1),
-  False,
-  True,
-  100000,
-  1024)
+try:
+  bpy.ops.export_scene.id3_md3(
+    filepath = sys.argv[4].replace(extname, '.md3'),
+    preset = "MATERIALS",
+    only_selected = False,
+    limits = "STUPID",
+    start_frame = 0,
+    end_frame = 0,
+    individual = False # use model space coordinates instead of world space
+  )
+except RuntimeError as err:
+  if not "Model exceeds MD3 bounds" in str(err):
+    raise RuntimeError
+except Exception as err:
+  if not "BSP format not supported" in str(err):
+    raise err
 
 for ob in bpy.data.objects:
    ob.scale = (0.5,0.5,0.5)
@@ -54,14 +60,22 @@ for ob in bpy.data.objects:
 
 bpy.context.view_layer.update()
 
-MD3.ExportMD3(
-  sys.argv[4].replace(extname, '-half.md3'),
-  bpy.data.objects,
-  range(0, 1),
-  False,
-  True,
-  100000,
-  1024)
+try:
+  bpy.ops.export_scene.id3_md3(
+    filepath = sys.argv[4].replace(extname, '-half.md3'),
+    preset = "MATERIALS",
+    only_selected = False,
+    limits = "STUPID",
+    start_frame = 0,
+    end_frame = 0,
+    individual = False # use model space coordinates instead of world space
+  )
+except RuntimeError as err:
+  if not "Model exceeds MD3 bounds" in str(err):
+    raise err
+except Exception as err:
+  if not "BSP format not supported" in str(err):
+    raise err
 
 for ob in bpy.data.objects:
    ob.scale = (0.25,0.25,0.25)
@@ -69,14 +83,56 @@ for ob in bpy.data.objects:
 
 bpy.context.view_layer.update()
 
-MD3.ExportMD3(
-  sys.argv[4].replace(extname, '-quarter.md3'),
-  bpy.data.objects,
-  range(0, 1),
-  False,
-  True,
-  100000,
-  1024)
+# MD3.ExportMD3(
+#   sys.argv[4].replace(extname, '-quarter.md3'),
+#   bpy.data.objects,
+#   range(0, 1),
+#   False,
+#   True,
+#   100000,
+#   1024)
+
+try:
+  bpy.ops.export_scene.id3_md3(
+    filepath = sys.argv[4].replace(extname, '-quarter.md3'),
+    preset = "MATERIALS",
+    only_selected = False,
+    limits = "STUPID",
+    start_frame = 0,
+    end_frame = 0,
+    individual = False # use model space coordinates instead of world space
+  )
+except RuntimeError as err:
+  if not "Model exceeds MD3 bounds" in str(err):
+    raise err
+except Exception as err:
+  if not "BSP format not supported" in str(err):
+    raise err
+
+
+for ob in bpy.data.objects:
+   ob.scale = (0.125,0.125,0.125)
+   bpy.ops.object.transform_apply(scale=True)
+
+bpy.context.view_layer.update()
+
+try:
+  bpy.ops.export_scene.id3_md3(
+    filepath = sys.argv[4].replace(extname, '-eigth.md3'),
+    preset = "MATERIALS",
+    only_selected = False,
+    limits = "STUPID",
+    start_frame = 0,
+    end_frame = 0,
+    individual = False # use model space coordinates instead of world space
+  )
+except RuntimeError as err:
+  if not "Model exceeds MD3 bounds" in str(err):
+    raise err
+except Exception as err:
+  if not "BSP format not supported" in str(err):
+    raise err
+
 
 # bpy.ops.wm.revert_mainfile()
 

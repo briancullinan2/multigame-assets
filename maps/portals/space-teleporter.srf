@@ -6,52 +6,50 @@ default
 	longestCurve 0.000000
 }
 
-0 // ESurfaceType::Triangles V: 28 I: 72 
+0 // ESurfaceType::Triangles V: 22 I: 60 
 {
-	shader models/mapobjects/jets/jet_1
+	shader models/mapobjects/teleporter/energy
 	sampleSize 0
 }
 
-1 // ESurfaceType::Triangles V: 4 I: 6 
+1 // ESurfaceType::Triangles V: 80 I: 180 
+{
+	shader models/mapobjects/teleporter/teleporter
+	sampleSize 0
+}
+
+2 // ESurfaceType::Triangles V: 16 I: 36 
+{
+	shader models/mapobjects/teleporter/teleporter_edge
+	sampleSize 0
+}
+
+3 // ESurfaceType::Triangles V: 33 I: 96 
+{
+	shader models/mapobjects/teleporter/pad
+	sampleSize 0
+}
+
+4 // ESurfaceType::Triangles V: 20 I: 72 
+{
+	shader models/mapobjects/teleporter/transparency
+	sampleSize 0
+}
+
+5 // ESurfaceType::Triangles V: 24 I: 96 
+{
+	shader models/mapobjects/teleporter/widget
+	sampleSize 0
+}
+
+6 // ESurfaceType::ForcedMeta V: 4 I: 6 
 {
 	shader models/mapobjects/jets/jet_as
-	sampleSize 0
 }
 
-2 // ESurfaceType::Triangles V: 28 I: 72 
-{
-	shader models/mapobjects/jets/jet_1
-	sampleSize 0
-}
-
-3 // ESurfaceType::Triangles V: 4 I: 6 
+7 // ESurfaceType::ForcedMeta V: 4 I: 6 
 {
 	shader models/mapobjects/jets/jet_as
-	sampleSize 0
-}
-
-4 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall/atech1_e
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-5 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall/atech1_e
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-6 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall/atech1_e
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-7 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall/atech1_e
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 8 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -80,152 +78,152 @@ default
 
 12 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_trim/basemetalsupport
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/base_wall/atech1_e
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-13 // ESurfaceType::Meta V: 6 I: 12 planar
+13 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_trim/basemetalsupport
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/base_wall/atech1_e
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-14 // ESurfaceType::Meta V: 6 I: 12 planar
+14 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_trim/basemetalsupport
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/base_wall/atech1_e
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 15 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_trim/basemetalsupport
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/base_wall/atech1_e
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 16 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/basemetalsupport
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-17 // ESurfaceType::Meta V: 4 I: 6 planar
+17 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/base_trim/basemetalsupport
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+18 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/base_trim/basemetalsupport
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+19 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/basemetalsupport
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-18 // ESurfaceType::Meta V: 4 I: 6 planar
+20 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/basemetalsupport
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+21 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/basemetalsupport
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+22 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-19 // ESurfaceType::Meta V: 4 I: 6 planar
+23 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-20 // ESurfaceType::Meta V: 19 I: 60 planar
+24 // ESurfaceType::Meta V: 19 I: 60 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-21 // ESurfaceType::Meta V: 19 I: 60 planar
+25 // ESurfaceType::Meta V: 19 I: 60 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-22 // ESurfaceType::Meta V: 6 I: 12 planar
+26 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-23 // ESurfaceType::Meta V: 6 I: 12 planar
+27 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-24 // ESurfaceType::Meta V: 6 I: 12 planar
+28 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-25 // ESurfaceType::Meta V: 6 I: 12 planar
+29 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/base_trim/dirty_pewter
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-26 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-27 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-28 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-29 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 30 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 31 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 32 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 33 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 34 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 35 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 36 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_trim/dirty_pewter
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 37 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -246,31 +244,103 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-40 // ESurfaceType::Meta V: 25 I: 72 planar
+40 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/dirty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+41 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/dirty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+42 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/dirty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+43 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/dirty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+44 // ESurfaceType::Meta V: 25 I: 72 planar
 {
 	shader textures/base_wall/metalfloor_wall_15
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-41 // ESurfaceType::Meta V: 14 I: 42 planar
+45 // ESurfaceType::Meta V: 14 I: 42 planar
 {
 	shader textures/base_floor/diamond2c
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-42 // ESurfaceType::Meta V: 4 I: 6 planar
+46 // ESurfaceType::Meta V: 10 I: 24 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+47 // ESurfaceType::Meta V: 8 I: 12 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+48 // ESurfaceType::Meta V: 10 I: 24 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( 0.000000 -1.000000 0.000000 )
+}
+
+49 // ESurfaceType::Meta V: 10 I: 24 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+50 // ESurfaceType::Meta V: 8 I: 12 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+51 // ESurfaceType::Meta V: 10 I: 24 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( 0.000000 -1.000000 0.000000 )
+}
+
+52 // ESurfaceType::Meta V: 6 I: 12 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( -1.000000 0.000000 0.000000 )
+}
+
+53 // ESurfaceType::Meta V: 6 I: 12 
+{
+	shader models/mapobjects/jets/jet_1
+	lightmapAxis ( -1.000000 0.000000 0.000000 )
+}
+
+54 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/sfx/pentfloor_diamond2c
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-43 // ESurfaceType::Meta V: 4 I: 6 planar
+55 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_floor/techfloor
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-44 // ESurfaceType::Meta V: 4 I: 6 planar
+56 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_floor/techfloor
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )

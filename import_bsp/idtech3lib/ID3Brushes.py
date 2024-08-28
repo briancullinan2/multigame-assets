@@ -63,7 +63,7 @@ class Plane():
             scale_y = 1.0
 
         best = 0.0
-        best_axis = None
+        best_axis = (0, 1)
         for axis in QUAKE_BASE_AXIS:
             dot_v = abs(dot(normal, axis))
             if (dot_v > (best + 0.0000001)):
