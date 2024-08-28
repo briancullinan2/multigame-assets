@@ -1,0 +1,242 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+1 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+2 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+3 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+4 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+5 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+6 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+7 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+8 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+9 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+10 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+11 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+12 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+13 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+14 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+15 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+16 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+17 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+18 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+19 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/sockter/wood1burnt
+	sampleSize 0
+}
+
+20 // ESurfaceType::Triangles V: 9 I: 24 
+{
+	shader textures/sockter/wood1toplit
+	sampleSize 0
+}
+
+21 // ESurfaceType::Triangles V: 8 I: 12 
+{
+	shader textures/sockter/flame1_editor
+	sampleSize 0
+}
+
+22 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+23 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+24 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+25 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+26 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+27 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+28 // ESurfaceType::Meta V: 9 I: 21 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+29 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+30 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+31 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+32 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+33 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+34 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+35 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+36 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+37 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+38 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_trim/melty_pewter
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+

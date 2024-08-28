@@ -1,0 +1,146 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+1 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+2 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+3 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+4 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04trim1b
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+5 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04trim1b
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+6 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04trim1b
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+7 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04trim1b
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+8 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04trim1b
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+9 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04trim1b
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+10 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04trim1b
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+11 // ESurfaceType::Meta V: 8 I: 18 planar
+{
+	shader textures/proto2/tin_floor06
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+12 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/concrete07_min
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+13 // ESurfaceType::Meta V: 8 I: 18 planar
+{
+	shader textures/proto2/concrete07_min
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+14 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+15 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+16 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+17 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+18 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+19 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+20 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+21 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/panel04red2
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+22 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/techfloor_kc
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+

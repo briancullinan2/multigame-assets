@@ -7,8 +7,9 @@ textures/skies/portalfog
 
 	qer_editorimage textures/skies/portalfog.tga
 
-	//q3map_surfacelight 200
-	q3map_sun	1 1 0.5 50	30 60
+	//q3map_surfacelight 100
+	//q3map_lightSubdivide 2048
+	q3map_sun	1 1 0.5 150	200 85
 	//	q3map_sun	1 1 0.5 150	200 85
 	//skyparms - 512 -
 	//skyparms env/portalfog 256 -
@@ -22,6 +23,36 @@ textures/skies/portalfog
 	{
 		map textures/skies/portalfog.tga
 		blendFunc GL_ONE GL_ONE
+		tcMod scroll 0.05 0.05
+		tcMod scale 3 3
+	}
+}
+
+textures/skies/portalfogred
+{
+
+	qer_editorimage textures/skies/portalfog.tga
+
+	//q3map_lightSubdivide 16
+	//q3map_surfacelight 100
+	//q3map_sun	1 0.1 0.1 50	30 60
+	//q3map_vertexScale 0.5
+	//	q3map_sun	1 1 0.5 150	200 85
+	//skyparms - 512 -
+	//skyparms env/portalfog 256 -
+	// tesssize 256
+	// cull disable
+	// deformVertexes wave 100 sin 5 5 .5 0.02
+	// fogparms 0.8519142 0.309723 0.0 128 128
+
+	{
+		map textures/skies/portalfog.tga
+		tcMod scroll 0.1 0.1
+		tcMod scale 3 2
+	}
+	{
+		map textures/skies/portalfog.tga
+		blendFunc add
 		tcMod scroll 0.05 0.05
 		tcMod scale 3 3
 	}
@@ -160,4 +191,18 @@ textures/skies/tim_hell
 	}
 }
 
+
+common/WTF
+{
+	surfaceparm nodraw
+	surfaceparm nomarks
+	surfaceparm nolightmap
+}
+
+textures/common/WTF
+{
+	surfaceparm nodraw
+	surfaceparm nomarks
+	surfaceparm nolightmap
+}
 

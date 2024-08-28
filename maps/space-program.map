@@ -382,18 +382,10 @@
 "origin" "912 16 -1424"
 "model2" "maps/platforms/space-blitz.md3"
 "spawnflags" "8"
-"health" "200"
-}
-// entity 25
-{
-"classname" "misc_model2"
-"origin" "2000 16 -1424"
-"model2" "maps/platforms/13yard-blitz-half.md3"
-"spawnflags" "8"
-"health" "200"
+"health" "20"
 "modelscale" "2"
 }
-// entity 26
+// entity 25
 {
 "classname" "misc_model"
 "origin" "3600 -48 -1169"
@@ -401,27 +393,85 @@
 "spawnflags" "2"
 "modelscale" "2"
 }
-// entity 27
+// entity 26
 {
 "classname" "misc_model2"
 "origin" "3600 -48 -1168"
 "model2" "maps/platforms/13yard-small.md3"
 "spawnflags" "8"
-"health" "200"
+"health" "20"
 "modelscale" "2"
+}
+// entity 27
+{
+"classname" "light"
+"origin" "1592 -248 -1288"
+"_color" "1 0 0"
+"light" "800"
+"radius" "128"
 }
 // entity 28
 {
 "classname" "func_static"
-"light" "300"
 "color" "1 0 0"
+"light" "100"
 // brush 0
 {
-( 1408 -256 -1280 ) ( 1408 -320 -1280 ) ( 1408 -320 -1344 ) common/clip 0 0 0 0.5 0.5
-( 1408 -320 -1280 ) ( 1472 -320 -1280 ) ( 1472 -320 -1344 ) common/clip 0 0 0 0.5 0.5
-( 1472 -320 -1344 ) ( 1472 -256 -1344 ) ( 1408 -256 -1344 ) common/clip 0 0 0 0.5 0.5
-( 1408 -256 -1280 ) ( 1472 -256 -1280 ) ( 1472 -320 -1280 ) common/clip 0 0 0 0.5 0.5
-( 1472 -256 -1344 ) ( 1472 -256 -1280 ) ( 1408 -256 -1280 ) common/clip 0 0 0 0.5 0.5
-( 1472 -320 -1280 ) ( 1472 -256 -1280 ) ( 1472 -256 -1344 ) common/clip 0 0 0 0.5 0.5
+( 1536 192 -1280 ) ( 1536 128 -1280 ) ( 1536 128 -1344 ) skies/portalfogred 0 0 0 0.5 0.5
+( 1536 128 -1280 ) ( 1600 128 -1280 ) ( 1600 128 -1344 ) skies/portalfogred 0 0 0 0.5 0.5
+( 1600 128 -1344 ) ( 1600 192 -1344 ) ( 1536 192 -1344 ) skies/portalfogred 0 0 0 0.5 0.5
+( 1536 192 -1280 ) ( 1600 192 -1280 ) ( 1600 128 -1280 ) skies/portalfogred 0 0 0 0.5 0.5
+( 1600 192 -1344 ) ( 1600 192 -1280 ) ( 1536 192 -1280 ) skies/portalfogred 0 0 0 0.5 0.5
+( 1600 128 -1280 ) ( 1600 192 -1280 ) ( 1600 192 -1344 ) skies/portalfogred 0 0 0 0.5 0.5
 }
+}
+// entity 29
+{
+"classname" "misc_model"
+"origin" "2000 2256 -1424"
+"model" "maps/platforms/13yard-blitz.obj"
+"spawnflags" "8"
+"health" "200"
+}
+// entity 30
+{
+"classname" "light"
+"origin" "1464 1992 -1288"
+"_color" "1 0 0"
+"light" "800"
+"radius" "128"
+}
+// entity 31
+{
+"classname" "misc_model2"
+"origin" "2192 -144 -1168"
+"model2" "maps/platforms/13yard-blitz-half.md3"
+"spawnflags" "8"
+"modelscale" "2"
+"health" "20"
+}
+// entity 32
+{
+"classname" "misc_model"
+"origin" "2192 -144 -1168"
+"model" "maps/clip/platforms/13yard-blitz-half.md3"
+"spawnflags" "2"
+"modelscale" "2"
+}
+// entity 33
+{
+"classname" "misc_model2"
+"origin" "2192 -2640 -1296"
+"model2" "maps/bases/central-half.md3"
+"spawnflags" "8"
+"modelscale" "2"
+"health" "20"
+}
+// entity 34
+{
+"classname" "misc_model"
+"origin" "2192 -2640 -1296"
+"model" "maps/clip/bases/central-half.md3"
+"spawnflags" "2"
+"modelscale" "2"
 }

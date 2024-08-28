@@ -1,0 +1,22 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/sockter/torchflame
+	entity 3
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/sockter/torchflame
+	entity 4
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+

@@ -1,6 +1,6 @@
 import bpy
 from import_bsp import MD3
-from import_bsp.BlenderBSP import import_map_file
+from import_bsp.BlenderBSP import import_map_file,import_bsp_file
 from import_bsp.idtech3lib.ImportSettings import *
 import sys
 from pathlib import Path
@@ -12,11 +12,19 @@ bpy.ops.object.delete()
 # bpy.ops.render.view_show('INVOKE_DEFAULT')
 
 
+print(f'Starting {sys.argv[4]}...')
+
 import_settings = Import_Settings(
   file=sys.argv[4]
 )
 
-import_map_file(import_settings)
+extname = '.map'
+if ".map" not in import_settings.file:
+  extname = '.bsp'
+  bpy.ops.import_scene.id3_bsp(filepath=sys.argv[4], preset="BRUSHES")
+else:
+  import_map_file(import_settings)
+
 
 bpy.context.view_layer.update()
 
@@ -32,7 +40,7 @@ bpy.context.view_layer.update()
 #     )
 
 MD3.ExportMD3(
-  sys.argv[4].replace('.map', '.md3'),
+  sys.argv[4].replace(extname, '.md3'),
   bpy.data.objects,
   range(0, 1),
   False,
@@ -47,7 +55,22 @@ for ob in bpy.data.objects:
 bpy.context.view_layer.update()
 
 MD3.ExportMD3(
-  sys.argv[4].replace('.map', '-half.md3'),
+  sys.argv[4].replace(extname, '-half.md3'),
+  bpy.data.objects,
+  range(0, 1),
+  False,
+  True,
+  100000,
+  1024)
+
+for ob in bpy.data.objects:
+   ob.scale = (0.25,0.25,0.25)
+   bpy.ops.object.transform_apply(scale=True)
+
+bpy.context.view_layer.update()
+
+MD3.ExportMD3(
+  sys.argv[4].replace(extname, '-quarter.md3'),
   bpy.data.objects,
   range(0, 1),
   False,

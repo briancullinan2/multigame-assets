@@ -1,0 +1,118 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/acid_fall
+	longestCurve 33.092247
+}
+
+1 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+3 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+4 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+5 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/gothic_wall/oct20clava
+	longestCurve 26.916595
+}
+
+6 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark_bolts_border
+	longestCurve 29.148865
+}
+
+7 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+8 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark_bolts_border
+	longestCurve 29.148865
+}
+
+9 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+10 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/gothic_wall/oct20clava
+	longestCurve 26.916595
+}
+
+11 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/gothic_wall/oct20clava
+	longestCurve 26.916595
+}
+
+12 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark_bolts_border
+	longestCurve 29.148865
+}
+
+13 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+14 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark_bolts_border
+	longestCurve 29.148865
+}
+
+15 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/13yard_xt/metal_dark
+	longestCurve 29.148865
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+16 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/gothic_wall/oct20clava
+	longestCurve 26.916595
+}
+

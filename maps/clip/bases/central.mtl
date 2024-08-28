@@ -1,0 +1,32 @@
+newmtl base_wall2/jumppad_ntrl_kc
+
+newmtl common/caulk
+
+newmtl common/clip
+
+newmtl common/nodraw
+
+newmtl common/weapclip
+
+newmtl proto2/concrete07_min
+
+newmtl proto2/concrete07_smth
+
+newmtl proto2/concrete07pillar
+
+newmtl proto2/eggfloor2
+
+newmtl proto2/panel04trim1b
+
+newmtl proto2/panel04trim2b
+
+newmtl proto2/steelsupport
+
+newmtl proto2/tin_floor06
+
+newmtl sfx2/blue_launchpad
+
+newmtl sfx2/jumpadtrim
+
+newmtl sfx2/red_launchpad
+

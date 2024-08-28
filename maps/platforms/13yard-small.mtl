@@ -1,70 +1,70 @@
 newmtl 13yard_xt/acid_blend
-map_Kd textures/13yard_xt/acid_blend
+map_Kd ../textures/13yard_xt/acid_blend
 
 newmtl 13yard_xt/acid_fall
-map_Kd textures/13yard_xt/acid_fall
+map_Kd ../textures/13yard_xt/acid_fall
 
 newmtl 13yard_xt/bars
-map_Kd textures/13yard_xt/bars
+map_Kd ../textures/13yard_xt/bars
 
 newmtl 13yard_xt/bars2
-map_Kd textures/13yard_xt/bars2
+map_Kd ../textures/13yard_xt/bars2
 
 newmtl 13yard_xt/block_slime
-map_Kd textures/13yard_xt/block_slime
+map_Kd ../textures/13yard_xt/block_slime
 
 newmtl 13yard_xt/block_slime2
-map_Kd textures/13yard_xt/block_slime2
+map_Kd ../textures/13yard_xt/block_slime2
 
 newmtl 13yard_xt/block_slime_border
-map_Kd textures/13yard_xt/block_slime_border
+map_Kd ../textures/13yard_xt/block_slime_border
 
 newmtl 13yard_xt/blockfloor_slime
-map_Kd textures/13yard_xt/blockfloor_slime
+map_Kd ../textures/13yard_xt/blockfloor_slime
 
 newmtl 13yard_xt/brickfloor2
-map_Kd textures/13yard_xt/brickfloor2
+map_Kd ../textures/13yard_xt/brickfloor2
 
 newmtl 13yard_xt/metal_dark
-map_Kd textures/13yard_xt/metal_dark
+map_Kd ../textures/13yard_xt/metal_dark
 
 newmtl 13yard_xt/metal_dark_bolts_border
-map_Kd textures/13yard_xt/metal_dark_bolts_border
+map_Kd ../textures/13yard_xt/metal_dark_bolts_border
 
 newmtl 13yard_xt/metal_dark_bolts_border3
-map_Kd textures/13yard_xt/metal_dark_bolts_border3
+map_Kd ../textures/13yard_xt/metal_dark_bolts_border3
 
 newmtl 13yard_xt/metal_dark_border2
-map_Kd textures/13yard_xt/metal_dark_border2
+map_Kd ../textures/13yard_xt/metal_dark_border2
 
 newmtl 13yard_xt/metal_dark_rune
-map_Kd textures/13yard_xt/metal_dark_rune
+map_Kd ../textures/13yard_xt/metal_dark_rune
 
 newmtl 13yard_xt/metal_dark_trans
-map_Kd textures/13yard_xt/metal_dark_trans
+map_Kd ../textures/13yard_xt/metal_dark_trans
 
 newmtl 13yard_xt/nobs_trans
-map_Kd textures/13yard_xt/nobs_trans
+map_Kd ../textures/13yard_xt/nobs_trans
 
 newmtl 13yard_xt/pitted_rott
-map_Kd textures/13yard_xt/pitted_rott
+map_Kd ../textures/13yard_xt/pitted_rott
 
 newmtl 13yard_xt/stucco_dirt
-map_Kd textures/13yard_xt/stucco_dirt
+map_Kd ../textures/13yard_xt/stucco_dirt
 
 newmtl 13yard_xt/switch
-map_Kd textures/13yard_xt/switch
+map_Kd ../textures/13yard_xt/switch
 
 newmtl 13yard_xt/waste_phong_z
-map_Kd textures/13yard_xt/waste_phong_z
+map_Kd ../textures/13yard_xt/waste_phong_z
 
 newmtl 13yard_xt/wind_launch
-map_Kd textures/13yard_xt/wind_launch
+map_Kd ../textures/13yard_xt/wind_launch
 
 newmtl common/WTF
 
 newmtl common/alpha_0
-map_Kd textures/common/alpha_0
+map_Kd ../textures/common/alpha_0
 
 newmtl common/caulk
 map_Kd 
@@ -87,13 +87,13 @@ map_Kd
 newmtl common/watercaulk
 
 newmtl gothic_trim/pitted_rust2
-map_Kd textures/gothic_trim/pitted_rust2
+map_Kd ../textures/gothic_trim/pitted_rust2
 
 newmtl gothic_trim/pitted_rust3_black
-map_Kd textures/gothic_trim/pitted_rust3_black
+map_Kd ../textures/gothic_trim/pitted_rust3_black
 
 newmtl gothic_wall/oct20clava
 
 newmtl skies/xblacksky_dm7
-map_Kd textures/skies/xblacksky_dm7
+map_Kd ../textures/skies/xblacksky_dm7
 

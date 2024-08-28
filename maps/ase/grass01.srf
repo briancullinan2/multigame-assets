@@ -1,0 +1,15 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Patch V: 15 I: 0 
+{
+	shader textures/sockter/grass01
+	longestCurve 40.249226
+	lightmapAxis ( 0.000000 -1.000000 0.000000 )
+}
+
