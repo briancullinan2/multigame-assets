@@ -3686,3 +3686,8 @@ patchDef2
 ( -8 24 256 ) ( -8 24 240 ) ( -8 -24 240 ) common/caulk 0 0 0 0.25 0.25 0 0 0
 }
 }
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "-96 80 320"
+}

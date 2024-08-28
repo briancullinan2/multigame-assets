@@ -3312,93 +3312,93 @@ default
 	sampleSize 0
 }
 
-551 // ESurfaceType::Meta V: 14 I: 24 planar
+551 // ESurfaceType::Triangles V: 954 I: 2472 
 {
-	shader textures/__TB_empty
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader maps/clip/platforms/noshader
+	sampleSize 0
 }
 
-552 // ESurfaceType::Meta V: 8 I: 12 planar
+552 // ESurfaceType::Triangles V: 597 I: 2085 
 {
-	shader textures/__TB_empty
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader maps/clip/bases/noshader
+	sampleSize 0
 }
 
 553 // ESurfaceType::Meta V: 14 I: 24 planar
 {
 	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+554 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+555 // ESurfaceType::Meta V: 14 I: 24 planar
+{
+	shader textures/__TB_empty
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-554 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-555 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 556 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 557 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 558 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-559 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-560 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/__TB_empty
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-561 // ESurfaceType::Meta V: 4 I: 6 planar
+559 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-562 // ESurfaceType::Meta V: 4 I: 6 planar
+560 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
+561 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+562 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
 563 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/skies2/nebula2
-	sampleSize 0
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 564 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/skies/portalfog
-	sampleSize 0
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 565 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/skies/portalfog
+	shader textures/skies2/nebula2
 	sampleSize 0
 }
 
@@ -3422,18 +3422,14 @@ default
 
 569 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	entity 12
-	castShadows 0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/skies/portalfog
+	sampleSize 0
 }
 
 570 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	entity 12
-	castShadows 0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/skies/portalfog
+	sampleSize 0
 }
 
 571 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3441,7 +3437,7 @@ default
 	shader textures/__TB_empty
 	entity 12
 	castShadows 0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 572 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3449,7 +3445,7 @@ default
 	shader textures/__TB_empty
 	entity 12
 	castShadows 0
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 573 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3457,7 +3453,7 @@ default
 	shader textures/__TB_empty
 	entity 12
 	castShadows 0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 574 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3465,23 +3461,23 @@ default
 	shader textures/__TB_empty
 	entity 12
 	castShadows 0
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 575 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
-	entity 14
+	entity 12
 	castShadows 0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 576 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
-	entity 14
+	entity 12
 	castShadows 0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 577 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3489,7 +3485,7 @@ default
 	shader textures/__TB_empty
 	entity 14
 	castShadows 0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 578 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3497,7 +3493,7 @@ default
 	shader textures/__TB_empty
 	entity 14
 	castShadows 0
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 579 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3505,7 +3501,7 @@ default
 	shader textures/__TB_empty
 	entity 14
 	castShadows 0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 580 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3513,23 +3509,23 @@ default
 	shader textures/__TB_empty
 	entity 14
 	castShadows 0
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 581 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/skies/portalfogred
-	entity 28
+	shader textures/__TB_empty
+	entity 14
 	castShadows 0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 582 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/skies/portalfogred
-	entity 28
+	shader textures/__TB_empty
+	entity 14
 	castShadows 0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 583 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3537,7 +3533,7 @@ default
 	shader textures/skies/portalfogred
 	entity 28
 	castShadows 0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 584 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3545,7 +3541,7 @@ default
 	shader textures/skies/portalfogred
 	entity 28
 	castShadows 0
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 585 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3553,7 +3549,7 @@ default
 	shader textures/skies/portalfogred
 	entity 28
 	castShadows 0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 586 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3561,23 +3557,23 @@ default
 	shader textures/skies/portalfogred
 	entity 28
 	castShadows 0
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 587 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	entity 35
+	shader textures/skies/portalfogred
+	entity 28
 	castShadows 0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 588 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	entity 35
+	shader textures/skies/portalfogred
+	entity 28
 	castShadows 0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 589 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3585,7 +3581,7 @@ default
 	shader textures/__TB_empty
 	entity 35
 	castShadows 0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 590 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3593,7 +3589,7 @@ default
 	shader textures/__TB_empty
 	entity 35
 	castShadows 0
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 591 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3601,10 +3597,26 @@ default
 	shader textures/__TB_empty
 	entity 35
 	castShadows 0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 592 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 35
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+593 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
+	entity 35
+	castShadows 0
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+594 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/__TB_empty
 	entity 35

@@ -17,8 +17,8 @@ if ".map" not in sys.argv[4]:
   extname = '.bsp'
   bpy.ops.import_scene.id3_bsp(
     filepath=sys.argv[4], 
-    preset="PREVIEW", 
-    vert_map_packing="Primitive"
+    preset="BRUSHES", 
+    vert_map_packing="Keep"
     )
 else:
   bpy.ops.import_scene.id_map(filepath=sys.argv[4])

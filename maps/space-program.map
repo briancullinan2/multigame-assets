@@ -5,7 +5,7 @@
 "classname" "worldspawn"
 "_tb_mod" "pak0.pk3dir;pak1.pk3dir;pak90.pk3dir;pak99.pk3dir;curry.pk3dir;common-spog.pk3dir;common-q3map2.pk3dir;pak91.pk3dir"
 "_tb_textures" "textures/common;textures/effects;textures/liquids;textures/liquids2;textures/sfx;textures/sfx2;textures/skies;textures/skies2"
-"gridsize" "512 512 512"
+"gridsize" "1024 1024 1024"
 // brush 0
 {
 ( -22384 17296 1824 ) ( -22384 -20032 1824 ) ( -22384 -20032 1792 ) __TB_empty 0 0 0 0.5 0.5

@@ -10,6 +10,7 @@ textures/skies/portalfog
 	//q3map_surfacelight 100
 	//q3map_lightSubdivide 2048
 	q3map_sun	1 1 0.5 150	200 85
+	q3map_gridsize 1024 1024 1024
 	//	q3map_sun	1 1 0.5 150	200 85
 	//skyparms - 512 -
 	//skyparms env/portalfog 256 -

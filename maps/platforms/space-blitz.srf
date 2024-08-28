@@ -24,136 +24,136 @@ default
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-3 // ESurfaceType::Meta V: 4 I: 6 planar
+3 // ESurfaceType::Meta V: 12 I: 24 planar
 {
-	shader textures/base_wall2/scuffs1
+	shader textures/base_wall2/space_concrete
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-4 // ESurfaceType::Meta V: 16 I: 42 planar
+4 // ESurfaceType::Meta V: 12 I: 24 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 5 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-6 // ESurfaceType::Meta V: 12 I: 36 planar
+6 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-7 // ESurfaceType::Meta V: 4 I: 6 planar
+7 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 8 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 9 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/blue_metal
+	shader textures/base_wall2/space_concrete
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 10 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 11 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-12 // ESurfaceType::Meta V: 4 I: 6 planar
+12 // ESurfaceType::Meta V: 6 I: 12 planar
 {
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 13 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+14 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+15 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+16 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+17 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+18 // ESurfaceType::Meta V: 14 I: 30 planar
+{
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+19 // ESurfaceType::Meta V: 14 I: 30 planar
+{
+	shader textures/base_wall2/space_concrete
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+20 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/scuffs1
+	sampleSize 0
+}
+
+21 // ESurfaceType::Meta V: 16 I: 42 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+22 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-14 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-15 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-16 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-17 // ESurfaceType::Meta V: 57 I: 204 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-18 // ESurfaceType::Meta V: 55 I: 189 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-19 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-20 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-21 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-22 // ESurfaceType::Meta V: 12 I: 30 planar
+23 // ESurfaceType::Meta V: 12 I: 36 planar
 {
 	shader textures/base_wall2/blue_metal
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-23 // ESurfaceType::Meta V: 4 I: 6 planar
+24 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-24 // ESurfaceType::Meta V: 11 I: 27 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 25 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -162,64 +162,64 @@ default
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-26 // ESurfaceType::Meta V: 8 I: 18 planar
+26 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 27 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 28 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 29 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 30 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-31 // ESurfaceType::Meta V: 9 I: 21 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-32 // ESurfaceType::Meta V: 4 I: 6 planar
+31 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-33 // ESurfaceType::Meta V: 12 I: 30 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-34 // ESurfaceType::Meta V: 4 I: 6 planar
+32 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-35 // ESurfaceType::Meta V: 4 I: 6 planar
+33 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+34 // ESurfaceType::Meta V: 57 I: 204 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+35 // ESurfaceType::Meta V: 55 I: 189 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 36 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -237,205 +237,205 @@ default
 38 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-39 // ESurfaceType::Meta V: 4 I: 6 planar
+39 // ESurfaceType::Meta V: 12 I: 30 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+40 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+41 // ESurfaceType::Meta V: 11 I: 27 planar
 {
 	shader textures/base_wall2/blue_metal
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-40 // ESurfaceType::Meta V: 13 I: 39 planar
+42 // ESurfaceType::Meta V: 8 I: 18 planar
 {
 	shader textures/base_wall2/blue_metal
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-41 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-42 // ESurfaceType::Meta V: 4 I: 6 planar
+43 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-43 // ESurfaceType::Meta V: 16 I: 42 planar
-{
-	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 44 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 45 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 46 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 47 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-48 // ESurfaceType::Meta V: 4 I: 6 planar
+48 // ESurfaceType::Meta V: 9 I: 21 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 49 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-50 // ESurfaceType::Meta V: 4 I: 6 planar
+50 // ESurfaceType::Meta V: 12 I: 30 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 51 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 52 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 53 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 54 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+55 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+56 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+57 // ESurfaceType::Meta V: 13 I: 39 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+58 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/blue_metal
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-55 // ESurfaceType::Meta V: 12 I: 24 planar
+59 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-56 // ESurfaceType::Meta V: 12 I: 24 planar
+60 // ESurfaceType::Meta V: 16 I: 42 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-57 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-58 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-59 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-60 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 61 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 62 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 63 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-64 // ESurfaceType::Meta V: 6 I: 12 planar
+64 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
+	shader textures/base_wall2/blue_metal
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 65 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 66 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 67 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-68 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-69 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-70 // ESurfaceType::Meta V: 14 I: 30 planar
-{
-	shader textures/base_wall2/space_concrete
+	shader textures/base_wall2/blue_metal
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-71 // ESurfaceType::Meta V: 14 I: 30 planar
+68 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/space_concrete
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+69 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+70 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+71 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/base_wall2/blue_metal
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 72 // ESurfaceType::Meta V: 4 I: 6 planar

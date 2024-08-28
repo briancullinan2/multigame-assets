@@ -8,191 +8,191 @@ default
 
 0 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/techfloor_kc_blue
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/proto2/concrete02dvt
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/base_wall2/jumppad_blue_kc
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/proto2/concrete02dvt
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02dvt
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 3 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02dvt
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 4 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02dvt
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 5 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02dvt
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 6 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02dvt
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 7 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02dvt
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-8 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/proto2/concrete02dvt
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-9 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/proto2/concrete02dvt
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-10 // ESurfaceType::Meta V: 12 I: 24 planar
+8 // ESurfaceType::Meta V: 12 I: 24 planar
 {
 	shader textures/proto2/heat_tile02
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-11 // ESurfaceType::Meta V: 4 I: 6 planar
+9 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+10 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/concrete02
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+11 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/concrete02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 12 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 13 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 14 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 15 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 16 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 17 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-18 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/proto2/concrete02
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-19 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/proto2/concrete02
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-20 // ESurfaceType::Meta V: 13 I: 30 planar
+18 // ESurfaceType::Meta V: 13 I: 30 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-21 // ESurfaceType::Meta V: 8 I: 18 planar
+19 // ESurfaceType::Meta V: 8 I: 18 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-22 // ESurfaceType::Meta V: 6 I: 12 planar
+20 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-23 // ESurfaceType::Meta V: 4 I: 6 planar
+21 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-24 // ESurfaceType::Meta V: 4 I: 6 planar
+22 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-25 // ESurfaceType::Meta V: 8 I: 18 planar
+23 // ESurfaceType::Meta V: 8 I: 18 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-26 // ESurfaceType::Meta V: 4 I: 6 planar
+24 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-27 // ESurfaceType::Meta V: 9 I: 24 planar
+25 // ESurfaceType::Meta V: 9 I: 24 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-28 // ESurfaceType::Meta V: 4 I: 6 planar
+26 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-29 // ESurfaceType::Meta V: 4 I: 6 planar
+27 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-30 // ESurfaceType::Meta V: 12 I: 24 planar
+28 // ESurfaceType::Meta V: 12 I: 24 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-31 // ESurfaceType::Meta V: 6 I: 12 planar
+29 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/proto2/concrete02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+30 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/concrete02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+31 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -201,76 +201,76 @@ default
 32 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 33 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 34 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-35 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/proto2/concrete02
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-36 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/proto2/concrete02
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-37 // ESurfaceType::Meta V: 8 I: 18 planar
+35 // ESurfaceType::Meta V: 8 I: 18 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-38 // ESurfaceType::Meta V: 6 I: 12 planar
+36 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-39 // ESurfaceType::Meta V: 6 I: 12 planar
+37 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-40 // ESurfaceType::Meta V: 4 I: 6 planar
+38 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-41 // ESurfaceType::Meta V: 8 I: 18 planar
+39 // ESurfaceType::Meta V: 8 I: 18 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-42 // ESurfaceType::Meta V: 4 I: 6 planar
+40 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-43 // ESurfaceType::Meta V: 9 I: 24 planar
+41 // ESurfaceType::Meta V: 9 I: 24 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-44 // ESurfaceType::Meta V: 11 I: 30 planar
+42 // ESurfaceType::Meta V: 11 I: 30 planar
+{
+	shader textures/proto2/concrete02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+43 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/proto2/concrete02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+44 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete02
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -278,73 +278,73 @@ default
 
 45 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/proto2/concrete02
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-46 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/proto2/concrete02
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-47 // ESurfaceType::Meta V: 4 I: 6 planar
-{
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-48 // ESurfaceType::Meta V: 16 I: 30 planar
+46 // ESurfaceType::Meta V: 16 I: 30 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-49 // ESurfaceType::Meta V: 16 I: 30 planar
+47 // ESurfaceType::Meta V: 16 I: 30 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-50 // ESurfaceType::Meta V: 6 I: 12 planar
+48 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-51 // ESurfaceType::Meta V: 4 I: 6 planar
+49 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-52 // ESurfaceType::Meta V: 4 I: 6 planar
+50 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-53 // ESurfaceType::Meta V: 4 I: 6 planar
+51 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-54 // ESurfaceType::Meta V: 4 I: 6 planar
+52 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-55 // ESurfaceType::Meta V: 6 I: 12 planar
+53 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/proto2/concrete_bluenfx
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-56 // ESurfaceType::Meta V: 4 I: 6 planar
+54 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/concrete_bluenfx
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+55 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/ctf2/blue_banner02
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+56 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/ctf2/blue_banner02
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
@@ -356,14 +356,14 @@ default
 
 58 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/ctf2/blue_banner02
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/base_wall2/techfloor_kc_blue
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 59 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/ctf2/blue_banner02
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/base_wall2/jumppad_blue_kc
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 60 // ESurfaceType::Meta V: 4 I: 6 planar

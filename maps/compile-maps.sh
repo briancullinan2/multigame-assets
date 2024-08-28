@@ -1,6 +1,7 @@
 #bash
 for i in $(find . -iname '*.bsp' -o -iname '*.map'); do
 if [[ ! "$i" =~ autosave/ ]]; then
+if [[ ! "$i" =~ quarantine/ ]]; then
 
 if [ -f "${i%.*}.map" ]; then
 if [ $(wc -c <"${i%.*}.map") -le 900000 ]; then
@@ -29,6 +30,7 @@ fi;
 fi;
 fi;
 
+fi;
 fi;
 done;
 
