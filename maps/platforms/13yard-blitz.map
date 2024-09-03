@@ -9,7 +9,7 @@
 "message" "Lost Yard - Extended (by sst13)"
 "music" "music/sonic5.wav"
 "_tb_mod" "pak90.pk3dir;pak91.pk3dir"
-"_q3map_sun" "1 1 0.5 150	200 85"
+"_sun" "1 1 0.5 150	200 85"
 "_color" "1 1 0.5"
 "_keeplights" "1"
 "_ambient" "100"
@@ -3794,4 +3794,9 @@ patchDef2
 "targetname" "t311"
 "origin" "-368 0 472"
 "spawnflags" "8"
+}
+// entity 12
+{
+"classname" "info_player_start"
+"origin" "128 144 536"
 }

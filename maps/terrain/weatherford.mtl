@@ -1,6 +1,9 @@
 newmtl house6/Granite_Dark_Gray
+map_Kd ../textures/house6/Granite_Dark_Gray
 
 newmtl house6/Polished_Concrete_New
+map_Kd ../textures/house6/Polished_Concrete_New
 
 newmtl terrain/mpterrax_0
+map_Kd ../textures/terrain/mpterrax_0
 

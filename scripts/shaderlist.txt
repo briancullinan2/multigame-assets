@@ -1,0 +1,119 @@
+//**********************************************************************//
+//	shaderlist.txt modified for Q3Radiant				//
+//	by Eutectic - 13 May 2000					//
+//                                                                      //
+//      Rev history:                                                    //
+//      08/11/2000
+//      TTimo - changed liquid to liquids and sky to skies for better   //
+//      consistency with the directories and actual
+names        //
+//									//
+//	Added the names of the new
+files created as a result	//
+//	of the cleanup of the old
+files so Q3Radiant will read	//
+//	and display all the shaders in the texture window.		//
+//									//
+//
+FILE NAMES ADDED:					//
+//	base_door							//
+//	gothic_button							//
+//	gothic_door							//
+//**********************************************************************//
+
+// this file lists all the separate
+files
+base_button
+base_door
+base_floor
+base_light
+base_object
+base_support
+base_trim
+base_wall
+common
+ctf
+//eerie
+//gfx
+//hell
+gothic_block
+gothic_button
+gothic_door
+gothic_floor
+gothic_light
+gothic_trim
+gothic_wall
+liquids
+//menu
+//models
+organics
+sfx
+skin
+skies
+windowsxp
+multiplant 2
+multiplant
+atlantis
+tig_ra3
+chili_animals
+chili_decals
+chili_floor
+chili_glas
+chili_light
+chili_liquids
+chili_sfx
+chili_skies
+chili_vegetation
+terrain_example
+winter_particles
+terrain
+mpterrax
+lffd
+loading-program
+13yard_xt
+
+stone2
+base_floor
+base_floor2
+base_light
+base_wall
+base_wall2
+common
+ctf
+ctf2
+flayer
+gallery
+gfx
+gfx2
+gothic_floor2
+gothic_trim
+gothic_wall
+jim_test
+jk_dm1
+jk_tourney1
+liquid
+liquid2
+models
+models2
+models3
+multiplant
+museum
+nateleaf
+nateshad
+outdoors
+proto2
+sfx
+sfx2
+sky
+sky2
+team
+terrain
+tim
+ui_hud
+ui_kc
+ui
+web
+shader
+mpterrax
+houses
+

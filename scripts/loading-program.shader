@@ -9,7 +9,7 @@ textures/skies/portalfog
 
 	//q3map_surfacelight 100
 	//q3map_lightSubdivide 2048
-	q3map_sun	1 1 0.5 150	200 85
+	q3map_sun	1 1 0.5 100	200 85
 	q3map_gridsize 1024 1024 1024
 	//	q3map_sun	1 1 0.5 150	200 85
 	//skyparms - 512 -
@@ -61,6 +61,7 @@ textures/skies/portalfogred
 
 textures/sfx/fog3
 {
+	sort sky
 	qer_editorimage textures/sfx/fog_grey.tga
 	surfaceparm fog
 	surfaceparm nolightmap
@@ -68,18 +69,16 @@ textures/sfx/fog3
 	surfaceparm trans
 	fogparms ( 0.9 0.9 0.9 ) 2048
 	{
-		map textures/liquids/kc_fogcloud3.tga
-		blendfunc filter
-		rgbGen identity
-		tcMod scale -0.05 -0.05
-		tcMod scroll 0.01 -0.01
-	}
-	{
-		map textures/liquids/kc_fogcloud3.tga
-		blendfunc filter
-		rgbGen identity
-		tcMod scale 0.05 0.05
-		tcMod scroll 0.01 -0.01
+		map textures/liquids/kc_fogcloud32.tga
+		blendfunc GL_ONE GL_ONE
+		//blendfunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
+		//blendfunc filter
+		//rgbGen vertex
+		//tcMod scale -0.05 -0.05
+		//tcMod scroll 0.01 -0.01
+		//blendFunc add
+		//alphagen portal 1024
+    //depthWrite
 	}
 }
 
