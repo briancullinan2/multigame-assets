@@ -608,7 +608,7 @@ Target this entity with a misc_model to have the model attached to the entity (s
 =============================================================================
 -->
 
-<group name="func_static" color="0 .4 1">
+<group name="func_static" color="0 .4 1" model="{ path : model2 }">
 Static bspmodel. Can be used for conditional walls and models.
 -------- KEYS --------
 <model key="model2" name="Model File">Path/name of model to include (.md3 files only, e.g. models/mapobjects/bitch/fembotbig.md3).</model>
@@ -1414,11 +1414,11 @@ MISC_* ENTITIES
 -->
 
 
-<point name="misc_model" color="1 .5 .25" box="-16 -16 -16 16 16 16" model="{ path : model }">
+<point name="misc_model2" color="1 .5 .25" box="-16 -16 -16 16 16 16" model="{ path : model2 }">
 Generic placeholder for inserting models to map. Model triangles are baked to BSP.
 MD3, ASE, 3DS, OBJ, FM, LWO, MD2, MDC, MS3D model formats are supported.
 -------- Q3MAP2 KEYS --------
-<model key="model" name="Model File">Path/name of model to use (e.g. models/mapobjects/teleporter/teleporter.md3).</model>
+<model key="model2" name="Model File">Path/name of model to use (e.g. models/mapobjects/teleporter/teleporter.md3).</model>
 <angle key="angle" name="Yaw Angle">Direction in which model will be oriented.</angle>
 <angles key="angles" name="Pitch Yaw Roll">Individual control of PITCH, YAW, and ROLL (default 0 0 0).</angles>
 <real key="modelscale" name="Uniform Scale" value="1">Floating-point value used to scale a model up or down (default 1.0).</real>
@@ -1460,11 +1460,12 @@ EXTRUDE_UPWARDS+MAX_EXTRUDE
 EXTRUDE_UPWARDS+AXIAL_BACKPLANE
 </point>
 
-<point name="misc_model2" color="1 .5 .25" box="-16 -16 -16 16 16 16" model="{ path : model2 }">
+
+<point name="misc_model" color="1 .5 .25" box="-16 -16 -16 16 16 16" model="{ path : model }">
 Generic placeholder for inserting models to map. Model triangles are baked to BSP.
 MD3, ASE, 3DS, OBJ, FM, LWO, MD2, MDC, MS3D model formats are supported.
 -------- Q3MAP2 KEYS --------
-<model key="model2" name="Model File">Path/name of model to use (e.g. models/mapobjects/teleporter/teleporter.md3).</model>
+<model key="model" name="Model File">Path/name of model to use (e.g. models/mapobjects/teleporter/teleporter.md3).</model>
 <angle key="angle" name="Yaw Angle">Direction in which model will be oriented.</angle>
 <angles key="angles" name="Pitch Yaw Roll">Individual control of PITCH, YAW, and ROLL (default 0 0 0).</angles>
 <real key="modelscale" name="Uniform Scale" value="1">Floating-point value used to scale a model up or down (default 1.0).</real>
@@ -1988,11 +1989,34 @@ Blue team respawning position for CTF games. This is where Blue team players res
 Red team flag for CTF games.
 </point>
 
+<point name="team_CTF_greenflag" color="1 .2 0" box="-16 -16 -16 16 16 16" model="models/flags/g_flag.md3">
+Red team flag for CTF games.
+</point>
+
+<point name="team_CTF_goldflag" color="1 .2 0" box="-16 -16 -16 16 16 16" model="models/flags/k_flag.md3">
+Red team flag for CTF games.
+</point>
+
 <!--
 =============================================================================
 -->
 
 <point name="team_CTF_redplayer" color="1 .2 0" box="-16 -16 -24 16 16 32">
+Initial Red team spawning position for CTF games. This is where players spawn when they join the Red team.
+-------- KEYS --------
+<angle key="angle" name="Yaw Angle">Direction in which player will look when spawning in the game.</angle>
+<angles key="angles" name="Pitch Yaw Roll">Pitch, yaw and roll angles of sight direction.</angles>
+<target key="target" name="Target">This can point at a target_give entity for respawn freebies or to anything else to trigger.</target>
+</point>
+
+<point name="team_CTF_greenplayer" color="1 .2 0" box="-16 -16 -24 16 16 32">
+Initial Red team spawning position for CTF games. This is where players spawn when they join the Red team.
+-------- KEYS --------
+<angle key="angle" name="Yaw Angle">Direction in which player will look when spawning in the game.</angle>
+<angles key="angles" name="Pitch Yaw Roll">Pitch, yaw and roll angles of sight direction.</angles>
+<target key="target" name="Target">This can point at a target_give entity for respawn freebies or to anything else to trigger.</target>
+</point>
+<point name="team_CTF_goldplayer" color="1 .2 0" box="-16 -16 -24 16 16 32">
 Initial Red team spawning position for CTF games. This is where players spawn when they join the Red team.
 -------- KEYS --------
 <angle key="angle" name="Yaw Angle">Direction in which player will look when spawning in the game.</angle>
