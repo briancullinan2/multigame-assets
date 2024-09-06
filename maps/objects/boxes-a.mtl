@@ -1,0 +1,6 @@
+newmtl common/caulk
+map_Kd 
+
+newmtl toxic_facility_wood/crate005
+map_Kd textures/toxic_facility_wood/crate005
+

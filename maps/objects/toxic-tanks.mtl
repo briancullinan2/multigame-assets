@@ -1,0 +1,39 @@
+newmtl toxic_facility_liquids/slime_exit_pipe
+map_Kd textures/toxic_facility_liquids/slime_exit_pipe
+
+newmtl toxic_facility_liquids/slime_pipe
+map_Kd textures/toxic_facility_liquids/slime_pipe
+
+newmtl toxic_facility_liquids/slime_pipe_forward
+map_Kd textures/toxic_facility_liquids/slime_pipe_forward
+
+newmtl toxic_facility_metal/eX_floor_mtl_wrn_01_d
+map_Kd textures/toxic_facility_metal/eX_floor_mtl_wrn_01_d
+
+newmtl toxic_facility_metal/metal_green_rust
+map_Kd textures/toxic_facility_metal/metal_green_rust
+
+newmtl toxic_facility_metal/metal_rust
+map_Kd textures/toxic_facility_metal/metal_rust
+
+newmtl toxic_facility_metal/metal_rust2
+map_Kd textures/toxic_facility_metal/metal_rust2
+
+newmtl toxic_facility_misc/pipe_black_clean1
+map_Kd textures/toxic_facility_misc/pipe_black_clean1
+
+newmtl toxic_facility_misc/pipe_blue_clean1
+map_Kd textures/toxic_facility_misc/pipe_blue_clean1
+
+newmtl toxic_facility_misc/pipe_blue_clean2
+map_Kd textures/toxic_facility_misc/pipe_blue_clean2
+
+newmtl toxic_facility_misc/pipe_blue_clean3
+map_Kd textures/toxic_facility_misc/pipe_blue_clean3
+
+newmtl toxic_facility_misc/splatter01
+map_Kd textures/toxic_facility_misc/splatter01
+
+newmtl toxic_facility_misc/splatter02
+map_Kd textures/toxic_facility_misc/splatter02
+

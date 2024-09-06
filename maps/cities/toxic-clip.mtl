@@ -1,0 +1,186 @@
+newmtl common/clip
+map_Kd 
+
+newmtl toxic_facility_Vending_Machine/vending_machine2
+map_Kd textures/toxic_facility_Vending_Machine/vending_machine2
+
+newmtl toxic_facility_Vending_Machine/vending_machine3
+map_Kd textures/toxic_facility_Vending_Machine/vending_machine3
+
+newmtl toxic_facility_concrete/ConcreteBare0
+map_Kd textures/toxic_facility_concrete/ConcreteBare0
+
+newmtl toxic_facility_concrete/ConcreteBare0133
+map_Kd textures/toxic_facility_concrete/ConcreteBare0133
+
+newmtl toxic_facility_concrete/ConcreteDirty
+map_Kd textures/toxic_facility_concrete/ConcreteDirty
+
+newmtl toxic_facility_concrete/ConcreteDirty032
+map_Kd textures/toxic_facility_concrete/ConcreteDirty032
+
+newmtl toxic_facility_concrete/ConcreteDirty035
+map_Kd textures/toxic_facility_concrete/ConcreteDirty035
+
+newmtl toxic_facility_electro/Lightning_Comp
+map_Kd textures/toxic_facility_electro/Lightning_Comp
+
+newmtl toxic_facility_glass/towerglass_s
+map_Kd textures/toxic_facility_glass/towerglass_s
+
+newmtl toxic_facility_jumpad/jumpad03
+map_Kd textures/toxic_facility_jumpad/jumpad03
+
+newmtl toxic_facility_liquids/slime_exit_pipe
+map_Kd textures/toxic_facility_liquids/slime_exit_pipe
+
+newmtl toxic_facility_liquids/slime_pipe
+map_Kd textures/toxic_facility_liquids/slime_pipe
+
+newmtl toxic_facility_liquids/slime_pipe_forward
+map_Kd textures/toxic_facility_liquids/slime_pipe_forward
+
+newmtl toxic_facility_metal/Fence
+map_Kd textures/toxic_facility_metal/Fence
+
+newmtl toxic_facility_metal/eX_floor_mtl_wrn_01_d
+map_Kd textures/toxic_facility_metal/eX_floor_mtl_wrn_01_d
+
+newmtl toxic_facility_metal/eX_mtl_panel_04_d
+map_Kd textures/toxic_facility_metal/eX_mtl_panel_04_d
+
+newmtl toxic_facility_metal/metal_blue_rust
+map_Kd textures/toxic_facility_metal/metal_blue_rust
+
+newmtl toxic_facility_metal/metal_green
+map_Kd textures/toxic_facility_metal/metal_green
+
+newmtl toxic_facility_metal/metal_green2_rust
+map_Kd textures/toxic_facility_metal/metal_green2_rust
+
+newmtl toxic_facility_metal/metal_green_rust
+map_Kd textures/toxic_facility_metal/metal_green_rust
+
+newmtl toxic_facility_metal/metal_rust
+map_Kd textures/toxic_facility_metal/metal_rust
+
+newmtl toxic_facility_metal/metal_rust2
+map_Kd textures/toxic_facility_metal/metal_rust2
+
+newmtl toxic_facility_metal/wall_wall4c
+map_Kd textures/toxic_facility_metal/wall_wall4c
+
+newmtl toxic_facility_misc/blue
+map_Kd textures/toxic_facility_misc/blue
+
+newmtl toxic_facility_misc/drinkcan01_skin121
+map_Kd textures/toxic_facility_misc/drinkcan01_skin121
+
+newmtl toxic_facility_misc/drinkcan01_skin4
+map_Kd textures/toxic_facility_misc/drinkcan01_skin4
+
+newmtl toxic_facility_misc/drinkcan01_skin5
+map_Kd textures/toxic_facility_misc/drinkcan01_skin5
+
+newmtl toxic_facility_misc/drinkcan01_skin6
+map_Kd textures/toxic_facility_misc/drinkcan01_skin6
+
+newmtl toxic_facility_misc/drinkcan01_skin7
+map_Kd textures/toxic_facility_misc/drinkcan01_skin7
+
+newmtl toxic_facility_misc/drinkcan01_skin8
+map_Kd textures/toxic_facility_misc/drinkcan01_skin8
+
+newmtl toxic_facility_misc/drinkcan01_skin9
+map_Kd textures/toxic_facility_misc/drinkcan01_skin9
+
+newmtl toxic_facility_misc/green
+map_Kd textures/toxic_facility_misc/green
+
+newmtl toxic_facility_misc/grunge_9
+map_Kd textures/toxic_facility_misc/grunge_9
+
+newmtl toxic_facility_misc/icicles
+map_Kd textures/toxic_facility_misc/icicles
+
+newmtl toxic_facility_misc/pipe_black_clean
+map_Kd textures/toxic_facility_misc/pipe_black_clean
+
+newmtl toxic_facility_misc/pipe_black_clean1
+map_Kd textures/toxic_facility_misc/pipe_black_clean1
+
+newmtl toxic_facility_misc/pipe_black_clean_sign
+map_Kd textures/toxic_facility_misc/pipe_black_clean_sign
+
+newmtl toxic_facility_misc/pipe_blue_clean1
+map_Kd textures/toxic_facility_misc/pipe_blue_clean1
+
+newmtl toxic_facility_misc/pipe_blue_clean2
+map_Kd textures/toxic_facility_misc/pipe_blue_clean2
+
+newmtl toxic_facility_misc/pipe_blue_clean3
+map_Kd textures/toxic_facility_misc/pipe_blue_clean3
+
+newmtl toxic_facility_misc/pipe_blue_clean_sign
+map_Kd textures/toxic_facility_misc/pipe_blue_clean_sign
+
+newmtl toxic_facility_misc/pipe_orange1
+map_Kd textures/toxic_facility_misc/pipe_orange1
+
+newmtl toxic_facility_misc/pipe_orange2
+map_Kd textures/toxic_facility_misc/pipe_orange2
+
+newmtl toxic_facility_misc/pipe_orange_sign
+map_Kd textures/toxic_facility_misc/pipe_orange_sign
+
+newmtl toxic_facility_misc/pipe_orange_sign1
+map_Kd textures/toxic_facility_misc/pipe_orange_sign1
+
+newmtl toxic_facility_misc/pipe_red
+map_Kd textures/toxic_facility_misc/pipe_red
+
+newmtl toxic_facility_misc/pipe_red1
+map_Kd textures/toxic_facility_misc/pipe_red1
+
+newmtl toxic_facility_misc/pipe_red_sign
+map_Kd textures/toxic_facility_misc/pipe_red_sign
+
+newmtl toxic_facility_misc/pipecap1
+map_Kd textures/toxic_facility_misc/pipecap1
+
+newmtl toxic_facility_misc/process
+map_Kd textures/toxic_facility_misc/process
+
+newmtl toxic_facility_misc/qzterra2_snow1
+map_Kd textures/toxic_facility_misc/qzterra2_snow1
+
+newmtl toxic_facility_misc/splatter01
+map_Kd textures/toxic_facility_misc/splatter01
+
+newmtl toxic_facility_misc/splatter02
+map_Kd textures/toxic_facility_misc/splatter02
+
+newmtl toxic_facility_misc/time_vortex
+map_Kd textures/toxic_facility_misc/time_vortex
+
+newmtl toxic_facility_misc/wire1_1_black
+map_Kd textures/toxic_facility_misc/wire1_1_black
+
+newmtl toxic_facility_misc/wire1_1_blue
+map_Kd textures/toxic_facility_misc/wire1_1_blue
+
+newmtl toxic_facility_misc/wire1_1_orange
+map_Kd textures/toxic_facility_misc/wire1_1_orange
+
+newmtl toxic_facility_misc/wire1_1_red
+map_Kd textures/toxic_facility_misc/wire1_1_red
+
+newmtl toxic_facility_misc/wires
+map_Kd textures/toxic_facility_misc/wires
+
+newmtl toxic_facility_techfloor/techfloor_kc
+map_Kd textures/toxic_facility_techfloor/techfloor_kc
+
+newmtl toxic_facility_trim/trim_trim9c
+map_Kd textures/toxic_facility_trim/trim_trim9c
+

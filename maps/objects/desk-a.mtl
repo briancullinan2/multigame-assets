@@ -1,0 +1,60 @@
+newmtl common/WTF
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/weapclip
+map_Kd textures/common/weapclip
+
+newmtl toxic_facility_misc/black
+map_Kd textures/toxic_facility_misc/black
+
+newmtl toxic_facility_misc/comp1
+map_Kd textures/toxic_facility_misc/comp1
+
+newmtl toxic_facility_misc/comp2
+map_Kd textures/toxic_facility_misc/comp2
+
+newmtl toxic_facility_misc/drinkcan01_skin121
+map_Kd textures/toxic_facility_misc/drinkcan01_skin121
+
+newmtl toxic_facility_misc/drinkcan01_skin4
+map_Kd textures/toxic_facility_misc/drinkcan01_skin4
+
+newmtl toxic_facility_misc/drinkcan01_skin7
+map_Kd textures/toxic_facility_misc/drinkcan01_skin7
+
+newmtl toxic_facility_misc/drinkcan01_skin8
+map_Kd textures/toxic_facility_misc/drinkcan01_skin8
+
+newmtl toxic_facility_misc/drinkcan01_skin9
+map_Kd textures/toxic_facility_misc/drinkcan01_skin9
+
+newmtl toxic_facility_misc/gray
+map_Kd textures/toxic_facility_misc/gray
+
+newmtl toxic_facility_misc/mapper5
+map_Kd textures/toxic_facility_misc/mapper5
+
+newmtl toxic_facility_misc/plugsocket01
+map_Kd textures/toxic_facility_misc/plugsocket01
+
+newmtl toxic_facility_misc/toxic
+map_Kd textures/toxic_facility_misc/toxic
+
+newmtl toxic_facility_misc/wire1_1_blue
+map_Kd textures/toxic_facility_misc/wire1_1_blue
+
+newmtl toxic_facility_misc/wite
+map_Kd textures/toxic_facility_misc/wite
+
+newmtl toxic_facility_server/keyboard
+map_Kd textures/toxic_facility_server/keyboard
+
+newmtl toxic_facility_wood/floor_c10
+map_Kd textures/toxic_facility_wood/floor_c10
+
+newmtl toxic_facility_wood/wood088
+map_Kd textures/toxic_facility_wood/wood088
+

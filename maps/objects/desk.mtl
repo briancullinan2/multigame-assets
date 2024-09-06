@@ -1,0 +1,9 @@
+newmtl common/WTF
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl toxic_facility_wood/wood088
+map_Kd textures/toxic_facility_wood/wood088
+

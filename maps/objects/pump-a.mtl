@@ -1,0 +1,45 @@
+newmtl common/WTF
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/origin
+map_Kd 
+
+newmtl toxic_facility_Vending_Machine/vending_machine2
+map_Kd textures/toxic_facility_Vending_Machine/vending_machine2
+
+newmtl toxic_facility_concrete/ConcreteBare0133
+map_Kd textures/toxic_facility_concrete/ConcreteBare0133
+
+newmtl toxic_facility_concrete/ConcreteDirty
+map_Kd textures/toxic_facility_concrete/ConcreteDirty
+
+newmtl toxic_facility_metal/metal_blue_rust
+map_Kd textures/toxic_facility_metal/metal_blue_rust
+
+newmtl toxic_facility_metal/metal_green
+map_Kd textures/toxic_facility_metal/metal_green
+
+newmtl toxic_facility_metal/metal_green_rust
+map_Kd textures/toxic_facility_metal/metal_green_rust
+
+newmtl toxic_facility_metal/metal_rust
+map_Kd textures/toxic_facility_metal/metal_rust
+
+newmtl toxic_facility_metal/metal_rust2
+map_Kd textures/toxic_facility_metal/metal_rust2
+
+newmtl toxic_facility_misc/pipe_red
+map_Kd textures/toxic_facility_misc/pipe_red
+
+newmtl toxic_facility_misc/pipe_red1
+map_Kd textures/toxic_facility_misc/pipe_red1
+
+newmtl toxic_facility_misc/pipe_red_sign
+map_Kd textures/toxic_facility_misc/pipe_red_sign
+
+newmtl toxic_facility_misc/pipecap1
+map_Kd textures/toxic_facility_misc/pipecap1
+

@@ -1,0 +1,750 @@
+newmtl common/WTF
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/clip
+map_Kd 
+
+newmtl common/nodraw
+map_Kd 
+
+newmtl common/origin
+map_Kd 
+
+newmtl common/trigger
+map_Kd 
+
+newmtl common/weapclip
+map_Kd textures/common/weapclip
+
+newmtl moes/phone04
+map_Kd textures/moes/phone04
+
+newmtl pandorasball/cd_case
+map_Kd textures/pandorasball/cd_case
+
+newmtl simpsons-cars/greencar01
+map_Kd 
+
+newmtl simpsons-kulisse/glass
+map_Kd textures/simpsons-kulisse/glass
+
+newmtl simpsons-plants/baumkronen01
+map_Kd textures/simpsons-plants/baumkronen01
+
+newmtl simpsons-shaders/abe
+map_Kd textures/simpsons-shaders/abe
+
+newmtl simpsons-shaders/aufhanger
+map_Kd textures/simpsons-shaders/aufhanger
+
+newmtl simpsons-shaders/badblume
+map_Kd textures/simpsons-shaders/badblume
+
+newmtl simpsons-shaders/blatt1
+map_Kd textures/simpsons-shaders/blatt1
+
+newmtl simpsons-shaders/bluete1
+map_Kd textures/simpsons-shaders/bluete1
+
+newmtl simpsons-shaders/bush04
+map_Kd textures/simpsons-shaders/bush04
+
+newmtl simpsons-shaders/bush05
+map_Kd textures/simpsons-shaders/bush05
+
+newmtl simpsons-shaders/bush06
+map_Kd textures/simpsons-shaders/bush06
+
+newmtl simpsons-shaders/bushlink
+map_Kd textures/simpsons-shaders/bushlink
+
+newmtl simpsons-shaders/citysh03
+map_Kd textures/simpsons-shaders/citysh03
+
+newmtl simpsons-shaders/forkknife
+map_Kd textures/simpsons-shaders/forkknife
+
+newmtl simpsons-shaders/gardiene2
+map_Kd textures/simpsons-shaders/gardiene2
+
+newmtl simpsons-shaders/gitter
+map_Kd textures/simpsons-shaders/gitter
+
+newmtl simpsons-shaders/herd
+map_Kd textures/simpsons-shaders/herd
+
+newmtl simpsons-shaders/kgardiene
+map_Kd textures/simpsons-shaders/kgardiene
+
+newmtl simpsons-shaders/lisakorb
+map_Kd textures/simpsons-shaders/LISAKORB
+
+newmtl simpsons-shaders/lisashader01
+map_Kd textures/simpsons-shaders/lisashader01
+
+newmtl simpsons-shaders/lisashader02
+map_Kd textures/simpsons-shaders/lisashader02
+
+newmtl simpsons-shaders/lisashader03
+map_Kd textures/simpsons-shaders/lisashader03
+
+newmtl simpsons-shaders/lisashader04
+map_Kd textures/simpsons-shaders/lisashader04
+
+newmtl simpsons-shaders/lisashader05
+map_Kd textures/simpsons-shaders/lisashader05
+
+newmtl simpsons-shaders/lisashader07
+map_Kd textures/simpsons-shaders/lisashader07
+
+newmtl simpsons-shaders/moes02
+map_Kd textures/simpsons-shaders/moes02
+
+newmtl simpsons-shaders/rank
+map_Kd textures/simpsons-shaders/rank
+
+newmtl simpsons-shaders/schnur
+map_Kd textures/simpsons-shaders/schnur
+
+newmtl simpsons-shaders/scs1
+map_Kd textures/simpsons-shaders/scs1
+
+newmtl simpsons-shaders/spiderpig
+map_Kd textures/simpsons-shaders/spiderpig
+
+newmtl simpsons-shaders/stiel
+map_Kd textures/simpsons-shaders/stiel
+
+newmtl simpsons-shaders/telek
+map_Kd textures/simpsons-shaders/telek
+
+newmtl simpsons/badbecken1
+map_Kd textures/simpsons/badbecken1
+
+newmtl simpsons/badbecken3
+map_Kd textures/simpsons/badbecken3
+
+newmtl simpsons/badbecken5
+map_Kd textures/simpsons/badbecken5
+
+newmtl simpsons/badboden
+map_Kd textures/simpsons/badboden
+
+newmtl simpsons/badbrett1
+map_Kd textures/simpsons/badbrett1
+
+newmtl simpsons/badduck4
+map_Kd textures/simpsons/badduck4
+
+newmtl simpsons/badduck5
+map_Kd textures/simpsons/badduck5
+
+newmtl simpsons/badduck7
+map_Kd textures/simpsons/badduck7
+
+newmtl simpsons/badduck8
+map_Kd textures/simpsons/badduck8
+
+newmtl simpsons/badduschabfluss
+map_Kd textures/simpsons/badduschabfluss
+
+newmtl simpsons/badduschkachel
+map_Kd textures/simpsons/badduschkachel
+
+newmtl simpsons/badduschkopf
+map_Kd textures/simpsons/badduschkopf
+
+newmtl simpsons/badlampe2
+map_Kd textures/simpsons/badlampe2
+
+newmtl simpsons/badreiniger
+map_Kd textures/simpsons/badreiniger
+
+newmtl simpsons/badreiniger2
+map_Kd textures/simpsons/badreiniger2
+
+newmtl simpsons/badtapete2
+map_Kd textures/simpsons/badtapete2
+
+newmtl simpsons/badwaage3
+map_Kd textures/simpsons/badwaage3
+
+newmtl simpsons/badwaschbecken2
+map_Kd textures/simpsons/badwaschbecken2
+
+newmtl simpsons/badzahnbuerste1
+map_Kd textures/simpsons/badzahnbuerste1
+
+newmtl simpsons/badzahnbuerste2
+map_Kd textures/simpsons/badzahnbuerste2
+
+newmtl simpsons/bartbett01
+map_Kd textures/simpsons/bartbett01
+
+newmtl simpsons/bartblackboard02
+map_Kd textures/simpsons/bartblackboard02
+
+newmtl simpsons/bartblackboard03
+map_Kd textures/simpsons/bartblackboard03
+
+newmtl simpsons/bartcar01
+map_Kd textures/simpsons/bartcar01
+
+newmtl simpsons/bartcar04
+map_Kd textures/simpsons/bartcar04
+
+newmtl simpsons/bartfootball
+map_Kd textures/simpsons/bartfootball
+
+newmtl simpsons/bartlampe02
+map_Kd textures/simpsons/bartlampe02
+
+newmtl simpsons/bartmoebel02
+map_Kd 
+
+newmtl simpsons/bartmoebel05
+map_Kd textures/simpsons/bartmoebel05
+
+newmtl simpsons/bartmoebel06
+map_Kd textures/simpsons/bartmoebel06
+
+newmtl simpsons/bartmoebel07
+map_Kd textures/simpsons/bartmoebel07
+
+newmtl simpsons/bartmonster02
+map_Kd textures/simpsons/bartmonster02
+
+newmtl simpsons/bartpig02
+map_Kd textures/simpsons/bartpig02
+
+newmtl simpsons/bartpig03
+map_Kd textures/simpsons/bartpig03
+
+newmtl simpsons/bartpig04
+map_Kd textures/simpsons/bartpig04
+
+newmtl simpsons/bartrobot01
+map_Kd textures/simpsons/bartrobot01
+
+newmtl simpsons/bartrobot02
+map_Kd textures/simpsons/bartrobot02
+
+newmtl simpsons/beton
+map_Kd textures/simpsons/beton
+
+newmtl simpsons/beton_layon
+map_Kd textures/simpsons/beton_layon
+
+newmtl simpsons/betond
+map_Kd textures/simpsons/betond
+
+newmtl simpsons/bigbutt02
+map_Kd textures/simpsons/bigbutt02
+
+newmtl simpsons/bilder
+map_Kd textures/simpsons/bilder
+
+newmtl simpsons/bilder2
+map_Kd textures/simpsons/bilder2
+
+newmtl simpsons/blumen
+map_Kd textures/simpsons/blumen
+
+newmtl simpsons/bordstein
+map_Kd textures/simpsons/bordstein
+
+newmtl simpsons/clock01
+map_Kd textures/simpsons/CLOCK01
+
+newmtl simpsons/clock03
+map_Kd textures/simpsons/clock03
+
+newmtl simpsons/comos
+map_Kd textures/simpsons/comos
+
+newmtl simpsons/couch
+map_Kd textures/simpsons/couch
+
+newmtl simpsons/couch2
+map_Kd textures/simpsons/couch2
+
+newmtl simpsons/couchrand
+map_Kd textures/simpsons/couchrand
+
+newmtl simpsons/couchwand
+map_Kd textures/simpsons/couchwand
+
+newmtl simpsons/crackiw
+map_Kd textures/simpsons/crackiw
+
+newmtl simpsons/dabedi
+map_Kd textures/simpsons/dabedi
+
+newmtl simpsons/decke
+map_Kd textures/simpsons/decke
+
+newmtl simpsons/deckenlampe
+map_Kd textures/simpsons/deckenlampe
+
+newmtl simpsons/dummedecke
+map_Kd textures/simpsons/dummedecke
+
+newmtl simpsons/elterndecke
+map_Kd textures/simpsons/elterndecke
+
+newmtl simpsons/elternkomode1
+map_Kd textures/simpsons/elternkomode1
+
+newmtl simpsons/elternkomode2
+map_Kd textures/simpsons/elternkomode2
+
+newmtl simpsons/elternlampenschirm
+map_Kd textures/simpsons/elternlampenschirm
+
+newmtl simpsons/elternschanier
+map_Kd textures/simpsons/elternschanier
+
+newmtl simpsons/elternschrank1
+map_Kd textures/simpsons/elternschrank1
+
+newmtl simpsons/elternschrank2
+map_Kd textures/simpsons/elternschrank2
+
+newmtl simpsons/elternwand
+map_Kd textures/simpsons/elternwand
+
+newmtl simpsons/elternwecker
+map_Kd textures/simpsons/elternwecker
+
+newmtl simpsons/fensterkissen1
+map_Kd textures/simpsons/fensterkissen1
+
+newmtl simpsons/fensterks
+map_Kd textures/simpsons/fensterks
+
+newmtl simpsons/filzb
+map_Kd textures/simpsons/filzb
+
+newmtl simpsons/flache
+map_Kd textures/simpsons/flache
+
+newmtl simpsons/flanderglas01
+map_Kd textures/simpsons/flanderglas01
+
+newmtl simpsons/flurblumen
+map_Kd textures/simpsons/flurblumen
+
+newmtl simpsons/fuck
+map_Kd textures/simpsons/fuck
+
+newmtl simpsons/fuck1
+map_Kd textures/simpsons/FUCK1
+
+newmtl simpsons/gamg
+map_Kd textures/simpsons/gamg
+
+newmtl simpsons/gang
+map_Kd textures/simpsons/gang
+
+newmtl simpsons/garagentor
+map_Kd textures/simpsons/garagentor
+
+newmtl simpsons/garagentreen
+map_Kd textures/simpsons/garagentreen
+
+newmtl simpsons/generic_white
+map_Kd 
+
+newmtl simpsons/gewurz1
+map_Kd textures/simpsons/gewurz1
+
+newmtl simpsons/goodplant
+map_Kd textures/simpsons/goodplant
+
+newmtl simpsons/gras
+map_Kd textures/simpsons/gras
+
+newmtl simpsons/handtuch
+map_Kd textures/simpsons/handtuch
+
+newmtl simpsons/herd2
+map_Kd textures/simpsons/herd2
+
+newmtl simpsons/hihof
+map_Kd textures/simpsons/hihof
+
+newmtl simpsons/huenerauge1
+map_Kd textures/simpsons/huenerauge1
+
+newmtl simpsons/inderecke1
+map_Kd textures/simpsons/inderecke1
+
+newmtl simpsons/kachel
+map_Kd textures/simpsons/kachel
+
+newmtl simpsons/kalaender01
+map_Kd textures/simpsons/kalaender01
+
+newmtl simpsons/kalaender3
+map_Kd textures/simpsons/kalaender3
+
+newmtl simpsons/kami
+map_Kd textures/simpsons/kami
+
+newmtl simpsons/kanne2
+map_Kd textures/simpsons/kanne2
+
+newmtl simpsons/kissenben
+map_Kd textures/simpsons/kissenben
+
+newmtl simpsons/klaviertast
+map_Kd textures/simpsons/klaviertast
+
+newmtl simpsons/kleinertisch
+map_Kd textures/simpsons/kleinertisch
+
+newmtl simpsons/kochbuch
+map_Kd textures/simpsons/kochbuch
+
+newmtl simpsons/kochbuch02
+map_Kd textures/simpsons/kochbuch02
+
+newmtl simpsons/kochbuch03
+map_Kd textures/simpsons/kochbuch03
+
+newmtl simpsons/kuchenflasche02
+map_Kd textures/simpsons/kuchenflasche02
+
+newmtl simpsons/kuchenglas
+map_Kd textures/simpsons/kuchenglas
+
+newmtl simpsons/kuchenschale
+map_Kd textures/simpsons/kuchenschale
+
+newmtl simpsons/kuechetopf01
+map_Kd textures/simpsons/kuechetopf01
+
+newmtl simpsons/lampe
+map_Kd textures/simpsons/lampe
+
+newmtl simpsons/lampens
+map_Kd textures/simpsons/lampens
+
+newmtl simpsons/lampenschirm
+map_Kd textures/simpsons/lampenschirm
+
+newmtl simpsons/lampeschirm
+map_Kd textures/simpsons/lampeschirm
+
+newmtl simpsons/lichtsch
+map_Kd textures/simpsons/lichtsch
+
+newmtl simpsons/lisabett05
+map_Kd textures/simpsons/lisabett05
+
+newmtl simpsons/lisabuch01
+map_Kd textures/simpsons/lisabuch01
+
+newmtl simpsons/lisabuch02
+map_Kd textures/simpsons/lisabuch02
+
+newmtl simpsons/lisabuch03
+map_Kd textures/simpsons/lisabuch03
+
+newmtl simpsons/lisabuerste01
+map_Kd textures/simpsons/lisabuerste01
+
+newmtl simpsons/lisakomo01
+map_Kd textures/simpsons/lisakomo01
+
+newmtl simpsons/lisakomo05
+map_Kd textures/simpsons/lisakomo05
+
+newmtl simpsons/lisaschrank021
+map_Kd textures/simpsons/lisaschrank021
+
+newmtl simpsons/lisaschrank022
+map_Kd textures/simpsons/lisaschrank022
+
+newmtl simpsons/lisaspielzeug01
+map_Kd textures/simpsons/lisaspielzeug01
+
+newmtl simpsons/lisaspielzeug02
+map_Kd textures/simpsons/lisaspielzeug02
+
+newmtl simpsons/lisaspielzeug03
+map_Kd textures/simpsons/lisaspielzeug03
+
+newmtl simpsons/lisaspielzeug05
+map_Kd textures/simpsons/lisaspielzeug05
+
+newmtl simpsons/lisaspielzeug08
+map_Kd textures/simpsons/lisaspielzeug08
+
+newmtl simpsons/lisaspielzeug09
+map_Kd textures/simpsons/lisaspielzeug09
+
+newmtl simpsons/lisaspielzeug10
+map_Kd textures/simpsons/lisaspielzeug10
+
+newmtl simpsons/lisaspielzeugbear02
+map_Kd textures/simpsons/lisaspielzeugbear02
+
+newmtl simpsons/lisaspielzeugbear04
+map_Kd textures/simpsons/lisaspielzeugbear04
+
+newmtl simpsons/lisaspielzeugbear05
+map_Kd textures/simpsons/lisaspielzeugbear05
+
+newmtl simpsons/lisaspielzeugbear06
+map_Kd textures/simpsons/lisaspielzeugbear06
+
+newmtl simpsons/lisaspielzeugpuppe01
+map_Kd textures/simpsons/lisaspielzeugpuppe01
+
+newmtl simpsons/lisaspielzeugpuppe04
+map_Kd textures/simpsons/lisaspielzeugpuppe04
+
+newmtl simpsons/lisaspielzeugpuppe07
+map_Kd textures/simpsons/lisaspielzeugpuppe07
+
+newmtl simpsons/lschirm2
+map_Kd textures/simpsons/lschirm2
+
+newmtl simpsons/mail
+map_Kd textures/simpsons/mail
+
+newmtl simpsons/mailb
+map_Kd textures/simpsons/mailb
+
+newmtl simpsons/matte1
+map_Kd textures/simpsons/matte1
+
+newmtl simpsons/mauer
+map_Kd textures/simpsons/mauer
+
+newmtl simpsons/microwavebutton01
+map_Kd textures/simpsons/microwavebutton01
+
+newmtl simpsons/microwavebutton02
+map_Kd textures/simpsons/microwavebutton02
+
+newmtl simpsons/neucouchwand
+map_Kd textures/simpsons/neucouchwand
+
+newmtl simpsons/neukissen
+map_Kd textures/simpsons/neukissen
+
+newmtl simpsons/neukisseng
+map_Kd textures/simpsons/neukisseng
+
+newmtl simpsons/neurand
+map_Kd textures/simpsons/neurand
+
+newmtl simpsons/nummernpad1
+map_Kd textures/simpsons/nummernpad1
+
+newmtl simpsons/nummernpad12
+map_Kd textures/simpsons/nummernpad12
+
+newmtl simpsons/oelfleck
+map_Kd textures/simpsons/oelfleck
+
+newmtl simpsons/outtree02
+map_Kd textures/simpsons/outtree02
+
+newmtl simpsons/outtree03
+map_Kd textures/simpsons/outtree03
+
+newmtl simpsons/outtree05
+map_Kd textures/simpsons/outtree05
+
+newmtl simpsons/platte
+map_Kd textures/simpsons/PLATTE
+
+newmtl simpsons/rand
+map_Kd textures/simpsons/rand
+
+newmtl simpsons/rope
+map_Kd textures/simpsons/rope
+
+newmtl simpsons/schranktuer1
+map_Kd textures/simpsons/schranktuer1
+
+newmtl simpsons/servie2
+map_Kd textures/simpsons/servie2
+
+newmtl simpsons/spiegel01
+map_Kd textures/simpsons/spiegel01
+
+newmtl simpsons/spuelkasten
+map_Kd textures/simpsons/spuelkasten
+
+newmtl simpsons/steck
+map_Kd textures/simpsons/steck
+
+newmtl simpsons/steckl
+map_Kd textures/simpsons/steckl
+
+newmtl simpsons/streuerp
+map_Kd textures/simpsons/streuerp
+
+newmtl simpsons/streuerp2
+map_Kd textures/simpsons/streuerp2
+
+newmtl simpsons/streuers
+map_Kd textures/simpsons/streuers
+
+newmtl simpsons/streuers2
+map_Kd textures/simpsons/streuers2
+
+newmtl simpsons/tapete12
+map_Kd textures/simpsons/tapete12
+
+newmtl simpsons/topff
+map_Kd textures/simpsons/topff
+
+newmtl simpsons/treehouse01
+map_Kd textures/simpsons/treehouse01
+
+newmtl simpsons/treehouse03
+map_Kd textures/simpsons/treehouse03
+
+newmtl simpsons/treehouse05
+map_Kd textures/simpsons/treehouse05
+
+newmtl simpsons/treppenstufe
+map_Kd textures/simpsons/treppenstufe
+
+newmtl simpsons/vase
+map_Kd textures/simpsons/vase
+
+newmtl simpsons/vorhang
+map_Kd textures/simpsons/vorhang
+
+newmtl simpsons/wand
+map_Kd textures/simpsons/wand
+
+newmtl simpsons/wandik
+map_Kd 
+
+newmtl simpsons/white
+map_Kd textures/simpsons/white
+
+newmtl simpsons/youngmarge
+map_Kd textures/simpsons/youngmarge
+
+newmtl simpsons/zaun01
+map_Kd textures/simpsons/ZAUN01
+
+newmtl simpsons_house2/duff01
+map_Kd textures/simpsons_house2/DUFF01
+
+newmtl simpsons_house2/duff02
+map_Kd textures/simpsons_house2/DUFF02
+
+newmtl simpsons_house3/bartball
+map_Kd textures/simpsons_house3/bartball
+
+newmtl simpsons_house3/bartbook01
+map_Kd textures/simpsons_house3/bartbook01
+
+newmtl simpsons_house3/bartbook02
+map_Kd textures/simpsons_house3/bartbook02
+
+newmtl simpsons_house3/bartbook03
+map_Kd textures/simpsons_house3/bartbook03
+
+newmtl simpsons_house3/bartbook04
+map_Kd textures/simpsons_house3/bartbook04
+
+newmtl simpsons_house3/bartcar02
+map_Kd textures/simpsons_house3/bartcar02
+
+newmtl simpsons_house3/bartlampe02
+map_Kd textures/simpsons_house3/bartlampe02
+
+newmtl simpsons_house3/bartpanzerkette
+map_Kd textures/simpsons_house3/bartpanzerkette
+
+newmtl simpsons_house3/bartpanzerkette2
+map_Kd textures/simpsons_house3/bartpanzerkette2
+
+newmtl simpsons_house3/bartscratchy02
+map_Kd textures/simpsons_house3/bartscratchy02
+
+newmtl simpsons_house3/bartscratchy04
+map_Kd textures/simpsons_house3/bartscratchy04
+
+newmtl simpsons_house3/bartshader01
+map_Kd textures/simpsons_house3/bartshader01
+
+newmtl simpsons_house3/bartshader02
+map_Kd textures/simpsons_house3/bartshader02
+
+newmtl simpsons_house3/bartshader03
+map_Kd textures/simpsons_house3/bartshader03
+
+newmtl simpsons_house3/bartshader04
+map_Kd textures/simpsons_house3/bartshader04
+
+newmtl simpsons_house3/bartshader05
+map_Kd textures/simpsons_house3/bartshader05
+
+newmtl simpsons_house3/bartspielz02
+map_Kd textures/simpsons_house3/bartspielz02
+
+newmtl simpsons_house3/bartspielz03
+map_Kd textures/simpsons_house3/bartspielz03
+
+newmtl simpsons_house3/bartspielz07
+map_Kd textures/simpsons_house3/bartspielz07
+
+newmtl simpsons_house3/bartstoepsel
+map_Kd textures/simpsons_house3/bartstoepsel
+
+newmtl simpsons_house3/bartsuper03
+map_Kd textures/simpsons_house3/bartsuper03
+
+newmtl simpsons_house3/bartsuper04
+map_Kd textures/simpsons_house3/bartsuper04
+
+newmtl simpsons_house3/baseball
+map_Kd textures/simpsons_house3/baseball
+
+newmtl simpsons_house3/bildchen
+map_Kd textures/simpsons_house3/bildchen
+
+newmtl simpsons_house3/buch01
+map_Kd textures/simpsons_house3/Buch01
+
+newmtl simpsons_house3/lisashader01
+map_Kd textures/simpsons_house3/lisashader01
+
+newmtl simpsons_house3/lisashader02
+map_Kd textures/simpsons_house3/lisashader02
+
+newmtl simpsons_house3/lisashader05
+map_Kd textures/simpsons_house3/lisashader05
+
+newmtl simpsons_house3/lisaspielz02
+map_Kd textures/simpsons_house3/lisaspielz02
+
+newmtl simpsons_house3/lisaspielz09
+map_Kd textures/simpsons_house3/lisaspielz09
+
+newmtl simpsons_house3/lisaspielz14
+map_Kd textures/simpsons_house3/lisaspielz14
+
+newmtl simpsons_house3/lisaspielz15
+map_Kd textures/simpsons_house3/lisaspielz15
+
+newmtl simpsons_house3/weltlandkarte
+map_Kd textures/simpsons_house3/weltlandkarte
+
+newmtl skies2/nebula2
+map_Kd textures/skies2/nebula2
+
