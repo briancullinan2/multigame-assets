@@ -1,0 +1,26 @@
+
+---------------
+BMW 3-Series/M3
+---------------
+
+I dont know if its the right skin. The blueprints were for a BMW 3series Sedan,
+but FearMe's skin looks like a M3. So i dont really know what it should be called
+in the end. Whatever, its modelled, and it looks nice :-)
+
+Modelled by Dawid 'Dave' Kulesz
+Skinned by FearMe
+Model time	: dont know, never looked at the watch. approx 2-5 hours.
+Triangles 	: 692
+Skin Res  	: 512x512
+Blueprints	: Yes, front, rear, side. I think they were from Tom Suurland (www.suurland.com)
+Model Usage	: For any 3d game that likes 512-skins and a 700 polyrange for mapobjects.
+		  Primarly it was planned for Urban Terror (www.urbanterror.com)
+
+Thats it. I hope you like it. Spread it. But be fair. Dont distribute it under your name or
+anything like that. Thanks.
+
+Dave's email: fsdave@gmx.de
+Dave's ICQ  : 34793954
+Dave's HP   : http://dvedesigns.nixblicka.org
+
+This text file was written on 6 July 2002, 14:39 GMT+1 by Dave.

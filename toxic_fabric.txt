@@ -1,0 +1,144 @@
+TITLE                   : toxic_fabric
+AUTHOR                  : Devils Right Hand
+DATE                    : 30.09.2017
+TYPE                    : Team Deathmatch/Deathmatch/Tournament/Capture the Flag
+bug report feedback     : discord Devils Right Hand#2240 
+Release date  beta 1.0  : 30/11/2018
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+
+some professors found in some ancient ruins in greece a couple books with some unknown letters,after they decode some letters they go to rainforest in brasil and nortpole to investigate some meteorite crystals what are written in the books,the professors use there toxic facility where they work to gain access to the generators for there power to open a time vortex for the Stroggs ,that they come in our time  
+================================================================================
+Version 	: beta1
+
+================================================================================
+= CONSTRUCTION  =
+
+MAP BASE                : new Map
+EDITOR(S) USED          : netradiant 1.5 custom x64
+KNOWN BUGS              : 
+COMPILE MACHINE         : amd 6300 6x 3,5 ghz ,12 gb ram ddr3 ,amd rx580 8gb ,win7 x64
+COMPILE TIME            : 25 min
+COMPILE version         : LIGHT:   -light -fast -samples 2 -dirtscale 2 -dirtdepth 512 -patchshadows -bounce 2 "[MapFile]"
+BRUSHES                 : 17697
+ENTITIES                : 1379
+================================================================================
+= special thanks =
+
+twt thunder for support
+twt teuthis for support
+twt mateos for support
+macchute for help with scripting
+kemon for hint support
+WuTangH help with scripting at obj 
+TomTom7777 help with scripting at flagspawn change respawn time
+native12 for making botz waypoint
+twt ray for support
+uje niek for support/feedback and beta test on server
+http://www.alientrap.org for NetRadiant 1.5 custom 
+Simon O'C for tuts
+Victor Karp for tuts
+ets kate beta test on server
+wasp.sk for support/feedback and beta test on server
+================================================================================
+= Credits =
+
+twt thunder:
+
+weld.model
+generators.model
+weldtanksm.model
+tools.model
+-----------------------------------------
+
+Devils Right Hand: 
+models\mapobjects\dmodels\ellas
+
+
+textures toxic_facility_misc/generator1  
+textures toxic_facility_misc/generator11 
+textures toxic_facility_misc/generator2 
+textures toxic_facility_misc/generator22
+textures toxic_facility_misc/time_vortex
+textures toxic_facility_misc/time_vortex2
+textures toxic_facility_misc/noise_green
+textures toxic_facility_misc/power_panel
+textures toxic_facility_misc/number_panel
+toxic_facility_Vending_Machine/banner
+textures toxic_facility_banner/banner
+-----------------------------------------
+Greg Ward (flipout):
+textures toxic_facility_misc/grunge_9
+textures toxic_facility_misc/Splatter01
+textures toxic_facility_misc/Splatter02  
+textures toxic_facility_misc/slime
+-----------------------------------------
+
+D-Meat: 
+toxic_facility_metal/blastdoor_back
+-----------------------------------------
+Yves Allaire aka "evillair : 
+toxic_facility_metal/eX_floor_mtl_wrn_01_d
+toxic_facility_metal/eX_trim_simple_01_d
+toxic_facility_metal/eX_mtl_panel_04_d
+toxic_facility_metal/eX_floor_grate03_d
+toxic_facility_metal/eX_mtl_panel_03_d
+-----------------------------------------
+
+
+trak, tZorkc :
+toxic_facility_metal/trim_trim9a
+toxic_facility_metal/trim_trim9b
+toxic_facility_metal/trim_trim9c
+toxic_facility_metal/trim_trim9d
+toxic_facility_metal/trim_trim9e
+toxic_facility_metal/wall_wall4a
+toxic_facility_metal/wall_wall4b
+toxic_facility_metal/wall_wall4c
+toxic_facility_metal/wall_wall4d
+-----------------------------------------
+
+
+textures are from www.textures.com
+toxic_facility_metal/metal_blue
+toxic_facility_metal/metal_blue_rust
+toxic_facility_metal/metal_green
+toxic_facility_metal/metal_green_rust
+toxic_facility_metal/metal_green2
+toxic_facility_metal/metal_green2_rust
+toxic_facility_metal/metal_rust
+toxic_facility_metal/metal_rust2
+toxic_facility_glass/WindowsBacklit
+-----------------------------------------
+signs are free from net
+-----------------------------------------
+
+Simon O'C :books ase.models
+i change some books from his book tut and maked ase.model of it
+
+textures\toxic_facility_misc/xtele_swirl4
+-----------------------------------------
+
+Avoc @ eft-clan.com     : skybox
+firefly                 : cloud
+---------------------------
+nobiax : barrel.model 
+================================================================================
+Distribution / Copyright / Permissions
+
+Copyright (c) 2018  Devils Right Hand 
+All rights reserved
+
+YOU are not allowed to make any money directly/indirectly from my textures use.
+You can use my textures in free games like Wolfenstein: Enemy Territory or quake3/quakelive as long as you include this readme note indicating you got it from me.
+
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+This level may be electronically distributed not-for-profit only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM (or other media) WITHOUT PRIOR
+WRITTEN PERMISSION.
+

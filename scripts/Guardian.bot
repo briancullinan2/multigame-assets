@@ -1,0 +1,18 @@
+//------------------------------------------------
+//Guardian.bot
+//------------------------------------------------
+// Guardian - Version 1.0
+// Created By: D-Meat with the Quake ToolKit (www.planetquake.com/eoc)
+//             dmeat@free.fr
+// http://dmeat.free.fr/blog/
+//
+//------------------------------------------------
+
+{
+name      Guardian
+model     visor/guardian
+headmodel visor/guardian
+funname   Guardian
+color     1
+aifile    bots/Guardian_c.c
+}

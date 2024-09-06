@@ -1,0 +1,30 @@
+//------------------------------------------------
+//TheSwat.bot
+//------------------------------------------------
+// TheSwat - Version Ver1.0SWAT
+// Created By: Martinus with the Quake ToolKit (www.planetquake.com/eoc)
+//             Martinus001@gmail.com
+// -
+//
+// Local agent of S.W.A.T.
+// A very special unit, who can keep 
+// everithing under control and safe...
+// If... he could keep himself normal
+// but... he isn't normal anymore!!!
+//
+// He is the local very important somebody!
+// 
+// He is a real scumbag, be careful!
+// (I tried to not use bad words... too 
+// often.)
+//------------------------------------------------
+
+{
+name      TheSwat
+model     fritzkrieg/swat
+headmodel fritzkrieg/swat
+funname   ^1S.W.A.T.
+color     1
+arenaLord 1
+aifile    bots/TheSwat_c.c
+}

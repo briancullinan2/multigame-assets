@@ -1,62 +1,59 @@
+Release date: 16.11.2009.
+Quake III Arena DM level.
 
-Release date: 8. 9. 2007
-Quake3Arena ctf level.
+============================================================
 
------------------------------------
-Map:		Iris
-file:           rota3ctf1.pk3
-Author:		Rota
-E-mail:		patarasa@seznam.cz
-ICQ:		333-897-502
-description:    Ctf map for 2v2 or 3v3
+Title:		        Krichevo Town by D_ooMNiCK   
+File:		        qsc_town.pk3
+Author:		        D_ooMNiCK (Paul Zhavrid) 
+email address:	        cverdzisvet@mail.ru
+Description:	        Large map for deathmatch game
 
------------------------------------
-play information
+============================================================
 
-tourney:          no
-deathmatch:       no
-team deathmatch:  no
-ctf:		  yes
-Bot File (aas):   yes
-how to play:      place rota3ctf1.pk3 in your /baseq3/ folder
-                  start quake3
-                  select rota3ctf1 from the skrimish menu
+Play information
 
------------------------------------
-construction
+tourney:		      no
+deathmatch:	              up to 12 players
+team deathmatch:	      no
+CTF:		              no
+Bot File (aas):	              yes
+other:		              no
+new sounds:	              yes
+new graphics:	              yes
+new music:	              no
 
-base:           none
-editor:         GTKRadiant 1.4.0
-build time:     12 weeks
+============================================================
 
-----------------------------------
+How to install
+    
+Place qsc_town.pk3 in your .../Quake 3 Arena/baseq3/ folder
 
--Used textures:
+============================================================
 
-	Andromeda	author:	Speedy
-			URL:	www.cr8.da.ru
+Info
 
-	Tech1		author:	Sock 
-			URL:	http://www.planetquake.com/simland
-	
-	E6		author:	Yves Allaire aka evil lair
-			URL:	http://evillair.net
+This map - attempt to cross notorious Chernobyl and a usual Post-Soviet city in central Europe.
 
-	skybox		author: Hazel Whorley
-			URL:	http://www.hazelwhorley.com
+============================================================
 
--Used models:
-			author: Nathan Silvers
-			URL:	http://www.planetquake.com/nathan
+Construction
 
--Help:
-	Subst
-	P.J.
+base:		         New level
+editor:		         GtkRadiant 1.5.0
+other progs:	         Photoshop, Paint, Notepad, Wavepad
+know bugs:  	         Problem with map start on CPMA modification
+build time:     	 About 2 weeks
 
-----------------------------------
-My older maps for Q3:
+============================================================
+Distribution / Copyright / Permissions 
 
-	rota3dm2: Karin		http://lvlworld.com/comments.php?id=1941#comments
-	rota3d1:  Last trip	http://lvlworld.com/comments.php?id=1913#comments
-	drum			http://lvlworld.com/comments.php?id=1934#comments
-	dum			http://lvlworld.com/comments.php?id=1878#comments
+Quake III Arena is a registered trademark of id Software, Inc.
+
+This level may be electronically distributed only at NO
+CHARGE to the recipient in its current state, MUST include
+this .txt file, and may NOT be modified IN ANY WAY. UNDER NO
+CIRCUMSTANCES IS THIS LEVEL TO BE DISTRIBUTED ON CD-ROM
+WITHOUT PRIOR WRITTEN PERMISSION.
+
+============================================================

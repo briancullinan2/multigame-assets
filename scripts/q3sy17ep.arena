@@ -1,0 +1,8 @@
+{
+map "q3sy17ep"
+longname "Shipyard 17 Boss Battle edition"
+author "Martinus"
+description "Defeat all the bosses, and check the map for stuffs which can helps you in your heroic quest! You have 8 lives and a BOOST system for assist. Don't loose your lives too early!!! Good luck champion!"
+type "entityplus"
+minversion "1.1.4"
+}

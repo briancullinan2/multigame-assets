@@ -1,0 +1,10 @@
+//***** Arena file for the map *****
+
+
+{
+map "q3sy17ta"
+bots "TheSwat Fritzkrieg"
+longname "Shipyard 17 by Martinus"
+fraglimit "30"
+type "ffa team tourney "
+}

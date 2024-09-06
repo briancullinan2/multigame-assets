@@ -1,0 +1,7 @@
+{
+map "dmeat_sp02b"
+longname "Lo Sota Olt"
+fraglimit "0"
+type "ffa"
+bots "Guardian"
+}

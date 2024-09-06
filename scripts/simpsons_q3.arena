@@ -1,0 +1,9 @@
+
+
+{
+map             "simpsons_q3"
+longname        "The Simpsons Map"
+bots 		    "grunt"
+timelimit 	    "20"
+type            "ctf team ffa"
+}

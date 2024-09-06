@@ -1,0 +1,9 @@
+{
+map		"toxic_fabric"
+longname	"Toxic Fabric"
+type		"ffa tourney ctf team"
+fraglimit	20
+timelimit	20
+author		"Devils Right Hand"
+}
+
