@@ -1,0 +1,7 @@
+{
+map	"fff"
+longname	"fff"
+bots	"visor sarge hunter anarki"
+fraglimit	30
+type	"ffa team"
+}

@@ -1,0 +1,80 @@
+
+=========================================================================
+
+Title                   : The Doom That Came To Dunwich    (Q3A)
+Release date            : 2/25/2001
+File name               : ikzdm1.pk3
+
+Authors                 : Iikka "Fingers" Keranen
+                          Rich "Zdim" Carlson
+Email Address           : fingers@mail.planetquake.com
+                          zdim@digital-eel.com
+URL                     : http://www.planetquake.com/ikq/
+                          http://www.digital-eel.com/
+
+Map description         : 4-8 player FFA or Team DM recommended.
+
+													Timeline:
+                          1898: Phosphorescent strands of Asbestos-like
+                                substance fall on Montgomery, Alabama.
+                          1907: Balls of light fall from the sky and 
+                                explode near Burlington, Vermont.
+                          1917: Luminous object seen moving on the Moon.
+                          1929: Mysterious purple lights seen in the sky
+                                above Dunwich, Massachusetts.
+                          1929: Due to plague outbreak, Dunwich, Massachusetts
+                                art district placed under indefinite quarantine
+                                by the US army.
+            
+Thanks to               : Zdim for the Sanctum Of Dada and sounds
+                          Various dead classical and surrealist artists
+                          Kate Bush, Weather Report, Todd Rundgren and Beatles
+                          The great and fair city of Boston
+                          H.P. Lovecraft and August Derleth (and Chaosium)
+                          Id Software
+
+Misc notes              : Texture set available for download at:
+                          http://www.digital-eel.com/surface/
+
+Fingers' notes          : I started this map a long time ago, but never had
+                          time to finish it until now... I just started playing
+                          with it again a couple of weeks ago, collaborating
+                          with my old friend Zdim, and it took on a life of 
+                          its own. Influenced by the chaotic and irregular 
+                          architecture of old Boston, it's quite different 
+                          from anything I've ever done before and may not 
+                          appeal to all the gamers out there... But it had 
+                          to be done, so here it is.
+
+                          I promise my next level will be smaller :)
+
+Zdim's notes            : Hi. It's me. The Central Scrutinizer. I experienced
+                          an outfreakage of extraordinary magnitude while
+                          collaborating with Fingers on this level-that-should-
+                          not-be. I've seen Them. They're here. Run away.
+                          As fast as you can.
+
+                          Special thanks to John, John, John, John and Jon.
+
+=========================================================================
+
+***** Construction *****
+
+Editor used             : Q3Radiant
+Known Bugs              : Some bots like the sewer too much...
+Number of Brushes       : 4122
+Build Time              : A year?
+Compile machine         : p3/700 with 512M 
+Compile Time            : About 3 hours
+  
+=========================================================================
+
+* How to use the .pk3 *
+
+copy ikzdm1.pk3 to your baseq3 directory
+run Q3A, and find ikzdm1 in the map selection screen (multiplayer or SP skirmish)
+
+* Copyright / Permissions *
+
+You're allowed to redistribute this level via electronic media such as Internet,
+and free of charge. Any commercial use without a permission is prohibited.

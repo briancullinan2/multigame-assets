@@ -1,3 +1,4 @@
 **/.DS_Store
 maps/autosave
 maps/**/autosave
+**/Thumbs.db

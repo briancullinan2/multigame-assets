@@ -1,0 +1,9 @@
+{
+	map		"dm10"
+	longname	"Blood Rage"
+	fraglimit	"25"
+	timelimit	"0"
+	bots		"major xaero"
+	type		"tourney ffa team2v2 team bloodrun"
+	resptype	"cool"
+}

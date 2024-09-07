@@ -1,0 +1,46 @@
+6/1/2001
+================================================================
+Title                   : foo3DM1 - Dry Ice
+BSP Name                : foo3dm1.bsp
+Author                  : Chris 'Foo' Thorpe
+Release Date            : January 2001
+Email Address           : thegreatfoo@hotmail.com OR foo@2badseyfl.freeserve.co.uk
+Home Page               : http://www.2badseyfl.freeserve.co.uk
+			
+Map Description         : A fast-paced, clean looking tech arena. Plays nice and fast in 1 on 1 and FFA. Bots love it, too. Basically an attempt to bridge the gap between regular QIII and CPM.
+If YOU like it, please email me.... If you dont like it, tell me why....
+
+Other Info		: My first map, so go easy, j00.
+Other maps by Author	: None
+
+Additional Thanks to    : The guys at the Q3W level editing forum for the occasional prod in the right direction.
+Paul Jaquays, simply because without his advice the level wouldnt exist.
+Evil_lair, for the textures. I sincerely hope you feel my level is good enough for them, m8.
+================================================================
+
+
+* Installation *
+
+To install, simply unzip and place foo3dm1.pk3 in your baseq3 directory wherever you installed Quake3: Arena.  The map should now be accessible via the Multiplayer or Skirmish menu or by typing "\map foo3dm1" at the console without the quotes.
+
+* Play Information *
+
+Deathmatch	     : 2-4
+Player Base  	     : Tourney, Free-For-All
+Bot File (aas)	     : Yes
+			  
+
+* Construction *
+
+Base                    : From scratch
+Construction Time       : 1 week. A little longer for beta testing.
+Compile Time		: 5hrs, 41min
+Machine 	        : k6-2 500mhz, 128mb RAM, V3 2000
+Editor used             : Q3Radiant
+
+
+* Copyright / Permissions *
+
+You may NOT use this level as a base to build additional levels.
+You may distribute this BSP in any electronic format (BBS, Internet,
+PC/Game Mag cover-CD, etc) but you MUST inform me before you do this.

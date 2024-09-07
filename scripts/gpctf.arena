@@ -1,0 +1,6 @@
+{
+map		"gpctf1"
+bots		"gothax pyrate shilo ryuujin tetsedah kyah"
+longname	"GP CTF"
+type		"ctf"
+}

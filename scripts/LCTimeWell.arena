@@ -1,0 +1,7 @@
+{
+map	"LCTimeWell"
+longname	"In The Well of Time"
+bots	"hunter sorlag tankjr bones orbb"
+fraglimit	20
+type	"ffa team"
+}

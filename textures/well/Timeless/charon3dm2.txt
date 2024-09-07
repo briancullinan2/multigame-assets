@@ -1,0 +1,78 @@
+================================================================
+Title                   : Timeless Classic
+Date                    : 12/09/2000 
+Filename                : map-charon3dm2.pk3
+Game			: Quake3
+Author                  : Charon
+
+Email Address           : charon@gw.total-web.net
+			: nnynyx_rtsg@yahoo.com
+Website
+			: http://www.interactivedeath.net/
+Description             : Tick, tock. Tick, Tock. Clocks, clocks,
+			: and more clocks. This map uses custom
+			: textures and sounds to get the feel
+			: of an almost nightmarish surreal
+			: dreamland of lego-brick style buildings
+			: and enormous clocks. Imagine the colors
+			: of an old photograph being portrayed
+			: in a classic mechanical/industrial feel.
+			: The textures are metallic with an old
+			: mechanical feel, and the sounds are
+			: hellish and true to the theme of "clocks".
+			: All the clocks work and keep time of how
+			: long you have been in game.
+                       
+Other Levels		: charonra3map1 (quake3, ra3)
+			: charonq2dm1 (quake3)
+			: charondm1 (quake3)
+			: ncdm1 (quake2)
+			: iridium1 (quake2)
+			: arsenic1 (quake2)
+			: iodine2 (quake2)
+			: iodine1 (quake2)
+
+Additional Credits to   : id software, Normal, dfused
+
+================================================================
+
+- Play Information -
+
+Mod			: None
+Players                 : 2 - 8
+Bots                    : Yes, though they tend to like the main room.
+
+Unzip the the zip file map-charon3dm2.zip into your quake3\baseq3 directory. 
+
+
+- Construction -
+
+Base                    : None.
+Editor(s) used          : Q3Radiant
+Known Bugs		: None
+
+Build Time              : 6 days
+
+Textures used           : Industrial gray metallics and rusts.
+
+Compile machine         : P3/500 overclocked to 559 with 384megs RAM
+q3map compile Time      : TOTAL - 1553 seconds or roughly 26 minutes
+			: BSP - 28 seconds
+			: VIS - 673 seconds
+			: LIGHT - 852 seconds
+Brushes                 : 3646
+
+Items			: 1 Grenade Launcher
+			: 1 Plasma Gun
+			: 1 Railgun
+			: 2 Rocket Launchers
+			: 2 Shotguns
+			: 2 Yellow Armors
+			: 1 Haste
+
+
+- Copyright / Permissions -
+You not include or distribute this map in any sort of commercial product without 
+permission from the author.  You may not mass distribute this level via any
+non-electronic means, including but not limited to compact disks, and floppy disks
+without permission from the author.

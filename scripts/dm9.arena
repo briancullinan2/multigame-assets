@@ -1,0 +1,9 @@
+{
+	map		"dm9"
+	bots		"major sarge xaero"
+	longname	"The Bad Space"
+	fraglimit	"30"
+	timelimit	"0"
+	type		"tourney ffa team2v2 team bloodrun"
+	resptype	"cool"
+}

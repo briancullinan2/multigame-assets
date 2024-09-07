@@ -1,0 +1,7 @@
+{
+map	"doomentryway"
+longname	"doomentryway"
+type	"ffa tourney"
+timelimit	"0"
+fraglimit	"25"
+}

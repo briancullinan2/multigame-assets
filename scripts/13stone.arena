@@ -1,0 +1,6 @@
+{
+map		"13stone"
+longname	"Floating Stonefaces (by sst13)"
+capturelimit    "8"
+type		"ctf proball freeplay"
+}

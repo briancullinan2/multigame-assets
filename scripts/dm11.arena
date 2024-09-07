@@ -1,0 +1,9 @@
+{
+	map	"dm11"
+	longname "AERO"
+	bots "Xaero"
+	fraglimit "0"
+	timelimit "10"
+	type "tourney ffa team2v2 team bloodrun"
+	resptype "cool"
+}

@@ -1,0 +1,98 @@
+------------File Information------------------------------------------ 04/Dec/2000 --------- 
+--------------------------------------------------------------------------------------------
+ Title                   : Rhapsody In Blue
+ Game                    : Quake 3 Arena
+ Filename                : Dubrhap.pk3
+ Author                  : Lasse "Dubbilan" Kolding
+
+ Homepage                : Http://www.PlanetQuake.com/Dubbilan
+ 
+ Email Address           : Dubbilan@PlanetQuake.com
+
+ Description             : Medium sized map with a kinda different bluish feel.
+                           Don't know what to say here, uh! yeah and with 2 stories
+                           sort of atrium like!
+
+-------------------------------------------------------------------------------------------
+
+------------Comments------------------
+
+The map is pretty dark in places, and it is very different how dark it is on
+different computers. I have done alot to make the map lighter with the same dark
+atmosphere, but if you still have trouple I suggest setting up the brightness or
+even better use vertex lighting. Vertex is off course not as pretty but it works
+pretty okay ;)
+The bots play okay, but doesn't use the topfloor as much as you might want them to.
+Play against humans if you can!
+
+
+------------Play Information ---------
+        
+ Player Base                : Free-For-All, Team, Tourney
+ Possible Number of Players : 2-8
+ Best number of Players     : 3-6, 2v2, 1v1
+ Default Bots               : Anarki, Doom, Xaero
+ 
+ PS. The bots play OK mostly, but as always I suggest human players
+     since the bots can't figure out to do all the tricks in the gameplay.
+
+
+------------Construction--------------
+
+ New Textures   : Yes! All of it mostly.
+ 
+ Base           : None
+ Build Time     : Around 6 million Hours over 2 month!
+ Compile Time   : App. 2 Hours on a PIII 450 - bsp-file (FullVis, -light -extra)
+                  App. 20 minutes - aas-file
+ Editor used    : Q3Radiant 202
+ 
+ Thanks to my
+ Beta testers   : Lunaran, Bal, Elden Majors, Keyser, Pengo8, PwR900, MeanLean,
+                  RawShark, Ged Byrne, Relix, JB and anyone I might have forgotten ;)
+
+ Known Bugs     : Not much I hope :). Some sparks/glitters here and there on some
+                  graphic cards.
+
+
+------------Pak File Contents---------
+
+ : maps/dubrhap.bsp
+       /dubrhap.aas
+       
+ : scripts/dubrhap.arena
+          /dubtex.shader
+
+ : levelshots/dubrhap.jpg
+  
+  
+ : textures/dubtex/blah.jpg
+                  /blah.tga
+                  /etc.*
+
+ : dubrhap.txt
+
+
+------------Releases------------------
+          
+  04/Dec/2000 :: Rhapsody In Blue : This (Original) Release
+  
+  26/Sep/2000 :: Reverberation : Low-Detail Version
+
+  13/Sep/2000 :: Reverberation : Original (Competition) Release
+
+  09/Sep/2000 :: Blood Portal : Second Realease
+
+
+------------Copyright-----------------
+
+Copyright (c) 2000 Dubbilan, www.PlanetQuake.com/Dubbilan
+All rights reserved
+
+Feel free to distribute this file in any electronic form, as long as proper
+credit is given and the contents remains unaltered, and this text file has 
+not been edited in any way.
+You may not alter, edit or use the map as a base to build additional levels.
+This file may not be commercially exploited in any way.
+
+feedback or comments, email me at: Dubbilan@PlanetQuake.com

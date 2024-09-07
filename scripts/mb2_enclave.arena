@@ -1,0 +1,13 @@
+{
+map				"mb2_enclave"
+longname		"MBII Jedi Enclave"
+fraglimit		10
+type			"MB"
+}
+
+{
+map				"mb2_duel_dantooine"
+longname		"MBII Duel Dantooine"
+fraglimit		10
+type			"MB"
+}

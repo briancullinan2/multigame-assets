@@ -1,0 +1,7 @@
+{
+map	"cpm24a_fkd_vq3"
+longname "Frantic v2"
+bots "major"
+timelimit "10"
+type "tourney"
+}

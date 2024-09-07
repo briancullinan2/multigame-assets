@@ -1,0 +1,7 @@
+{
+map		"damystic"
+bots		"gothax pyrate shilo ryuujin tetsedah kyah"
+longname	"Mystic Mountains"
+fraglimit	50
+type		"single team ffa tourney lms"
+}

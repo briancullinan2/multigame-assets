@@ -1,0 +1,6 @@
+{
+map		"13island"
+longname	"Stoneface Islands (by sst13)"
+capturelimit    "8"
+type		"ctf ffa"
+}

@@ -1,0 +1,9 @@
+{
+	map             "dm12"
+	fraglimit	"15"
+	timelimit	"0"
+	bots		"xaero"
+	longname        "Killing Machine"
+	type		"tourney ffa team2v2 team bloodrun"
+	resptype	"qc"
+}

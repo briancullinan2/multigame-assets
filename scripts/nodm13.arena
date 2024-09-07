@@ -1,0 +1,7 @@
+{
+	map		"nodm13"
+	bots		"ranger sarge major"
+	longname	"The Dark Zone"
+	fraglimit	69
+	type		"tourney ffa team"
+}

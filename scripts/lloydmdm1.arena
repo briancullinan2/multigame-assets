@@ -1,0 +1,7 @@
+{
+map "lloydmdm1"
+bots "doom klesk mynx hunter daemia bones"
+longname "The Omnipresent Eye"
+fraglimit 20
+type "ffa team"
+}

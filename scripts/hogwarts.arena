@@ -1,0 +1,7 @@
+{
+map	"hogwarts"
+longname	"Hogwarts: A Quake III Level"
+bots	"sarge grunt mynx major"
+fraglimit	15
+type	"ffa"
+}

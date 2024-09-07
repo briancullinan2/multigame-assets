@@ -1,0 +1,7 @@
+{
+map		"earth"
+bots		"gothax pyrate shilo ryuujin tetsedah kyah"
+longname	"Earth"
+fraglimit	50
+type		"single team ffa tourney lms oozaru"
+}

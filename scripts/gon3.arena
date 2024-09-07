@@ -1,0 +1,9 @@
+{
+map			"gon3"
+longname		"Guns_Of_Navarone_3:_The_Final_Act"
+bots		"ranger orrbb mynx pasquake xaero crash doom cadavre tankjr"
+longname	"birthmachine"
+fraglimit	30
+type		"ffa"
+}
+

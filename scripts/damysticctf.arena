@@ -1,0 +1,6 @@
+{
+map		"damysticctf"
+bots		"gothax pyrate shilo ryuujin tetsedah kyah"
+longname	"Mystic Mountains CTF"
+type		"ctf"
+}

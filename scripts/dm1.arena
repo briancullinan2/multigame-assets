@@ -1,0 +1,8 @@
+{
+	map         "dm1"
+	longname    "Toxic Waste"
+	bots        "major xaero"
+	fraglimit   "25"
+	timelimit   "0"
+	type        "tourney ffa team2v2 team bloodrun"
+}

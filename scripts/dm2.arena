@@ -1,0 +1,8 @@
+   {
+   map		"dm2"
+   longname	"Arabian Night"
+   fraglimit	"25"
+   timelimit	"0"
+   bots		"major xaero"
+   type		"tourney ffa team2v2 team bloodrun"
+   }
