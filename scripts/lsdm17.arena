@@ -1,0 +1,8 @@
+{
+map         "lsdm17"
+longname    "Octopus Revenge"
+bots        "Major Klesk Sorlag Doom"
+fraglimit   20
+timelimit   15
+type        "tourney ffa"
+}

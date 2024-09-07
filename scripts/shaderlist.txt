@@ -330,4 +330,9 @@ enclave_ship
 Hammerhead
 mb2_enclavemap
 plasma_dant
-
+celkazdm5_sfx
+ls_q3dm17
+moteof_final
+proto2
+sfx2
+q3sy17_textures

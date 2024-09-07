@@ -1,0 +1,7 @@
+{
+map			"kazdm5"
+bots		"doom major sarge"
+longname	"Lost at Sea"
+fraglimit	20
+type		"ffa tourney"
+}

@@ -1,0 +1,7 @@
+{
+map			"moteof_final"
+bots			""
+longname		"The Edge of Forever"
+fraglimit	10
+type			"ffa"
+}
