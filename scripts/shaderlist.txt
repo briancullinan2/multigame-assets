@@ -336,3 +336,6 @@ moteof_final
 proto2
 sfx2
 q3sy17_textures
+
+cn_treesoakunhsanct_playerscity1forttown_nbentree1unhsanct_skyboxunhsanct_modelsunhsanct_texturesswat
+

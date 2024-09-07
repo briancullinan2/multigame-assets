@@ -1,0 +1,16 @@
+{
+map "forttown"
+bots "Anarki Biker Bitterman Doom Gorre Grunt"
+longname "FortTown by Martinus"
+fraglimit "30"
+capturelimit "6"
+type "ffa team tourney ctf "
+}
+
+{
+map "forttown_og"
+bots "Hunter Tankjr Slash Bitterman"
+longname "FortTown Open Gate by Martinus"
+fraglimit "50"
+type "ffa team tourney "
+}

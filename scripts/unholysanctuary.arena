@@ -1,0 +1,38 @@
+//***** Arena file for the maps *****
+
+
+{
+map "us_intro"
+bots "Hunter Mynx Visor Coljanella"
+longname "Unholy Sanctuary Introduction"
+fraglimit "40"
+type "ffa team tourney "
+}
+
+
+{
+map "us_church"
+bots "Klesk Razor TankJr Admjohn"
+longname "Unholy Sanctuary Church"
+fraglimit "30"
+type "ffa team tourney "
+}
+
+{
+map "us_boneforts"
+bots "Crualjohn Anarki Biker Cursed Slash Xaero "
+longname "Unholy Sanctuary"
+fraglimit "40"
+capturelimit "6"
+type "ffa team tourney ctf "
+}
+
+{
+map "us_faceless"
+bots "Haunted Doom Gorre Maelstrom Major Mynx "
+longname "Unholy Sanctuary Faceless"
+fraglimit "30"
+capturelimit "8"
+type "ffa team tourney ctf "
+}
+

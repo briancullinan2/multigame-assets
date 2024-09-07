@@ -1,0 +1,48 @@
+//------------------------------------------------
+//coljanella.bot
+//------------------------------------------------
+// coljanella - Version 1.0
+// Created By: Martinus with the Quake ToolKit (www.planetquake.com/eoc)
+//             -
+// -
+//
+// Colonel Janella
+// Full name : Colonel Janella Sabando 
+// (her name is form the Doom Bible. I 
+// don't know much about her...)
+// She was a military leader, who 
+// supervised the Nibiru action.
+// 
+// (She is not so talkative...)
+//------------------------------------------------
+
+{
+name      coljanella
+model     crash/coljanella
+headmodel crash/coljanella
+funname   ColonelJanellaSabando
+color     7
+arenaLord 1
+aifile    bots/coljanella_c.c
+}
+
+{
+name      cursed
+model     crash/cursed
+headmodel crash/cursed
+funname   TheCursed
+color     3
+aifile    bots/coljanella_c.c
+}
+
+{
+name      haunted
+model     crash/haunted
+headmodel crash/haunted
+funname   TheHaunted
+color     1
+aifile    bots/coljanella_c.c
+}
+
+//Added +2 skin
+

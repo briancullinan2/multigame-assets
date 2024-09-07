@@ -1,0 +1,45 @@
+//------------------------------------------------
+//admjohn.bot
+//------------------------------------------------
+// admjohn - Version 1.0
+// Created By: Martinus with the Quake ToolKit (www.planetquake.com/eoc)
+//             -
+// -
+//
+// Admiral John (NOT John Carmack)
+// Full name : John Kaleb Admiral
+// He was the leader of the mothership 
+// called UAC-Curiosity III. to discover 
+// the planet called Nibiru.
+//------------------------------------------------
+
+{
+name      admjohn
+model     doom/admjohn
+headmodel doom/admjohn
+funname   JohnKalebAdmiral
+color     7
+arenaLord 1
+aifile    bots/admjohn_c.c
+}
+
+{
+name      crualjohn
+model     doom/crualjohn
+headmodel doom/crualjohn
+funname   TheCrual
+color     1
+aifile    bots/admjohn_c.c
+}
+
+{
+name      maelstrom
+model     doom/maelstrom
+headmodel doom/maelstrom
+funname   Maelstrom
+color     4
+aifile    bots/admjohn_c.c
+}
+
+//Added +2 skin
+

@@ -1,0 +1,8 @@
+{
+map         "city1"
+longname    "City 1"
+bots        "hunter slash mynx uriel bones xaero daemia hossman"
+fraglimit   30
+timelimit   5
+type        "ffa team"
+}
