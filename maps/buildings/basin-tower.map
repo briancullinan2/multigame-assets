@@ -10,6 +10,7 @@
 "_lightmapscale" "0.25"
 "_blocksize" "1024 1024 1024"
 "_tb_mod" "pak1.pk3dir;pak0.pk3dir;pak90.pk3dir;pak91.pk3dir"
+"_sun" ".90 .90 .95 80 315 40"
 // brush 0
 {
 ( -384 -228 224 ) ( -384 -228 200 ) ( -384 36 200 ) tb_main/wood_4 208 -128 0 0.25 0.25 0 0 0

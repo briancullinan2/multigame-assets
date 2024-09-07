@@ -1548,11 +1548,11 @@
 {
 "classname" "misc_model2"
 "origin" "1 -1 -16"
-"model2" "maps/simpsons_q3.bsp"
+"model2" "maps/cartoon/simpsons_q3.bsp"
 }
 // entity 191
 {
 "classname" "misc_model2"
 "origin" "7184 528 -1000"
-"model2" "maps/toxic_fabric.bsp"
+"model2" "maps/toxic/toxic_fabric.bsp"
 }
