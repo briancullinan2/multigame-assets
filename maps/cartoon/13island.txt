@@ -1,0 +1,40 @@
+_________________
+Stoneface Islands
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Game			: Quake 3 Arena
+Map Title		: Stoneface Islands (by sst13)
+Map Filename		: 13island.bsp
+Base			: 13stone.bsp, 13void.bsp
+Relase Date		: 5. April 2008
+
+Author			: Stefan Scholz "aka sst13"
+e-Mail			: sst13@gmx.de
+Author Homepage		: http://www.sst13.de
+
+Description		: Some islands in the sea, for play with Rocketlauncher only.
+			  Design & gameplay taken from 13stone (Floating Stonefaces).
+			  Layout taken from 13void (Dark Void).
+
+Player			: 6-8
+Gametypes		: CTF, FFA*, Team*
+Botsupport		: Yes
+
+New Configs		: 13island.cfg (sets specific map settings)
+			: 13islandx.cfg (resets default osp settings)
+New Textures		: Yes
+New Shaders		: Yes
+New Sounds		: No
+New Models		: Face_red (by sst13)
+			  Face_blue (by sst13)
+			  Launchpad_r (by sst13, base by Herr W)
+			  Launchpad_b (by sst13, base by Herr W)
+			  Palm (by sst13)
+			  Bridge (by sst13)
+
+Editor(s) used		: Q3Radiant v2.02, Q3Map Explorer, q3map2 v2.5.14, Milkshape 3D v1.7.8, NPhernos MD3 Compiler
+Compile Machine		: AMD 1800+ with 1GB RAM
+Compile Time		: 5 min
+
+Bugs			: There's a problem with "I can win" Bots. Don't use them.
+
+Credits			: id Software, PQ Editig Forum, all Quake Zockers...

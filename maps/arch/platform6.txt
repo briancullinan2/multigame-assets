@@ -1,0 +1,109 @@
+===================================================================================
+RELEASED Date: 24.07.2001
+===================================================================================
+
+Infos:
+------
+ 
+ Title                   : Platform6
+ Filename                : platform6.pk3
+ Author                  : Cyben
+ Email Adress            : cyben@gmx.li 
+ homepage                : http://www.q-area.de.vu
+ Description             : A city high in the air. A mixture of future and fantasy.
+                           No pro-map or a map with a special gameplay.
+                           This map is mainly an optical map for your eye. I hope, you
+                           enjoy playing my map.
+ Info                    : My first map :)
+
+
+Instructions:
+-------------
+
+How to play?
+
+ 1. Extract platform6.pk3 into your Q****3/baseq3/ directory
+ 2. Start Q****3
+ 3. To play platform6 type in your console "/map platform6" (Since PR 1.17, you can also
+    choose the map in the 'create' menu).
+
+
+
+ Settings    : Deathmatch and Team Deathmatch
+ Players     : 4 to 8
+ Bot Support : Bots are fully supported
+ Known Bugs  : no real
+
+
+
+ Build time  : 4 (final-Version)
+ Compile time: 3 hours with [full-vis lightextra], on P3 733 with 256mbsdram
+ Editor      : Q3Radiant 202
+
+
+ 
+Improvement of the final: 
+ 
+ -Removed BFG10k
+ -Set Lightning gun
+ -Improved Itemplacement
+ -Improved light and brightness
+ -Changed details (removed details)
+ -Many small details
+
+
+Thanks:
+-------
+
+Thanks to the betatesters, who sent me some feedbacks:
+
+ NukeGod
+ FlavaClown
+ Dangerzone
+ Two-D
+ Prince
+ Deustuus
+ Numen
+ PharaoEC
+
+
+Special thanks to the following people:
+
+ Dangerzone                         : Very good tutors. Thanks for help and some textures!
+ Ente                               
+ 
+ 
+ multiplant - .md3, texture, and shader files by 
+ Todd Gantzler Copyright (c) 2000
+ http://i.am/professorQ3
+
+ 
+ ALL BETATESTERS
+
+-Thanks!
+
+-----------------------------------------------------------------------------------
+
+Very good sites:
+----------------
+
+ --> http://www.dangerzone.de.st    : cool maps and q3radiant-tutorials by Michel
+ --> http://www.planetq****.de      : best german q3 site. (news, stuff etc.)
+ --> http://www.q****.de            : German q****3 page
+ --> http://www.texturator.de       : Thanks for some textures
+ --> http://www.padmaps.de          : cool fun-maps by Ente
+
+
+
+===================================================================================
+
+Copyright:
+----------
+
+This level is (c) 2001 Cyben.
+You are not to include or distribute this map in any sort of commercial product without 
+first obtaining permission from the author. You may not mass distribute this level via any 
+non-electronic means, including but not limited to compact disks, and floppy disks.
+
+
+Quake III Arena (C) 1999 id Software. All rights reserved.

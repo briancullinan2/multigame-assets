@@ -1,0 +1,35 @@
+___________________
+Floating Stonefaces
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Game			: Quake 3 Arena
+Map Title		: Floating Stonefaces (by sst13)
+Map Filename		: 13stone.bsp
+Relase Date		: 16. January 2007
+
+Author			: Stefan Scholz "aka sst13 / [FDK]Railraver"
+e-Mail			: sst13@gmx.de
+Author Homepage		: http://www.sst13.de
+
+Description		: Some floating platforms in the sky, for play with Rocketlauncher only.
+
+Player			: 4-6
+Gametypes		: CTF, Team*, FFA*
+Modifications:		: Proball
+Botsupport		: Yes, but bots can't handle this type of map
+
+New Configs		: 13stone.cfg (sets specific map settings)
+			: 13stonex.cfg (resets default osp settings)
+New Textures		: Yes
+New Shaders		: Yes
+New Sounds		: Yes
+New Models		: Face_red (by sst13)
+			  Face_blue (by sst13)
+			  Palm (by sst13)
+
+Editor(s) used		: Q3Radiant v2.02, Q3Map Explorer, q3map2 v2.5.14, Milkshape 3D v1.7.1, NPhernos MD3 Compiler
+Compile Machine		: TB/1000 with 256 MBram
+Compile Time		: 1 min
+
+Bugs			: There's a problem with "I can win" Bots. Don't use them.
+
+Credits			: id Software, PQ Editig Forum, all Quake Zockers...

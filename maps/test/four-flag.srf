@@ -1,0 +1,92 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+1 // ESurfaceType::Meta V: 11 I: 27 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+2 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+3 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+4 // ESurfaceType::Meta V: 11 I: 27 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+5 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+6 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+7 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+8 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+9 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+10 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+11 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+12 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
+13 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies/mpterrax
+	sampleSize 0
+}
+
