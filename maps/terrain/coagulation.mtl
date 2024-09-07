@@ -1,0 +1,33 @@
+newmtl base_wall2/techfloor_kc
+map_Kd textures/base_wall2/techfloor_kc
+
+newmtl common/WTF
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/clip
+map_Kd 
+
+newmtl common/nodraw
+map_Kd 
+
+newmtl gothic_trim/pitted_rust3
+map_Kd textures/gothic_trim/pitted_rust3
+
+newmtl liquids/calm_poollight2
+map_Kd textures/liquids/calm_poollight2
+
+newmtl organics/dirt2
+map_Kd textures/organics/dirt2
+
+newmtl terrain/mpterra4_0
+map_Kd textures/terrain/mpterra4_0
+
+newmtl terrain/mpterra4_0to1
+map_Kd textures/terrain/mpterra4_0to1
+
+newmtl terrain/mpterra4_1to2
+map_Kd textures/terrain/mpterra4_1to2
+

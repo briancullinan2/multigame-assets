@@ -1,0 +1,138 @@
+newmtl atcs/cubelight_32_blue_s_10k
+map_Kd textures/atcs/cubelight_32_blue_s_10k
+
+newmtl atcs/cubelight_32_blue_s_15k
+map_Kd textures/atcs/cubelight_32_blue_s_15k
+
+newmtl atcs/cubelight_32_blue_s_20k
+map_Kd textures/atcs/cubelight_32_blue_s_20k
+
+newmtl atcs/eq2_baselt03_blue_s_3000
+map_Kd textures/atcs/eq2_baselt03_blue_s_3000
+
+newmtl atcs/eq2_baselt03_blue_s_5000
+map_Kd textures/atcs/eq2_baselt03_blue_s_5000
+
+newmtl atcs/eq2_bigmet_01
+map_Kd textures/atcs/eq2_bigmet_01
+
+newmtl atcs/eq2_bmtl
+map_Kd textures/atcs/eq2_bmtl
+
+newmtl atcs/eq2_bmtl_01
+map_Kd textures/atcs/eq2_bmtl_01
+
+newmtl atcs/eq2_bmtl_02
+map_Kd textures/atcs/eq2_bmtl_02
+
+newmtl atcs/eq2_bmtl_02_384
+map_Kd textures/atcs/eq2_bmtl_02_384
+
+newmtl atcs/eq2_bmtl_02_384b
+map_Kd textures/atcs/eq2_bmtl_02_384b
+
+newmtl atcs/eq2_bmtl_02up
+map_Kd textures/atcs/eq2_bmtl_02up
+
+newmtl atcs/eq2_bmtl_03
+map_Kd textures/atcs/eq2_bmtl_03
+
+newmtl atcs/eq2_bmtl_03_blue
+map_Kd textures/atcs/eq2_bmtl_03_blue
+
+newmtl atcs/eq2_bmtl_04
+map_Kd textures/atcs/eq2_bmtl_04
+
+newmtl atcs/eq2_bmtl_05
+map_Kd textures/atcs/eq2_bmtl_05
+
+newmtl atcs/eq2_bounce
+map_Kd textures/atcs/eq2_bounce
+
+newmtl atcs/eq2_fbase
+map_Kd textures/atcs/eq2_fbase
+
+newmtl atcs/eq2_fgrate_01
+map_Kd textures/atcs/eq2_fgrate_01
+
+newmtl atcs/eq2_floor_04
+map_Kd textures/atcs/eq2_floor_04
+
+newmtl atcs/eq2_floor_05
+map_Kd textures/atcs/eq2_floor_05
+
+newmtl atcs/eq2_floor_06b
+map_Kd textures/atcs/eq2_floor_06b
+
+newmtl atcs/eq2_grate_01
+map_Kd textures/atcs/eq2_grate_01
+
+newmtl atcs/eq2_trimh_01
+map_Kd textures/atcs/eq2_trimh_01
+
+newmtl atcs/eq2_trimh_03c
+map_Kd textures/atcs/eq2_trimh_03c
+
+newmtl atcs/eq2_trimh_03cc
+map_Kd textures/atcs/eq2_trimh_03cc
+
+newmtl atcs/eq2_trimv_00
+map_Kd textures/atcs/eq2_trimv_00
+
+newmtl atcs/eq2_trimv_01b
+map_Kd textures/atcs/eq2_trimv_01b
+
+newmtl atcs/eq2_trimv_04
+map_Kd textures/atcs/eq2_trimv_04
+
+newmtl atcs/eq2_trimv_05
+map_Kd textures/atcs/eq2_trimv_05
+
+newmtl atcs/eq2_trimv_05b
+map_Kd textures/atcs/eq2_trimv_05b
+
+newmtl atcs/eq2_trimv_10b
+map_Kd textures/atcs/eq2_trimv_10b
+
+newmtl atcs/eq2_trimv_11
+map_Kd textures/atcs/eq2_trimv_11
+
+newmtl atcs/eq2_trimv_11d
+map_Kd textures/atcs/eq2_trimv_11d
+
+newmtl atcs/eq2_trimv_11d_blue
+map_Kd textures/atcs/eq2_trimv_11d_blue
+
+newmtl atcs/eq2_trimv_12b
+map_Kd textures/atcs/eq2_trimv_12b
+
+newmtl atcs/eq2_trimv_mini02
+map_Kd textures/atcs/eq2_trimv_mini02
+
+newmtl atcs/eq2_trimv_mini02b
+map_Kd textures/atcs/eq2_trimv_mini02b
+
+newmtl atcs/eq2lt_baselt03b_blue_s_1500
+map_Kd textures/atcs/eq2lt_baselt03b_blue_s_1500
+
+newmtl atcs/eq2lt_baselt03b_blue_s_2000
+map_Kd textures/atcs/eq2lt_baselt03b_blue_s_2000
+
+newmtl atcs/eq2lt_baselt03b_blue_s_3000
+map_Kd textures/atcs/eq2lt_baselt03b_blue_s_3000
+
+newmtl atcs/force_field_s
+map_Kd textures/atcs/force_field_s
+
+newmtl atcs/rust_2
+map_Kd textures/atcs/rust_2
+
+newmtl common/WTF
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/clip
+map_Kd 
+
