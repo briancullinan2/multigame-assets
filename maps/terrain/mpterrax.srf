@@ -6,1663 +6,3325 @@ default
 	longestCurve 0.000000
 }
 
-0 // ESurfaceType::Meta V: 20 I: 57 planar
+0 // ESurfaceType::Triangles V: 41 I: 57 
 {
-	shader textures/organics/dirt2
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+1 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+2 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+3 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+4 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+5 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+6 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+7 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+8 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+9 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+10 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+11 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+12 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+13 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+14 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+15 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+16 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+17 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+18 // ESurfaceType::Triangles V: 15 I: 126 
+{
+	shader models/mapobjects/spawn/spawn3
+	sampleSize 0
+}
+
+19 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+20 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+21 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+22 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+23 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+24 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+25 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+26 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+27 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+28 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+29 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+30 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+31 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+32 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+33 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+34 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+35 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+36 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+37 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+38 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+39 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+40 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+41 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+42 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+43 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+44 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+45 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+46 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+47 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+48 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+49 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+50 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+51 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+52 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+53 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+54 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+55 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+56 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+57 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+58 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+59 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+60 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+61 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+62 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+63 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+64 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+65 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+66 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+67 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+68 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+69 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+70 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+71 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+72 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+73 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+74 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+75 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+76 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+77 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+78 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+79 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+80 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+81 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+82 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+83 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+84 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+85 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+86 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+87 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+88 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+89 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+90 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+91 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+92 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+93 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+94 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+95 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+96 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+97 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+98 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+99 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+100 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+101 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+102 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+103 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+104 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+105 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+106 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+107 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+108 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+109 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+110 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+111 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+112 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+113 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+114 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+115 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+116 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+117 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+118 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+119 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+120 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+121 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+122 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+123 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+124 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+125 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+126 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+127 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+128 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+129 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+130 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+131 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+132 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+133 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+134 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+135 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+136 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+137 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+138 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+139 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+140 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+141 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+142 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+143 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+144 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+145 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+146 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+147 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+148 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+149 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+150 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+151 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+152 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+153 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+154 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+155 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+156 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+157 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+158 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+159 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+160 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+161 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+162 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+163 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+164 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+165 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+166 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+167 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+168 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+169 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+170 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+171 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+172 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+173 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+174 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+175 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+176 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+177 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+178 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+179 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+180 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+181 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+182 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+183 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+184 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+185 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+186 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+187 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+188 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+189 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+190 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+191 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+192 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+193 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+194 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+195 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+196 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+197 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+198 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+199 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+200 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+201 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+202 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+203 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+204 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+205 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+206 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+207 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+208 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+209 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+210 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+211 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+212 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+213 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+214 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+215 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+216 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+217 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+218 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+219 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+220 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+221 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+222 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+223 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+224 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+225 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+226 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+227 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+228 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+229 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+230 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+231 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+232 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+233 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+234 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+235 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+236 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+237 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+238 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+239 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+240 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+241 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+242 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+243 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+244 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+245 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+246 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+247 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+248 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+249 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+250 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+251 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+252 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+253 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+254 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+255 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+256 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+257 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+258 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+259 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+260 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+261 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+262 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+263 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+264 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+265 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+266 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+267 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+268 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+269 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+270 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+271 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+272 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+273 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+274 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+275 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+276 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+277 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+278 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+279 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+280 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+281 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+282 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+283 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+284 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+285 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+286 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+287 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+288 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+289 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+290 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+291 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+292 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+293 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+294 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+295 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+296 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+297 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+298 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+299 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+300 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+301 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+302 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+303 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+304 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+305 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+306 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+307 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+308 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+309 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+310 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+311 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+312 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+313 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+314 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+315 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+316 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+317 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+318 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+319 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+320 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+321 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+322 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+323 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+324 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+325 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+326 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+327 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+328 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+329 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+330 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+331 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+332 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+333 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+334 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+335 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+336 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+337 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+338 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+339 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+340 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+341 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+342 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+343 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+344 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+345 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+346 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+347 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+348 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+349 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+350 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+351 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+352 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+353 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+354 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+355 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+356 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+357 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+358 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+359 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+360 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+361 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+362 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+363 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+364 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+365 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+366 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+367 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+368 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+369 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+370 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+371 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+372 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+373 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+374 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+375 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+376 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+377 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+378 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+379 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+380 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+381 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+382 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+383 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+384 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+385 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+386 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+387 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+388 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+389 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+390 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+391 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+392 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+393 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+394 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+395 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+396 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+397 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+398 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+399 // ESurfaceType::Triangles V: 15 I: 27 
+{
+	shader models/mapobjects/tree2/trunk2
+	sampleSize 0
+}
+
+400 // ESurfaceType::Triangles V: 41 I: 57 
+{
+	shader models/mapobjects/tree2/branch2
+	sampleSize 0
+}
+
+401 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1 // ESurfaceType::Meta V: 5 I: 9 planar
+402 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/organics/dirt2
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-2 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/organics/dirt2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-3 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/organics/dirt2
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-4 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/organics/dirt2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-5 // ESurfaceType::Meta V: 10 I: 24 planar
-{
-	shader textures/organics/dirt2
+	shader textures/liquids/x_calm_pool_nolight
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-6 // ESurfaceType::Meta V: 5 I: 9 planar
+403 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/organics/dirt2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-7 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/organics/dirt2
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-8 // ESurfaceType::Meta V: 17 I: 48 planar
-{
-	shader textures/organics/dirt2
+	shader textures/liquids/x_calm_pool_nolight
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-9 // ESurfaceType::Meta V: 3 I: 3 planar
+404 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/organics/dirt2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-10 // ESurfaceType::Meta V: 3 I: 3 planar
+405 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/organics/dirt2
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+406 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+407 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+408 // ESurfaceType::Meta V: 8 I: 18 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+409 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+410 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+411 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+412 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+413 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+414 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+415 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+416 // ESurfaceType::Meta V: 7 I: 12 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+417 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+418 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+419 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+420 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+421 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+422 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids/x_calm_pool_nolight
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+423 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-11 // ESurfaceType::Meta V: 4 I: 6 planar
+424 // ESurfaceType::Meta V: 8 I: 18 planar
 {
-	shader textures/organics/dirt2
+	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-12 // ESurfaceType::Meta V: 11 I: 27 planar
+425 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/terrain/mpterra4_0to1
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+426 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterra4_0to1
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+427 // ESurfaceType::Meta V: 15 I: 39 planar
 {
 	shader textures/organics/dirt2
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-13 // ESurfaceType::Meta V: 5 I: 9 planar
+428 // ESurfaceType::Meta V: 9 I: 21 planar
 {
 	shader textures/organics/dirt2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-14 // ESurfaceType::Meta V: 5 I: 9 planar
+429 // ESurfaceType::Meta V: 12 I: 30 planar
+{
+	shader textures/organics/dirt2
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+430 // ESurfaceType::Meta V: 11 I: 27 planar
+{
+	shader textures/organics/dirt2
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+431 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+432 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+433 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+434 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+435 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+436 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+437 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+438 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+439 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+440 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+441 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+442 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+443 // ESurfaceType::Meta V: 16 I: 42 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+444 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+445 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+446 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+447 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+448 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+449 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+450 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+451 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+452 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+453 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+454 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+455 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+456 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+457 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+458 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+459 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+460 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+461 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+462 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+463 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+464 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+465 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+466 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+467 // ESurfaceType::Meta V: 15 I: 39 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+468 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+469 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+470 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+471 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+472 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+473 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+474 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+475 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+476 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+477 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+478 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+479 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+480 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+481 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+482 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+483 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/liquids2/calm_poollight2nt
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+484 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/proto2/concrete07_min
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-15 // ESurfaceType::Meta V: 6 I: 12 planar
+485 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/proto2/concrete07_smth
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-16 // ESurfaceType::Meta V: 195 I: 927 planar
-{
-	shader textures/liquids/x_calm_pool_nolight
-	sampleSize 0
-}
-
-17 // ESurfaceType::Meta V: 175 I: 822 planar
-{
-	shader textures/liquids/x_calm_pool_nolight
-	sampleSize 0
-}
-
-18 // ESurfaceType::Meta V: 16 I: 42 planar
-{
-	shader textures/liquids2/calm_poollight2nt
-	sampleSize 0
-}
-
-19 // ESurfaceType::Meta V: 78 I: 198 planar
-{
-	shader textures/liquids2/calm_poollight2nt
-	sampleSize 0
-}
-
-20 // ESurfaceType::Meta V: 15 I: 39 planar
-{
-	shader textures/liquids2/calm_poollight2nt
-	sampleSize 0
-}
-
-21 // ESurfaceType::Meta V: 12 I: 30 planar
-{
-	shader textures/liquids2/calm_poollight2nt
-	sampleSize 0
-}
-
-22 // ESurfaceType::Meta V: 7 I: 15 planar
-{
-	shader textures/terrain/mpterra4_0to1
-	sampleSize 0
-}
-
-23 // ESurfaceType::Meta V: 8 I: 18 planar
-{
-	shader textures/terrain/mpterra4_0to1
-	sampleSize 0
-}
-
-24 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/terrain/mpterra4_0to1
-	sampleSize 0
-}
-
-25 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterra4_0to1
-	sampleSize 0
-}
-
-26 // ESurfaceType::Meta V: 4 I: 6 planar
+486 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-27 // ESurfaceType::Meta V: 4 I: 6 planar
+487 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-28 // ESurfaceType::Meta V: 5 I: 9 planar
+488 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-29 // ESurfaceType::Meta V: 5 I: 9 planar
+489 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-30 // ESurfaceType::Meta V: 4 I: 6 planar
+490 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-31 // ESurfaceType::Meta V: 4 I: 6 planar
+491 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-32 // ESurfaceType::Meta V: 4 I: 6 planar
+492 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-33 // ESurfaceType::Meta V: 5 I: 9 planar
+493 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-34 // ESurfaceType::Meta V: 5 I: 9 planar
+494 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-35 // ESurfaceType::Meta V: 5 I: 9 planar
+495 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-36 // ESurfaceType::Meta V: 5 I: 9 planar
+496 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-37 // ESurfaceType::Meta V: 5 I: 9 planar
+497 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-38 // ESurfaceType::Meta V: 5 I: 9 planar
+498 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-39 // ESurfaceType::Meta V: 5 I: 9 planar
+499 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-40 // ESurfaceType::Meta V: 5 I: 9 planar
+500 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-41 // ESurfaceType::Meta V: 4 I: 6 planar
+501 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-42 // ESurfaceType::Meta V: 5 I: 9 planar
+502 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-43 // ESurfaceType::Meta V: 5 I: 9 planar
+503 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-44 // ESurfaceType::Meta V: 4 I: 6 planar
+504 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-45 // ESurfaceType::Meta V: 5 I: 9 planar
+505 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-46 // ESurfaceType::Meta V: 4 I: 6 planar
+506 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-47 // ESurfaceType::Meta V: 5 I: 9 planar
+507 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-48 // ESurfaceType::Meta V: 4 I: 6 planar
+508 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-49 // ESurfaceType::Meta V: 5 I: 9 planar
+509 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-50 // ESurfaceType::Meta V: 5 I: 9 planar
+510 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-51 // ESurfaceType::Meta V: 5 I: 9 planar
+511 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-52 // ESurfaceType::Meta V: 5 I: 9 planar
+512 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-53 // ESurfaceType::Meta V: 9 I: 21 planar
+513 // ESurfaceType::Meta V: 9 I: 21 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-54 // ESurfaceType::Meta V: 4 I: 6 planar
+514 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-55 // ESurfaceType::Meta V: 7 I: 15 planar
+515 // ESurfaceType::Meta V: 7 I: 15 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-56 // ESurfaceType::Meta V: 4 I: 6 planar
+516 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-57 // ESurfaceType::Meta V: 5 I: 9 planar
+517 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-58 // ESurfaceType::Meta V: 5 I: 9 planar
+518 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-59 // ESurfaceType::Meta V: 6 I: 12 planar
+519 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-60 // ESurfaceType::Meta V: 5 I: 9 planar
+520 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-61 // ESurfaceType::Meta V: 5 I: 9 planar
+521 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-62 // ESurfaceType::Meta V: 5 I: 9 planar
+522 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-63 // ESurfaceType::Meta V: 7 I: 15 planar
+523 // ESurfaceType::Meta V: 7 I: 15 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-64 // ESurfaceType::Meta V: 6 I: 12 planar
+524 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-65 // ESurfaceType::Meta V: 5 I: 9 planar
+525 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-66 // ESurfaceType::Meta V: 5 I: 9 planar
+526 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-67 // ESurfaceType::Meta V: 5 I: 9 planar
+527 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-68 // ESurfaceType::Meta V: 4 I: 6 planar
+528 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-69 // ESurfaceType::Meta V: 4 I: 6 planar
+529 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/skies/terrain1
 	sampleSize 0
 }
 
-70 // ESurfaceType::Meta V: 38 I: 150 planar
+530 // ESurfaceType::Meta V: 988 I: 5571 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-71 // ESurfaceType::Meta V: 40 I: 159 planar
+531 // ESurfaceType::Meta V: 66 I: 192 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-72 // ESurfaceType::Meta V: 12 I: 30 planar
+532 // ESurfaceType::Meta V: 102 I: 300 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-73 // ESurfaceType::Meta V: 16 I: 42 planar
+533 // ESurfaceType::Meta V: 999 I: 5616 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-74 // ESurfaceType::Meta V: 48 I: 210 planar
+534 // ESurfaceType::Meta V: 999 I: 5616 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-75 // ESurfaceType::Meta V: 50 I: 216 planar
+535 // ESurfaceType::Meta V: 747 I: 3984 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-76 // ESurfaceType::Meta V: 39 I: 156 planar
+536 // ESurfaceType::Meta V: 879 I: 4752 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-77 // ESurfaceType::Meta V: 16 I: 42 planar
+537 // ESurfaceType::Meta V: 102 I: 300 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-78 // ESurfaceType::Meta V: 30 I: 111 planar
+538 // ESurfaceType::Meta V: 999 I: 5628 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-79 // ESurfaceType::Meta V: 21 I: 60 
+539 // ESurfaceType::Meta V: 26 I: 72 planar
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-80 // ESurfaceType::Meta V: 39 I: 138 
+540 // ESurfaceType::Meta V: 25 I: 81 planar
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-81 // ESurfaceType::Meta V: 5 I: 12 
+541 // ESurfaceType::Meta V: 999 I: 5511 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-82 // ESurfaceType::Meta V: 7 I: 15 
+542 // ESurfaceType::Meta V: 999 I: 5565 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-83 // ESurfaceType::Meta V: 11 I: 30 
+543 // ESurfaceType::Meta V: 999 I: 5142 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-84 // ESurfaceType::Meta V: 14 I: 42 
+544 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-85 // ESurfaceType::Meta V: 19 I: 60 
+545 // ESurfaceType::Meta V: 999 I: 5511 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-86 // ESurfaceType::Meta V: 21 I: 66 
+546 // ESurfaceType::Meta V: 999 I: 5142 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-87 // ESurfaceType::Meta V: 23 I: 84 
+547 // ESurfaceType::Meta V: 999 I: 5523 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-88 // ESurfaceType::Meta V: 13 I: 36 
+548 // ESurfaceType::Meta V: 999 I: 5118 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-89 // ESurfaceType::Meta V: 8 I: 21 
+549 // ESurfaceType::Meta V: 933 I: 5028 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-90 // ESurfaceType::Meta V: 8 I: 21 
+550 // ESurfaceType::Meta V: 24 I: 66 planar
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-91 // ESurfaceType::Meta V: 9 I: 24 
+551 // ESurfaceType::Meta V: 338 I: 1605 
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-92 // ESurfaceType::Meta V: 10 I: 30 
+552 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterrax_1to2
+	shader textures/common/terrain
 	sampleSize 0
 }
 
-93 // ESurfaceType::Meta V: 9 I: 24 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-94 // ESurfaceType::Meta V: 9 I: 24 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-95 // ESurfaceType::Meta V: 15 I: 48 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-96 // ESurfaceType::Meta V: 10 I: 30 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-97 // ESurfaceType::Meta V: 35 I: 120 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-98 // ESurfaceType::Meta V: 9 I: 24 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-99 // ESurfaceType::Meta V: 11 I: 27 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-100 // ESurfaceType::Meta V: 42 I: 144 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-101 // ESurfaceType::Meta V: 265 I: 807 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-102 // ESurfaceType::Meta V: 7 I: 15 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-103 // ESurfaceType::Meta V: 56 I: 177 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-104 // ESurfaceType::Meta V: 62 I: 195 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-105 // ESurfaceType::Meta V: 77 I: 207 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-106 // ESurfaceType::Meta V: 19 I: 48 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-107 // ESurfaceType::Meta V: 10 I: 24 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-108 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-109 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-110 // ESurfaceType::Meta V: 9 I: 21 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-111 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-112 // ESurfaceType::Meta V: 200 I: 597 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-113 // ESurfaceType::Meta V: 61 I: 177 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-114 // ESurfaceType::Meta V: 19 I: 48 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-115 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-116 // ESurfaceType::Meta V: 16 I: 45 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-117 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-118 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-119 // ESurfaceType::Meta V: 8 I: 15 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-120 // ESurfaceType::Meta V: 12 I: 30 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-121 // ESurfaceType::Meta V: 16 I: 42 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-122 // ESurfaceType::Meta V: 45 I: 123 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-123 // ESurfaceType::Meta V: 10 I: 24 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-124 // ESurfaceType::Meta V: 15 I: 39 
-{
-	shader textures/terrain/mpterrax_1to2
-	sampleSize 0
-}
-
-125 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-126 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-127 // ESurfaceType::Meta V: 6 I: 12 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-128 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-129 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-130 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-131 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-132 // ESurfaceType::Meta V: 10 I: 24 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-133 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-134 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-135 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-136 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-137 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-138 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-139 // ESurfaceType::Meta V: 7 I: 15 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-140 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-141 // ESurfaceType::Meta V: 8 I: 15 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-142 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-143 // ESurfaceType::Meta V: 10 I: 24 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-144 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-145 // ESurfaceType::Meta V: 7 I: 12 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-146 // ESurfaceType::Meta V: 15 I: 39 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-147 // ESurfaceType::Meta V: 7 I: 15 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-148 // ESurfaceType::Meta V: 22 I: 54 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-149 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-150 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-151 // ESurfaceType::Meta V: 12 I: 27 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-152 // ESurfaceType::Meta V: 8 I: 18 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-153 // ESurfaceType::Meta V: 9 I: 21 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-154 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-155 // ESurfaceType::Meta V: 12 I: 30 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-156 // ESurfaceType::Meta V: 7 I: 15 planar
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-157 // ESurfaceType::Meta V: 9 I: 21 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-158 // ESurfaceType::Meta V: 8 I: 18 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-159 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-160 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-161 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-162 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_0to2
-	sampleSize 0
-}
-
-163 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-164 // ESurfaceType::Meta V: 641 I: 1956 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-165 // ESurfaceType::Meta V: 53 I: 150 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-166 // ESurfaceType::Meta V: 999 I: 3030 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-167 // ESurfaceType::Meta V: 8 I: 18 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-168 // ESurfaceType::Meta V: 23 I: 60 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-169 // ESurfaceType::Meta V: 971 I: 2931 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-170 // ESurfaceType::Meta V: 8 I: 18 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-171 // ESurfaceType::Meta V: 52 I: 156 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-172 // ESurfaceType::Meta V: 46 I: 129 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-173 // ESurfaceType::Meta V: 8 I: 15 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-174 // ESurfaceType::Meta V: 20 I: 60 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-175 // ESurfaceType::Meta V: 22 I: 66 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-176 // ESurfaceType::Meta V: 117 I: 312 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-177 // ESurfaceType::Meta V: 17 I: 45 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-178 // ESurfaceType::Meta V: 6 I: 9 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-179 // ESurfaceType::Meta V: 50 I: 138 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-180 // ESurfaceType::Meta V: 13 I: 33 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-181 // ESurfaceType::Meta V: 11 I: 36 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-182 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-183 // ESurfaceType::Meta V: 7 I: 15 
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-184 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/terrain/mpterrax_0to1
-	sampleSize 0
-}
-
-185 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-186 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-187 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-188 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-189 // ESurfaceType::Meta V: 40 I: 171 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-190 // ESurfaceType::Meta V: 10 I: 24 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-191 // ESurfaceType::Meta V: 13 I: 33 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-192 // ESurfaceType::Meta V: 13 I: 33 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-193 // ESurfaceType::Meta V: 14 I: 36 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-194 // ESurfaceType::Meta V: 26 I: 99 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-195 // ESurfaceType::Meta V: 42 I: 135 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-196 // ESurfaceType::Meta V: 114 I: 543 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-197 // ESurfaceType::Meta V: 8 I: 18 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-198 // ESurfaceType::Meta V: 26 I: 72 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-199 // ESurfaceType::Meta V: 38 I: 129 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-200 // ESurfaceType::Meta V: 8 I: 18 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-201 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-202 // ESurfaceType::Meta V: 16 I: 39 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-203 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-204 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-205 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-206 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-207 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-208 // ESurfaceType::Meta V: 126 I: 603 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-209 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-210 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-211 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-212 // ESurfaceType::Meta V: 8 I: 15 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-213 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-214 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-215 // ESurfaceType::Meta V: 15 I: 42 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-216 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-217 // ESurfaceType::Meta V: 11 I: 27 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-218 // ESurfaceType::Meta V: 13 I: 36 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-219 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-220 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-221 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-222 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_2
-	sampleSize 0
-}
-
-223 // ESurfaceType::Meta V: 385 I: 1431 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-224 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-225 // ESurfaceType::Meta V: 236 I: 963 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-226 // ESurfaceType::Meta V: 194 I: 774 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-227 // ESurfaceType::Meta V: 27 I: 93 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-228 // ESurfaceType::Meta V: 28 I: 111 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-229 // ESurfaceType::Meta V: 80 I: 309 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-230 // ESurfaceType::Meta V: 89 I: 381 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-231 // ESurfaceType::Meta V: 54 I: 183 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-232 // ESurfaceType::Meta V: 38 I: 129 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-233 // ESurfaceType::Meta V: 29 I: 114 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-234 // ESurfaceType::Meta V: 35 I: 144 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-235 // ESurfaceType::Meta V: 38 I: 150 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-236 // ESurfaceType::Meta V: 999 I: 4275 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-237 // ESurfaceType::Meta V: 101 I: 387 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-238 // ESurfaceType::Meta V: 22 I: 75 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-239 // ESurfaceType::Meta V: 49 I: 159 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-240 // ESurfaceType::Meta V: 61 I: 279 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-241 // ESurfaceType::Meta V: 9 I: 24 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-242 // ESurfaceType::Meta V: 800 I: 3525 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-243 // ESurfaceType::Meta V: 25 I: 93 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-244 // ESurfaceType::Meta V: 8 I: 18 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-245 // ESurfaceType::Meta V: 5 I: 6 planar
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-246 // ESurfaceType::Meta V: 7 I: 9 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-247 // ESurfaceType::Meta V: 11 I: 27 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-248 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-249 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-250 // ESurfaceType::Meta V: 7 I: 15 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-251 // ESurfaceType::Meta V: 12 I: 24 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-252 // ESurfaceType::Meta V: 6 I: 12 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-253 // ESurfaceType::Meta V: 4 I: 6 
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-254 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-255 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-256 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-257 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_1
-	sampleSize 0
-}
-
-258 // ESurfaceType::Meta V: 999 I: 4626 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-259 // ESurfaceType::Meta V: 999 I: 4755 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-260 // ESurfaceType::Meta V: 9 I: 21 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-261 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-262 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-263 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-264 // ESurfaceType::Meta V: 17 I: 48 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-265 // ESurfaceType::Meta V: 13 I: 39 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-266 // ESurfaceType::Meta V: 17 I: 42 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-267 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-268 // ESurfaceType::Meta V: 20 I: 66 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-269 // ESurfaceType::Meta V: 999 I: 4410 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-270 // ESurfaceType::Meta V: 265 I: 1158 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-271 // ESurfaceType::Meta V: 59 I: 222 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-272 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-273 // ESurfaceType::Meta V: 52 I: 189 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-274 // ESurfaceType::Meta V: 7 I: 15 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-275 // ESurfaceType::Meta V: 5 I: 9 
-{
-	shader textures/terrain/mpterrax_0
-	sampleSize 0
-}
-
-276 // ESurfaceType::Meta V: 4 I: 6 planar
+553 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/tin_floor06
 	entity 1
@@ -1670,7 +3332,7 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-277 // ESurfaceType::Meta V: 4 I: 6 planar
+554 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/proto2/tin_floor06
 	entity 2

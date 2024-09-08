@@ -5,12 +5,7 @@
 "music" "music\fla_mp05.wav"
 "classname" "worldspawn"
 "message" "Overdose"
-"vertexremapshader0" "textures/terrain/mpterra4_0;textures/terrain/vxmpterra4"
-"vertexremapshader1" "textures/terrain/mpterra4_1;textures/terrain/vxmpterra4"
-"vertexremapshader2" "textures/terrain/mpterra4_2;textures/terrain/vxmpterra4"
-"vertexremapshader3" "textures/terrain/mpterra4_0to1;textures/terrain/vxmpterra4"
-"vertexremapshader4" "textures/terrain/mpterra4_0to2;textures/terrain/vxmpterra4"
-"vertexremapshader5" "textures/terrain/mpterra4_1to2;textures/terrain/vxmpterra4"
+"_shader" "terrain/mpterrax"
 // brush 0
 {
 ( 6400 4352 1848 ) ( 6400 4352 -256 ) ( 6144 4608 -256 ) common/caulk 0 0 0 0.25 0.25 0 0 0
