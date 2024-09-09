@@ -571,13 +571,13 @@ default
 91 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/block_slime_border
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 92 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/block_slime_border
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 93 // ESurfaceType::Meta V: 12 I: 36 planar
@@ -610,16 +610,16 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-98 // ESurfaceType::Meta V: 7 I: 15 planar
-{
-	shader textures/13yard_xt/block_slime2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-99 // ESurfaceType::Meta V: 4 I: 6 planar
+98 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/block_slime2
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+99 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/13yard_xt/block_slime2
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 100 // ESurfaceType::Meta V: 8 I: 12 planar
@@ -643,13 +643,13 @@ default
 103 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/block_slime2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 104 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/block_slime2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 105 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -937,13 +937,13 @@ default
 152 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/block_slime2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 153 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/block_slime2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 154 // ESurfaceType::Meta V: 5 I: 9 planar
@@ -1369,13 +1369,13 @@ default
 224 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark_bolts_border3
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 225 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark_bolts_border3
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 226 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -2119,13 +2119,13 @@ default
 349 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 350 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 351 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -2218,16 +2218,16 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-366 // ESurfaceType::Meta V: 12 I: 18 planar
-{
-	shader textures/13yard_xt/bars
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-367 // ESurfaceType::Meta V: 4 I: 6 planar
+366 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+367 // ESurfaceType::Meta V: 12 I: 18 planar
+{
+	shader textures/13yard_xt/bars
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 368 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -2281,13 +2281,13 @@ default
 376 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 377 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 378 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -2317,13 +2317,13 @@ default
 382 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 383 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 384 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -2380,16 +2380,16 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-393 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/13yard_xt/bars
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-394 // ESurfaceType::Meta V: 12 I: 18 planar
+393 // ESurfaceType::Meta V: 12 I: 18 planar
 {
 	shader textures/13yard_xt/bars
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+394 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/13yard_xt/bars
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 395 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -2479,13 +2479,13 @@ default
 409 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 410 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 411 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -2539,13 +2539,13 @@ default
 419 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 420 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 421 // ESurfaceType::Meta V: 46 I: 102 planar
@@ -3007,13 +3007,13 @@ default
 497 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 498 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 499 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3043,13 +3043,13 @@ default
 503 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 504 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 505 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3061,13 +3061,13 @@ default
 506 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 507 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 508 // ESurfaceType::Meta V: 8 I: 18 planar
@@ -3133,13 +3133,13 @@ default
 518 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 519 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 520 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3169,13 +3169,13 @@ default
 524 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 525 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 526 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3235,13 +3235,13 @@ default
 535 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 536 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_dark
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 537 // ESurfaceType::Meta V: 32 I: 48 planar
@@ -3523,13 +3523,13 @@ default
 583 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_trans
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 584 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/metal_trans
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 585 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -3594,11 +3594,41 @@ default
 
 595 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/skies/portalfog
+	shader textures/skies2/nebula2
 	sampleSize 0
 }
 
 596 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+597 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+598 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+599 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+600 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+601 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/switch
 	entity 8
@@ -3606,63 +3636,63 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-597 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/13yard_xt/bars
-	entity 8
-	castShadows 0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-598 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/13yard_xt/bars
-	entity 8
-	castShadows 0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-599 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/13yard_xt/bars
-	entity 8
-	castShadows 0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-600 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/13yard_xt/bars
-	entity 8
-	castShadows 0
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-601 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/13yard_xt/bars
-	entity 9
-	castShadows 0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
 602 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
-	entity 9
+	entity 8
 	castShadows 0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 603 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
+	entity 8
+	castShadows 0
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+604 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/13yard_xt/bars
+	entity 8
+	castShadows 0
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+605 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/13yard_xt/bars
+	entity 8
+	castShadows 0
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+606 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/13yard_xt/bars
+	entity 9
+	castShadows 0
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+607 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/13yard_xt/bars
+	entity 9
+	castShadows 0
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+608 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/13yard_xt/bars
 	entity 9
 	castShadows 0
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-604 // ESurfaceType::Meta V: 4 I: 6 planar
+609 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/13yard_xt/bars
 	entity 9
@@ -3670,7 +3700,7 @@ default
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-605 // ESurfaceType::Meta V: 4 I: 6 planar
+610 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/gothic_trim/tongue_bone
 	entity 9
