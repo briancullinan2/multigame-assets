@@ -1,0 +1,8 @@
+{
+map			"qbee"
+bots		"klesk"
+longname	"qbee"
+fraglimit	20
+type		"ffa tourney"
+}
+
