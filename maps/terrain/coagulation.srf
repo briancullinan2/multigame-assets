@@ -636,13 +636,13 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-105 // ESurfaceType::Meta V: 9 I: 9 planar
+105 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-106 // ESurfaceType::Meta V: 3 I: 3 planar
+106 // ESurfaceType::Meta V: 9 I: 9 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -843,13 +843,13 @@ default
 139 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 140 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 141 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -1020,13 +1020,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-169 // ESurfaceType::Meta V: 4 I: 6 planar
+169 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-170 // ESurfaceType::Meta V: 3 I: 3 planar
+170 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
@@ -1485,13 +1485,13 @@ default
 246 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 247 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 248 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -1524,13 +1524,13 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-253 // ESurfaceType::Meta V: 4 I: 6 planar
+253 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-254 // ESurfaceType::Meta V: 3 I: 3 planar
+254 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -2367,13 +2367,13 @@ default
 393 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 394 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 395 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -2661,13 +2661,13 @@ default
 442 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 443 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 444 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -2883,13 +2883,13 @@ default
 479 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 480 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 481 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -2922,13 +2922,13 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-486 // ESurfaceType::Meta V: 3 I: 3 planar
+486 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-487 // ESurfaceType::Meta V: 4 I: 6 planar
+487 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -3426,13 +3426,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-570 // ESurfaceType::Meta V: 3 I: 3 planar
+570 // ESurfaceType::Meta V: 5 I: 6 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-571 // ESurfaceType::Meta V: 5 I: 6 planar
+571 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -3567,13 +3567,13 @@ default
 593 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 594 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_1to2
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 595 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -4245,13 +4245,13 @@ default
 706 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 707 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 708 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -4344,16 +4344,16 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-723 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-724 // ESurfaceType::Meta V: 3 I: 3 planar
+723 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+724 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterra4_0to1
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 725 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -4362,13 +4362,13 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-726 // ESurfaceType::Meta V: 4 I: 6 planar
+726 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-727 // ESurfaceType::Meta V: 3 I: 3 planar
+727 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -4443,13 +4443,13 @@ default
 739 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 740 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 741 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -4485,25 +4485,25 @@ default
 746 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 747 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 748 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 749 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 750 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -4605,13 +4605,13 @@ default
 766 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 767 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 768 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -4797,13 +4797,13 @@ default
 798 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 799 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 800 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -5160,13 +5160,13 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-859 // ESurfaceType::Meta V: 3 I: 3 planar
+859 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-860 // ESurfaceType::Meta V: 4 I: 6 planar
+860 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -5265,13 +5265,13 @@ default
 876 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 877 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 878 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -5325,13 +5325,13 @@ default
 886 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 887 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 888 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -5367,13 +5367,13 @@ default
 893 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 894 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 895 // ESurfaceType::Meta V: 5 I: 9 planar
@@ -5595,13 +5595,13 @@ default
 931 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 932 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 933 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -5649,13 +5649,13 @@ default
 940 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 941 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 942 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -5733,13 +5733,13 @@ default
 954 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 955 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 956 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -5817,13 +5817,13 @@ default
 968 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 969 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 970 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -5961,13 +5961,13 @@ default
 992 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 993 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 994 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -6201,13 +6201,13 @@ default
 1032 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1033 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1034 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -6330,13 +6330,13 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1054 // ESurfaceType::Meta V: 3 I: 3 planar
+1054 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1055 // ESurfaceType::Meta V: 4 I: 6 planar
+1055 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -6348,13 +6348,13 @@ default
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1057 // ESurfaceType::Meta V: 5 I: 6 planar
+1057 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1058 // ESurfaceType::Meta V: 3 I: 3 planar
+1058 // ESurfaceType::Meta V: 5 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -6366,16 +6366,16 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1060 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1061 // ESurfaceType::Meta V: 4 I: 6 planar
+1060 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1061 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterra4_0to1
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1062 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -6408,13 +6408,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1067 // ESurfaceType::Meta V: 4 I: 6 planar
+1067 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1068 // ESurfaceType::Meta V: 3 I: 3 planar
+1068 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -6534,13 +6534,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1088 // ESurfaceType::Meta V: 4 I: 6 planar
+1088 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1089 // ESurfaceType::Meta V: 3 I: 3 planar
+1089 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -6666,13 +6666,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1110 // ESurfaceType::Meta V: 4 I: 6 planar
+1110 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1111 // ESurfaceType::Meta V: 3 I: 3 planar
+1111 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -6750,13 +6750,13 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1124 // ESurfaceType::Meta V: 4 I: 6 planar
+1124 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1125 // ESurfaceType::Meta V: 3 I: 3 planar
+1125 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -6999,13 +6999,13 @@ default
 1165 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1166 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1167 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -7245,13 +7245,13 @@ default
 1206 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1207 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1208 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -7380,13 +7380,13 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1229 // ESurfaceType::Meta V: 3 I: 3 planar
+1229 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1230 // ESurfaceType::Meta V: 4 I: 6 planar
+1230 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -7431,13 +7431,13 @@ default
 1237 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1238 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1239 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -7851,13 +7851,13 @@ default
 1307 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1308 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1309 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -8091,13 +8091,13 @@ default
 1347 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1348 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1349 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -8106,13 +8106,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1350 // ESurfaceType::Meta V: 4 I: 6 planar
+1350 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1351 // ESurfaceType::Meta V: 3 I: 3 planar
+1351 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -8403,13 +8403,13 @@ default
 1399 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1400 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1401 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -8487,13 +8487,13 @@ default
 1413 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1414 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1415 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -8535,13 +8535,13 @@ default
 1421 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1422 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1423 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -8604,13 +8604,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1433 // ESurfaceType::Meta V: 3 I: 3 planar
+1433 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1434 // ESurfaceType::Meta V: 4 I: 6 planar
+1434 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -8646,16 +8646,16 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1440 // ESurfaceType::Meta V: 3 I: 3 planar
-{
-	shader textures/terrain/mpterra4_0to1
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1441 // ESurfaceType::Meta V: 4 I: 6 planar
+1440 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0to1
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1441 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterra4_0to1
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1442 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -9204,13 +9204,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1533 // ESurfaceType::Meta V: 5 I: 6 planar
+1533 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1534 // ESurfaceType::Meta V: 3 I: 3 planar
+1534 // ESurfaceType::Meta V: 5 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -9438,13 +9438,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1572 // ESurfaceType::Meta V: 3 I: 3 planar
+1572 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1573 // ESurfaceType::Meta V: 4 I: 6 planar
+1573 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -10032,13 +10032,13 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1671 // ESurfaceType::Meta V: 4 I: 6 planar
+1671 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1672 // ESurfaceType::Meta V: 3 I: 3 planar
+1672 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -10359,13 +10359,13 @@ default
 1725 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1726 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1727 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -10407,13 +10407,13 @@ default
 1733 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1734 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1735 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -10716,13 +10716,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1785 // ESurfaceType::Meta V: 3 I: 3 planar
+1785 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1786 // ESurfaceType::Meta V: 4 I: 6 planar
+1786 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -10740,25 +10740,25 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1789 // ESurfaceType::Meta V: 3 I: 3 planar
+1789 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1790 // ESurfaceType::Meta V: 6 I: 12 planar
+1790 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1791 // ESurfaceType::Meta V: 3 I: 3 planar
+1791 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1792 // ESurfaceType::Meta V: 4 I: 6 planar
+1792 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -10788,13 +10788,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1797 // ESurfaceType::Meta V: 3 I: 3 planar
+1797 // ESurfaceType::Meta V: 12 I: 30 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1798 // ESurfaceType::Meta V: 12 I: 30 planar
+1798 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -10803,13 +10803,13 @@ default
 1799 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1800 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1801 // ESurfaceType::Meta V: 5 I: 9 planar
@@ -10821,13 +10821,13 @@ default
 1802 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1803 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1804 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -10872,13 +10872,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1811 // ESurfaceType::Meta V: 4 I: 6 planar
+1811 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1812 // ESurfaceType::Meta V: 3 I: 3 planar
+1812 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -11028,13 +11028,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1837 // ESurfaceType::Meta V: 4 I: 6 planar
+1837 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1838 // ESurfaceType::Meta V: 3 I: 3 planar
+1838 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -11118,13 +11118,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1852 // ESurfaceType::Meta V: 5 I: 9 planar
+1852 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1853 // ESurfaceType::Meta V: 3 I: 3 planar
+1853 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -11163,13 +11163,13 @@ default
 1859 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1860 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1861 // ESurfaceType::Meta V: 7 I: 15 planar
@@ -11262,13 +11262,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1876 // ESurfaceType::Meta V: 3 I: 3 planar
+1876 // ESurfaceType::Meta V: 7 I: 12 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1877 // ESurfaceType::Meta V: 7 I: 12 planar
+1877 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -11394,13 +11394,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1898 // ESurfaceType::Meta V: 3 I: 3 planar
+1898 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1899 // ESurfaceType::Meta V: 4 I: 6 planar
+1899 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -11493,13 +11493,13 @@ default
 1914 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1915 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1916 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -11514,13 +11514,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1918 // ESurfaceType::Meta V: 3 I: 3 planar
+1918 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1919 // ESurfaceType::Meta V: 4 I: 6 planar
+1919 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -11622,13 +11622,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1936 // ESurfaceType::Meta V: 3 I: 3 planar
+1936 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1937 // ESurfaceType::Meta V: 4 I: 6 planar
+1937 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -11655,13 +11655,13 @@ default
 1941 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1942 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1943 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -11754,13 +11754,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1958 // ESurfaceType::Meta V: 7 I: 12 planar
+1958 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1959 // ESurfaceType::Meta V: 3 I: 3 planar
+1959 // ESurfaceType::Meta V: 7 I: 12 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -11790,25 +11790,25 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1964 // ESurfaceType::Meta V: 15 I: 39 planar
+1964 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1965 // ESurfaceType::Meta V: 3 I: 3 planar
+1965 // ESurfaceType::Meta V: 15 I: 39 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1966 // ESurfaceType::Meta V: 3 I: 3 planar
+1966 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1967 // ESurfaceType::Meta V: 4 I: 6 planar
+1967 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -12321,13 +12321,13 @@ default
 2052 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2053 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2054 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -12510,13 +12510,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2084 // ESurfaceType::Meta V: 3 I: 3 planar
+2084 // ESurfaceType::Meta V: 12 I: 30 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2085 // ESurfaceType::Meta V: 12 I: 30 planar
+2085 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -12876,13 +12876,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2145 // ESurfaceType::Meta V: 3 I: 3 planar
+2145 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2146 // ESurfaceType::Meta V: 4 I: 6 planar
+2146 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -13089,13 +13089,13 @@ default
 2180 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2181 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2182 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -13365,13 +13365,13 @@ default
 2226 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2227 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2228 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -13980,13 +13980,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2329 // ESurfaceType::Meta V: 3 I: 3 planar
+2329 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2330 // ESurfaceType::Meta V: 4 I: 6 planar
+2330 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -14028,13 +14028,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2337 // ESurfaceType::Meta V: 3 I: 3 planar
+2337 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2338 // ESurfaceType::Meta V: 4 I: 6 planar
+2338 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -14076,13 +14076,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2345 // ESurfaceType::Meta V: 7 I: 12 planar
+2345 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2346 // ESurfaceType::Meta V: 3 I: 3 planar
+2346 // ESurfaceType::Meta V: 7 I: 12 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -14262,13 +14262,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2376 // ESurfaceType::Meta V: 4 I: 6 planar
+2376 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2377 // ESurfaceType::Meta V: 3 I: 3 planar
+2377 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -14319,13 +14319,13 @@ default
 2385 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2386 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2387 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -14466,13 +14466,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2410 // ESurfaceType::Meta V: 3 I: 3 planar
+2410 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2411 // ESurfaceType::Meta V: 4 I: 6 planar
+2411 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -14820,13 +14820,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2469 // ESurfaceType::Meta V: 4 I: 6 planar
+2469 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2470 // ESurfaceType::Meta V: 3 I: 3 planar
+2470 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -14940,13 +14940,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2489 // ESurfaceType::Meta V: 4 I: 6 planar
+2489 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2490 // ESurfaceType::Meta V: 3 I: 3 planar
+2490 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -15435,13 +15435,13 @@ default
 2571 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2572 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2573 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -15615,13 +15615,13 @@ default
 2601 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2602 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2603 // ESurfaceType::Meta V: 3 I: 3 planar
@@ -16308,13 +16308,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2717 // ESurfaceType::Meta V: 3 I: 3 planar
+2717 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2718 // ESurfaceType::Meta V: 4 I: 6 planar
+2718 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -16326,13 +16326,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2720 // ESurfaceType::Meta V: 3 I: 3 planar
+2720 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2721 // ESurfaceType::Meta V: 4 I: 6 planar
+2721 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -16422,13 +16422,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2736 // ESurfaceType::Meta V: 5 I: 6 planar
+2736 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2737 // ESurfaceType::Meta V: 3 I: 3 planar
+2737 // ESurfaceType::Meta V: 5 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -16656,13 +16656,13 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2775 // ESurfaceType::Meta V: 3 I: 3 planar
+2775 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2776 // ESurfaceType::Meta V: 4 I: 6 planar
+2776 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/terrain/mpterra4_0
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
@@ -16716,13 +16716,13 @@ default
 	sampleSize 0
 }
 
-2785 // ESurfaceType::Meta V: 28 I: 78 planar
+2785 // ESurfaceType::Meta V: 26 I: 72 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
 }
 
-2786 // ESurfaceType::Meta V: 72 I: 309 planar
+2786 // ESurfaceType::Meta V: 73 I: 315 planar
 {
 	shader textures/liquids/calm_poollight2
 	sampleSize 0
@@ -16743,6 +16743,42 @@ default
 2789 // ESurfaceType::Meta V: 83 I: 333 planar
 {
 	shader textures/liquids/calm_poollight2
+	sampleSize 0
+}
+
+2790 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+2791 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+2792 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+2793 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+2794 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
+	sampleSize 0
+}
+
+2795 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/skies2/nebula2
 	sampleSize 0
 }
 
