@@ -1,0 +1,72 @@
+newmtl 13yard_xt/bars
+map_Kd textures/13yard_xt/bars
+
+newmtl 13yard_xt/block_trim
+map_Kd textures/13yard_xt/block_trim
+
+newmtl 13yard_xt/metal
+map_Kd textures/13yard_xt/metal
+
+newmtl 13yard_xt/metal_dark
+map_Kd textures/13yard_xt/metal_dark
+
+newmtl 13yard_xt/metal_dark_bolts_border
+map_Kd textures/13yard_xt/metal_dark_bolts_border
+
+newmtl 13yard_xt/metal_dark_border2
+map_Kd textures/13yard_xt/metal_dark_border2
+
+newmtl 13yard_xt/metal_dark_trans
+map_Kd textures/13yard_xt/metal_dark_trans
+
+newmtl 13yard_xt/metal_trans
+map_Kd textures/13yard_xt/metal_trans
+
+newmtl 13yard_xt/metal_tri
+map_Kd textures/13yard_xt/metal_tri
+
+newmtl 13yard_xt/nobs_trans
+map_Kd textures/13yard_xt/nobs_trans
+
+newmtl 13yard_xt/remap_bolt
+map_Kd textures/13yard_xt/remap_bolt
+
+newmtl 13yard_xt/remap_gauntlet
+map_Kd textures/13yard_xt/remap_gauntlet
+
+newmtl 13yard_xt/slipgate2
+map_Kd textures/13yard_xt/slipgate2
+
+newmtl base_light/ceil1_34_1k
+map_Kd textures/base_light/ceil1_34_1k
+
+newmtl common/WTF
+map_Kd 
+
+newmtl common/botclip
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/donotenter
+map_Kd 
+
+newmtl common/hint
+map_Kd 
+
+newmtl common/nodraw
+map_Kd 
+
+newmtl common/origin
+map_Kd 
+
+newmtl common/trigger
+map_Kd 
+
+newmtl common/weapclip
+map_Kd textures/common/weapclip
+
+newmtl gothic_trim/tongue_bone
+map_Kd textures/gothic_trim/tongue_bone
+
