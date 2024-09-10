@@ -1,0 +1,7 @@
+{
+map		"railroad"
+longname	"Tunnel O' Love"
+bots		"ranger phobos bones"
+timelimit	15
+type		"ffa tourney team"
+}

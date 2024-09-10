@@ -1,0 +1,107 @@
+================================================================
+Title:		Burial Grounds
+BSP name:	jaxdm4_v21.bsp
+Author:		David "Jax_Gator" Cherry
+Release date:	March 23, 2001
+Email address:	jaxgator1@mediaone.net
+Home page:	http://jax.qmass.net
+Game:		Quake 3 Arena DM
+File size:	5,160 KB
+
+Description:	A medium sized map (4-6 players).  Set in a graveyard with crypts and a
+		mausoleum all containing the names of my Quake brethren at the Burial
+		Grounds server:   http://www.burial-grounds.com
+
+		Unfortunately this map is very taxing on video cards and will require
+		Above minimum requirements for smooth gameplay.  Recommended requirements:
+		PII 400 MHz, 128 MB RAM, 16 MB video card
+
+		All grass is cushioned (tip from Lloyd M)
+		Quad damage is hidden (jump down in the lava pit and over to the QD room)
+		Mega-health is hidden (shoot 20 20's tomb)
+		Secret teleporter (go behind my tomb and step on button)
+		Fountains of youth (stand in fountains to gain health)
+
+Thanks to:	My Quake brutha Taz_FL.  Without his creative abilities this map would
+		not be what you see here.  Thanks Bud!
+		Lloyd M for textures and extensive help on the use of hint brushes.
+		Commander Keen for the gate texture.
+		Zeramid, Nazgul and Whatever for the Burial Grounds logo textures.
+		Bal for the rock/dirt texture
+		Mighty Pete for the cool ass skybox.
+		wripp for the fountain water sound.
+		CaPN JacKal for the "Fountain of Youth" idea
+		Ophelia, Rungy, AlphaWolf, Evil Lair and Todd Grantzler for new models.
+		Robert Duffy for Q3radiant.
+		id for the quake series.
+
+		BETA/PLAY TESTING:
+		Commander Keen
+		Old WARRIOR {BGC}
+		TMC | TAZ_FL
+		20 20
+		1ntr1ns1c
+		WiccanHP {BGC}
+		Fuze
+		QUAD_BAIT
+		Rroff
+		Rackat
+		Back_Lash
+		^^Ch@os^^
+		The Stranger
+		-Bio-
+		The Phr3ak {BGC}
+		Whatever
+		Peacekeeper
+		Lloyd M
+		Anwulf
+		ResidentSCUM
+
+Previous work : Un-released jaxdm1 (re-make of Q1 House of Chnton)
+		jaxdm2 - Re-Gib Colesium
+		jaxdm3 - House of Shannara
+                                                                            
+================================================================
+
+* MAP Information *
+
+New textures:	All epitaph textures were created by me.
+		Brick & all marble textures - Lloyd M
+		Gate texture - Commander Keen
+		Burial Grounds logo - Zeramid
+		Burial Grounds white skull logo - Nazgul
+		Burial Grounds blue skull logo - Whatever
+		Rock/dirt texture - Bal
+		Nottingham skybox - Mighty Pete
+New sounds:	Fountain water - wripp
+		Owls - unknown, found it on the NET
+		Crickets - unknown, found it on the NET
+		Bell - unknown, found it on the NET
+New models:	Angels - Ophelia
+		Q3 painted glass windows- Ophelia
+		Fountains - Rungy
+		Sword/flame statue - AlphaWolf
+		Plantpack - Todd Gantzler
+
+================================================================
+
+* Construction *
+
+Base:		From scratch
+Const. time:	3 months
+Compile machine: P3 500mhz, 192mb RAM
+Compile time:	BSP - 23 seconds
+		VIS - 1 hour 53 minutes 10 seconds
+		LIGHT - 1 hour 35 minutes 5 seconds (fullvis -light -extra -patchshadows)
+Editor used:	q3radiant v2.02
+Other programs:	Q3 Map Explorer v1.3
+Known Bugs:	None known.  Email me if you find any.
+
+================================================================
+
+* Distribution / Copyright / Permissions *
+
+Quake III Arena is a registered trademark of id Software, Inc.
+Any commercial use without permission is prohibited.
+You may NOT use this level as a base to build additional levels without explicit
+permission of the author!

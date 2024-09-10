@@ -1,0 +1,9 @@
+{
+longname 	"de_train for Quake 3"
+map		"oxodm10"
+author          "OXOTHuK"
+bots		"hunter major xaero"
+type		"ffa team tourney ca"
+fraglimit	20
+timelimit	20
+}

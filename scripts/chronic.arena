@@ -1,0 +1,8 @@
+
+{
+map "chronic"
+bots "ranger mynx visor crash"
+longname "CHRONIC"
+fraglimit 20
+type "ffa"
+}

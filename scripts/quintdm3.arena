@@ -1,0 +1,8 @@
+{
+map			"quintdm3"
+bots		"ranger visor crash"
+longname	"wisdommachine"
+fraglimit	20
+type		"ffa"
+}
+

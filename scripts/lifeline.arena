@@ -1,0 +1,7 @@
+{
+map             "lifeline"
+bots            "Bones Doom Grunt Hunter Klesk"
+longname        "Lifeline"
+fraglimit       "30"
+type            " ffa team tourney"
+}

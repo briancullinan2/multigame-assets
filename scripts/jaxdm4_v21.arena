@@ -1,0 +1,8 @@
+{
+map         "jaxdm4_v21"
+longname    "Burial Grounds v2.1"
+bots        "Sarge Hunter Klesk"
+fraglimit   20
+timelimit   15
+type        "ffa team tourney"
+}

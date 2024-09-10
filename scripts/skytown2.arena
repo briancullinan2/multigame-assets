@@ -1,0 +1,7 @@
+{
+map             "skytown2"
+bots            "Klesk Orbb Uriel"
+longname        "Sky Town - second edition - by Anton"
+fraglimit       "40"
+type            "ffa tourney"
+}
