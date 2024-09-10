@@ -1221,14 +1221,14 @@
 // entity 160
 {
 "classname" "misc_model2"
-"origin" "-2768 2432 232"
+"origin" "-3552 1152 232"
 "model2" "maps/platforms/13yard-blitz.bsp"
-"angle" "30"
+"angle" "45"
 }
 // entity 161
 {
 "classname" "misc_model2"
 "origin" "-3632 -96 472"
 "model2" "maps/platforms/13yard-small.bsp"
-"angle" "30"
+"angle" "45"
 }
