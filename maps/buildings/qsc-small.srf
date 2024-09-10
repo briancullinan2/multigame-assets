@@ -1,0 +1,62 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/common/clip
+	sampleSize 0
+	longestCurve 26.849245
+}
+
+1 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/common/clip
+	sampleSize 0
+	longestCurve 26.849245
+}
+
+2 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/common/clip
+	sampleSize 0
+	longestCurve 26.849245
+}
+
+3 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/common/clip
+	sampleSize 0
+	longestCurve 26.849245
+}
+
+4 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/kvart/betgt
+	longestCurve 26.849245
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+5 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/kvart/betgt
+	longestCurve 26.849245
+}
+
+6 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/kvart/betgt
+	longestCurve 26.849245
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+7 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/kvart/betgt
+	longestCurve 26.849245
+}
+

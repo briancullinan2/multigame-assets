@@ -1,0 +1,144 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+1 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+2 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+3 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+4 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+5 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+6 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+7 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+8 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+9 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+10 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+11 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin121
+	longestCurve 9.167513
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+12 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin4
+	longestCurve 9.167513
+}
+
+13 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin121
+	longestCurve 9.167513
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+14 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin7
+	longestCurve 9.167513
+}
+
+15 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin121
+	longestCurve 9.167513
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+16 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin8
+	longestCurve 9.167513
+}
+
+17 // ESurfaceType::Patch V: 9 I: 0 planar
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin121
+	longestCurve 9.167513
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+18 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/drinkcan01_skin9
+	longestCurve 9.167513
+}
+
+19 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+20 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+
+21 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/toxic_facility_misc/wire1_1_blue
+	longestCurve 14.972330
+}
+

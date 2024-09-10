@@ -1,0 +1,200 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 25.022343
+}
+
+1 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 27.902477
+}
+
+2 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 35.527756
+}
+
+3 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 40.649376
+}
+
+4 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 43.472206
+}
+
+5 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 44.323807
+}
+
+6 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 46.313698
+}
+
+7 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 46.618095
+}
+
+8 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 47.496330
+}
+
+9 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 50.294273
+}
+
+10 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 52.066139
+}
+
+11 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 55.476341
+}
+
+12 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 57.640083
+}
+
+13 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 25.022343
+}
+
+14 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 27.902477
+}
+
+15 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 35.527756
+}
+
+16 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 40.649376
+}
+
+17 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 43.472206
+}
+
+18 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 44.323807
+}
+
+19 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 46.313698
+}
+
+20 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 46.618095
+}
+
+21 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 47.496330
+}
+
+22 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 50.294273
+}
+
+23 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 51.941013
+}
+
+24 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 55.341484
+}
+
+25 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 237.140549
+}
+
+26 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 237.140549
+}
+
+27 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 237.140549
+}
+
+28 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 237.140549
+}
+
+29 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 237.140549
+}
+
+30 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 237.140549
+}
+
+31 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/ut_202/ropeladder_64x64
+	longestCurve 237.140549
+}
+

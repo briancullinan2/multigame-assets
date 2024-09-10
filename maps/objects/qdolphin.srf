@@ -1,0 +1,174 @@
+default
+{
+	castShadows 1
+	receiveShadows 1
+	sampleSize 16
+	longestCurve 0.000000
+}
+
+0 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/qdolphine/stripe4
+	longestCurve 238.143356
+}
+
+1 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/qdolphine/stripe4
+	longestCurve 238.143356
+}
+
+2 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/qdolphine/stripe4
+	longestCurve 996.545044
+}
+
+3 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/qdolphine/stripe4
+	longestCurve 630.496887
+}
+
+4 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/qdolphine/stripe4
+	longestCurve 1554.851440
+}
+
+5 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/qdolphine/stripe4
+	longestCurve 2875.550781
+}
+
+6 // ESurfaceType::Patch V: 27 I: 0 
+{
+	shader textures/qdolphine/stripe4
+	longestCurve 2875.550781
+}
+
+7 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphinesky/qdolphine_skybox
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+8 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphinesky/qdolphine_skybox
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+9 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphinesky/qdolphine_skybox
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+10 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphinesky/qdolphine_skybox
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+11 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphinesky/qdolphine_skybox
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+12 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphinesky/qdolphine_skybox
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+13 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 9
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+14 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 10
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+15 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 11
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+16 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 12
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+17 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 13
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+18 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 14
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+19 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 28
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+20 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 29
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+21 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 30
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+22 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 31
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+23 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/qdolphine/bubble
+	entity 32
+	castShadows 0
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
