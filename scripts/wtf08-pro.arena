@@ -1,0 +1,7 @@
+{
+map         "wtf08-pro"
+longname    "wtf08-pro - Railgun"
+bots        "crash phobos ranger mynx wrack sarge"
+type        "ffa tourney team ctf cctf oneflag overload harvester wtf"
+author      "BerneyBoy"
+}

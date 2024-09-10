@@ -1,0 +1,7 @@
+{
+map         "wtf02"
+longname    "wtf02 - Railgun"
+bots        "hossman sorlag hunter slash sarge lucy"
+type        "ffa tourney team ctf cctf oneflag overload harvester wtf"
+author      "BerneyBoy"
+}

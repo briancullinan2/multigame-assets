@@ -1,0 +1,49 @@
+============================
+Q3NEM03
+============================
+////Wiadomoœci ogólne///////
+Mapa...............Q3Nem03
+Pe³na nazwa........The Third Encounter
+Wersja.............4.0
+Autor..............NemiX
+E-mail.............logos66@o2.pl
+Data wersji 1.0....20 stycznia 2004
+Data wersji 2.0....27 luty 2004
+Data wersji 3.0....29 luty 2004
+Data wersji 4.0....04 marca 2004
+============================
+/Wiadomoœci dotycz¹ce mapy//
+Tryby gry..........ffa
+Graczy.............3-6
+Nowe tekstury......tak(zestaw "egiptsoc" wykonany przez Sock'a i skybox "sky-bright blue" wykonany przez Kell'a)
+Nowe dŸwiêki.......nie
+Nowa muzyka........nie
+Nowe modele........nie
+Opis...............Dziêki doœwiadczeniu jakie zdoby³em przy q3nem02 z teksturami Sock'a mog³em zrobiæ mape, któr¹ mo¿na pokazaæ 
+                   wiêkszej liczbie graczy (znaczy siê wam:)).  Mimo tego d³ugo zasatanawia³em siê czy warto to zrobiæ. Moge
+                   tylko mieæ nadzieje, ¿e wam siê spodoba. Mapka pod wzglêdem wygl¹du powiedzia³bym œrednia ale chyba grywalnoœæ 
+                   stoi na wy¿szym poziomie. Boty graj¹ ca³kiem dobrze(tylko ma³e b³êdy), a to 1/4 sukcesu:D Dociekliwi, którzy grali w mojego mid air'a
+                   dostrzegn¹ pewne podobieñstwa. To dlatego ¿e mapki postawa³y jednoczeœnie.
+Budowa.............Ogólnie rzecz bior¹c mapka sk³ada siê z dwóch du¿ych otwartych pomieszczeñ, po³¹czonych trzema jamppadami i
+                   dwoma korytarzami. Ca³oœæ jest symetryczna, a na koñcach znajduj¹ siê teleporty. Wygl¹d nie przypomina typowego, 
+                   egipskiego wygl¹du i nigdy nie mia³ przypominaæ. Jest to produkt mojej chorej i jak mo¿ecie siê przekonaæ jeszcze 
+                   troche ograniczonej wyobraŸni;D   
+Broñ...............Rocket Launcher, Railgun, Plazma Gun, Lightning Gun
+Amunicja...........3xRL, 2xRG, 3xPG, 3xLG
+Powerups...........Quad, MH, RA
+B³êdy..............Yyyy...mam ma³e zastrze¿enia co do walki botów np: na g³ownej wyskoczni ¿adko siêgaj¹ po quada. Ale w koñcu to tylko boty :)
+============================
+///////Instalacja///////////
+-Wklej plik q3nem03.pk3 do folderu quake3arena/baseq3
+-Uruchom Quake'a
+-Mape znajdziesz w skirmish lub multiplayer w kategori Free for all
+-W przeciwnym razie uruchom j¹ za pomoc¹ komendy /map q3nem03 w konsoli (~)
+============================
+//////Podziêkowania/////////
+Dla Sock'a za bardzo dobre tekstury w stylu egipskim i Kell'a za œwietny skybox:)
+Dla testerów z q3arena.gry.wp.pl:D
+============================
+/////Prawa autorskie////////
+Mapê t¹ mo¿na rozpowszechniaæ tylko NIEODP£ATNIE za poœrednictwem internetu. Nie musisz mnie przy tym powiadamiaæ, jednak
+musisz do³¹czyæ do pliku z map¹ ten plik txt.
+Nie mo¿esz u¿yæ tej mapy jako podstawy do budowy innej ani edytowaæ tego pliku txt.     

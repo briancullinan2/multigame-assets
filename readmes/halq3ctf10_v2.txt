@@ -1,0 +1,55 @@
+* THIS LEVEL IS NOT MADE BY OR SUPPORTED BY id Software *
+ * REQUIRES REGISTERED VERSION OF QUAKE3 AND TEAM ARENA *
+ 
+Released: Friday, May 11, 2001
+==================================================
+Title                   : Revenge of the Vortex - Q3
+
+Filename                : HALQ3CTF10_V2.PK3
+
+Author                  : John "Hal9000" Schuch
+Email Address           : hal9000@gamedesign.net
+Homepage                : http://www.whatthehal.com
+
+Description             : Quake3 CTF Level
+                                                    
+===================================================
+* Play Information *
+
+Game                    : Quake3 reg.
+Map Name                : halq3ctf10_v2
+Bot play                : Yes
+Deathmatch 2-10         : No
+Capture the Flag        : Yes
+One Flag CTF		: Yes
+Obelisk			: Yes
+Harvester		: Yes
+
+==================================================
+* Construction *
+
+Program				: q3Radiant v200e
+Base                    	: Scratch
+Original Construction time	: 1 day (about 5 hours)
+==================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+This map or any part of it may *NOT* be distributed over any
+medium at this time, or anytime in the future, for profit in
+any form of currency, credit, or rocks and pebbles
+(depending on your culture).
+
+This compiled .bsp may *NOT* be decompiled or reverse 
+engineered for any purpose whatsoever.
+
+==================================================
+
+* Etc *
+
+Fixed a few issues with lag and the teleporters.
+
+John -Hal9000- Schuch

@@ -1,0 +1,7 @@
+{
+map         "wtf04"
+longname    "wtf04 - Shotgun"
+bots        "bones mynx crash sarge sorlag anarki"
+type        "ffa tourney team ctf cctf oneflag overload harvester wtf"
+author      "BerneyBoy"
+}

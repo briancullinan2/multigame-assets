@@ -1,0 +1,237 @@
+Thank you for downloading WTF-Q3A-v3.zip.
+
+------------------
+-- INSTALLATION --
+------------------
+
+Unzip the enclosed file "WTF-Q3A-v3.pk3" and place it into the /base3 folder located 
+in your Quake III Arena game folder.  This map is designed for use with Quake III Arena
+and/or Quake III Team Arena.
+
+This mappack requires Q3A Pointrelease 1.29f or later to work as intended, available free
+from the Internet.
+
+-------------------------------
+-- 25 MAPS AUTHORS & WEBSITE --
+-------------------------------
+
+79DieselRabbit : http://www.planetquake.com/darkside/
+AEon : http://www.planetquake.com/aeons/
+amethyst7 : http://amethyst7.gotdoofed.com/
+BerneyBoy : http://www.planetquake.com/berneyboy/
+BETAmax : http://ef.filefront.com/file.info?ID=1743
+blahDL : http://gambitsdefrag.free.fr/
+ButterB : http://www.planetquake.com/butterb/
+Casey : http://www.threewave.com/
+Demolition : http://www.demolitionq3a.tk/
+Greg (skin[NCN]master) Crockatt : http://www.crockatt.computed.net/
+Hal9000 : http://www.whatthehal.com/
+Hr.O : http://planetquake.com/hro
+Immortal : http://www.planetquake.com/immortal/
+Lanzelot : http://www.quake3stuff.com/q3me/maps
+NemiX : http://www.planetquake.com/lvl/mapper.asp?art=NemiX
+Noname : http://home.arcor.de/nobasti/
+MeNtHoL : http://www.planetquake.com/gridiron/
+Mr.LyCon : http://q3chris.hypermart.net%20/
+on-X : http://www.on-x.net/
+Padman : http://www.worldofpadman.com/
+Q aka Agent Orange : http://www.lvlmaker.co.uk/
+Quaker-X : http://www.planetquake.com/quakerx/
+Scancode : http://www.threewave.com/
+ScrotcH : http://www.planetquake.com/bkp/
+skOre  : http://www.skore.de/
+
+---------------------
+-- MAP INFO & TIPS --
+---------------------
+
+This MapPack includes 48 different CTF maps, There are 2 flags per team, 1 weapon per map.
+
+The concept of WTF-Q3A is quite simple. By default, everybody starts with full ammo, and only
+1 weapon. By doing so, the WTF-Q3A looks like a MOD, but it's really conventional maps, humm!
+The focus is on gameplay through raw skill, not weapon manipulation.
+
+There are two opposite rooms. When you get in the enemy room you can either catch the
+enemy flag, pick up a tech or kill the enemies. Most common choice is to catch the flags
+and come back to your base to cap. If you don't want the enemy to cap your flag, you can
+take both flags, but consider that it takes more time to do so. For those who like to
+play defensive, they will certainly enjoy this map.
+
+If you and your team player both have a flag but your team player gets killed.  You have
+two choices to return your team flag to the base. (1)Touch the flag on the floor. (2)Capture
+your own flag and the one on the floor will return to the base.
+
+If you catch both enemy flags, you don't get double points, but you advise the enemy that
+he can't cap his flags.
+
+If you capture both enemy flags, and if when you return in your base one of your team flags
+is still there, the fact that you capped the enemy flag, they will reapper in the enemy base
+and then the enemy can now cap his flag.
+
+It can happen that 3 players of the same team can have each a flag: 2 players have each
+an enemy flag. One of the players looses his flag and the enemy returns his team flag. Then
+2 flags reappear in the enemy base while two other players of your team are there. They
+both catch a flag, plus your team player outside that still has his flag. Possibility of
+lot of points for your team. Also when one player has a flag and another player of
+the same team capture an enemy flag that will bring back 2 flags in the enemy base.
+
+As you can see there are many interesting strategies that can be used in WTF-Q3A.
+
+If you pick up an AMMO item, you will become automatically FULL AMMO. To avoid easy
+control on powerup item, they are set with random time. An interesting thing in WTF-Q3A-06
+everyone plays with an BFG an every time you respawn you have 200% heart & 200% armor.
+
+Another thing very interesting, is that 4 SpaceMaps using the Railgun were included.
+
+Our priorities where gameplay and mapspeed rather then detailed look. After ours of
+testing and making lots of map changes we think we reached our goals.
+
+Numbers of maps:	48 maps
+Version:		3.0
+Bot support (aas):	Bots are fully supported and play fine (bots love small maps), but
+			this mappack was designed for multi-player/internet use.
+Recommended players:	Optimal for 2 - 4 Players in each team or 4 to 6 in deathmatch.
+pk3-File contains:	.aas, .bsp, .arena, textures, screenshot, shader, MD3, readme file.
+Custom textures:	Yes
+Custom shader scripts:	Yes, logo on floor, team flags, textures...
+Custom sounds:		Yes
+Custom Models		Yes
+
+--------------------------
+-- GAME TYPES SUPPORTED --
+--------------------------
+
+Deathmatch	Yes
+Tournament	Yes
+TEAM DM		Yes
+CTF		Yes, very fun in CTF game type
+One Flag CTF	Yes
+Obelisk		Yes
+Harvester	Yes
+
+How to play in Q3A:	1. Start Quake III Arena.
+			2. Select 'Singleplayer' from the menu.
+			3. Click the 'Skirmish' button.
+			4. Change the Game Type to 'Capture the flag'.
+			5. Click the right arrow button until you see "wtf-q3a-01". 
+			6. Highlight "wtf-q3a-01" by clicking on it and then click Next.
+			7. Select the bot you wish to play against and his/her skill level.
+			8. Click the FIGHT button to begin play.
+
+How to play in Q3TA:	IF RUNNING SERVER:
+			Map will appear in the "StartServer" menu of Tema Arena; set options and
+ 			run normally.
+			IF JOINING SERVER:
+			Join as you would normally.
+
+You can use WTF-Q3A maps as a complement in a regular CTF match, like overtime Rocket
+Arena in Quake II. A regular match of 8 flags could be followed by a WTF-Q3A map with
+a limit of 15 flags. For the Deathmatch or CTF, the WTF-Q3A are ideal for LanParty.
+
+----------------
+-- MAKING MOD --
+----------------
+
+New in version 3 to facilitate the job for people who are making mods compatible to WTF-Q3A.
+
+- In the worldspawn I had ( "WTF" , "weapons number" )
+1 - Gauntlet
+2 - MachinGun
+3 - Shotgun
+4 - Grenade Lancher
+5 - Rocket Lancher
+6 - Lithing Gun
+7 - Railgun
+8 - Plasma
+9 - BFG
+
+- In the .arena file, I add ( "TYPE" , "ffa tourney team ctf cctf oneflag overload harvester wtf" ),
+as you can see, the WTF was added. It allows to activate WTF within your mod and then only WTF maps
+will be available/see.
+
+- I also add the tag for all flags for the entities ( "classname" , "team_CTF_redflag" ), this one :
+("flg" , "1 or 2"), as you can see, I added FLG 1 and 2 for red flags, which allows to identify each
+flags. Same was done for the blue flags. Mod coders will be able to display all flags in the HUG,
+and/or modify the score structure as we will know of many flags are captured.
+
+- New bots support Grapple/Hook "grapplereach" for all map.
+
+-----------------
+-- OTHER STUFF --
+-----------------
+
+Don't hesitate to send me feedback! and please tell me if you reviewed it or put it on a server.
+berneyboy@hotmail.com
+
+Release date:	02/08/04 (DD/MM/YY)
+
+--------------------
+-- MANY THANKS TO --
+--------------------
+
+Special thanks
+ Special thanks to Q (http://www.lvlmaker.co.uk/) for very big assistance.
+ Ydnar for his wonderful compiler : http://shaderlab.com/
+ Thanks to everyone at Q3W Level Editing forums for helping me out with stuff generally.
+ ID-software for making Quake III Arena, Quake III Team Arena and all of the BEST 3D shoot-em-ups! 
+
+Texture Thanks
+ Sock http://www.planetquake.com/simland/
+ Cardigan : http://cardigan.digitalarenas.com/
+ Mighty Pete : http://www.planethalflife.com/wadfather/
+ Evil lair : http://evillair.net
+ Jaj's : http://www.planetquake.com/jaj/
+ Dave Bulow : http://www.planetquake.com/davebulow/
+ amethyst7 : http://amethyst7.gotdoofed.com/
+ MrLycon : http://www.quake3house.com/
+ PadCrash : www.padworld.de/
+ speedy : http://www.planetquake.com/speedy/
+ BerneyBoy : http://www.planetquake.com/berneyboy/
+ Skybox from the Dreamcast mappack in map WTF-Q3A-15
+
+MD3 Thanks
+ K-a-B-a-l to make md3 (Flag Banner), use in WTF-Q3A-2 (http://www.planetquake.com/kabalarena/)
+ Herve Groussin to make md3 (Minotaur), use in WTF-Q3A-3 (hgroussi@dunet.com)
+ Drahd to make md3 (Goblin Gargoyle), use in WTF-Q3A-3 (drahd@chaoticdreams.org)
+ QkennyQ to make md3 (Cross), use in WTF-Q3A-05 (http://qkennyq.tripod.com/)
+ Jeffrey R Chaplin to make md3 (ruilaanh guard statue), use in WTF-Q3A-06
+ PyroFragger to make md3 (Trees), use in WTF-Q3A-07 (skipper939@hotmail.com)
+ Rungy to make md3 (Waterfall), use in WTF-Q3A-07 (rungy@mindspring.com)
+ Todd Gantzler to make md3 (Multi-Plant Pack), use in WTF-Q3A-07 (todd@worldwidewebcollege.com)
+ QkennyQ to make md3 (Horned), use in WTF-Q3A-08 (http://qkennyq.tripod.com/)
+ Todd Gantzler to make md3 (Egypt md3), use in WTF-Q3A-10 and WTF-Q3A-11 (todd@worldwidewebcollege.com)
+
+Prefabs Thank
+ Q to make Prefabs (Pendulum) use in WTF-Q3A-1 (dedeye@btinternet.com)
+ Ferrao to make Prefabs (bridge1), use in WTF-Q3A-07 (www.ferrao.de)
+ Jörg Jasper to make Prefabs (Fortessbridge), use in WTF-Q3A-05
+
+----------------------------
+-- DISTRIBUTION/COPYRIGHT --
+----------------------------
+
+WTF-Q3A logos copyright (c) 2001, 2004 berneyboy@hotmail.com
+All maps copyright their respective author.
+Textures copyright their respective owners.
+All rights reserved.
+
+THIS BSP/PK3 IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR FURTHER DISCLAIMS ALL
+IMPLIED WARRANTIES INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR OF
+FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE
+SOFTWARE AND DOCUMENTATION REMAINS WITH YOU.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING WITHOUT LIMITATION,
+DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR
+OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE OR DOCUMENTATION
+EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+This level may not be used by mod authors or be included in level packs without permission from author.
+
+This level is not made by or supported by id Software. It requires a registered version
+of QUAKE III ARENA.
+
+Quake III Arena is a registered trademark of id Software, Inc.
+
+This level may be electronically distributed only at NO CHARGE to the recipient in its current
+state, MUST include this .txt file, and may NOT be modified IN ANY WAY. UNDER NO CIRCUMSTANCES
+IS THIS LEVEL TO BE DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.

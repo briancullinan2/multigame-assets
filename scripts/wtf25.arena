@@ -1,0 +1,7 @@
+{
+map         "wtf25"
+longname    "wtf25 - Railgun"
+bots        "sarge phobos crash mynx wrack ranger"
+type        "ffa tourney team ctf cctf oneflag overload harvester wtf"
+author      "BerneyBoy"
+}

@@ -1,0 +1,77 @@
+date: 26th July 2002.
+Quake3Arena CTF level
+
+====================================================
+title:            17+CFT
+file:             17+CTF.pk3
+author:           Q 
+email address:    q@lvlmaker.co.uk
+description:      CTF map based on 17+ (17+ based on q3dm17)	 
+
+====================================================
+play information
+
+CTF:              yes
+tourney:          np
+deathmatch:       no
+TDM:              no
+Bot File (aas):   yes
+other:            no
+new sounds:       no
+new graphics:     yes
+new music:        no
+Player load:      8-16
+how to play       place 17+CTF.pk3 in your /baseq3/ folder
+                  choose it from the skirmish menu to play 
+                
+
+====================================================
+Original construction
+
+editor:         GTK Radiant 
+                
+know bugs:      none
+
+build time:     about 3 days.
+
+compile time:   around an hour
+
+Build PC:       Athlon 900, 512Mb, GEFORCE 2 DDR
+
+====================================================
+
+====================================================
+CREDITS
+
+Evil lair for the evil 8 textures
+MrLycon for the energy effects I added to the bounce pads
+Skybox by Sock (slightly edited by me to make it less blue & lighter)
+
+All the custom textures/shaders added by me were based on either id or evil lair or MyLycon originals
+
+
+
+====================================================
+
+====================================================
+Notes
+
+Run on a recent (post TA) point release to avoid any problems
+
+Q
+
+
+====================================================
+
+====================================================
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+
+====================================================
+

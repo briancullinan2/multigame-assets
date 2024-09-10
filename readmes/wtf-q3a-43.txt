@@ -1,0 +1,72 @@
+---------------------------------------------------
+Basic Information
+---------------------------------------------------
+Title           : SiN (Beta)
+Author          : Shannon "ScrotcH" Gadbois
+Release date    : June 5, 2004
+Filename        : wtf-q3a-43
+Email Address	: scrotch_fire@hotmail.com
+Webpage 	: http://www.planetquake.com/bkp
+
+---------------------------------------------------
+Play Information
+---------------------------------------------------
+Game           	: Quake III Arena CTF and/or Quake III: Team Arena CTF
+Map Name       	: wtf-q3a-43.bsp
+Bot play        : Yes
+Deathmatch      : No
+Standard CTF    : Yes
+One Flag CTF    : Yes
+Overload        : Yes
+Harvester       : Yes
+
+How To Play     : Place Map Name in your /baseq3/ folder
+                  start quake3arena      
+                  hit ~
+                  type /map "Map Name"
+                  type /addbot <botname> <skill> <team>
+                  hit ~ (to clear the console)
+
+---------------------------------------------------
+Mapping Info & Construction
+---------------------------------------------------
+Program         : Gtk Radiant 1.2.11
+Other           : notepad/Photoshop 7.0
+Base       	:  
+
+Bot File (aas)  : yes
+new sounds      : yes
+new graphics    : yes
+new music:      : no
+other           : no
+
+Build Time      : 1 month
+Compile Time    : 5 hours
+Compile machine : 1.7ghz Athlon XP, 512mb RAM
+
+Known Bugs      : 
+
+
+---------------------------------------------------
+Textures and Models
+---------------------------------------------------
+
+speedy, ydnar
+---------------------------------------------------
+Distribution / Copyright / Permissions 
+---------------------------------------------------
+
+© 2004 Shannon "ScrotcH" Gadbois, All rights reserved.
+Authors may use this as a base/educational purposes just as long as you email me.
+
+This level is not made by or supported by id Software.
+It requires a registered version of QUAKE III ARENA.
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+Quake III: Team Arena is a registered trademark of 
+id Software, Inc.
+
+Distribute this level as you wish.
+

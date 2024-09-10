@@ -1,0 +1,7 @@
+{
+map         "wtf11"
+longname    "wtf11 - Gauntlet"
+bots        "crash sarge phobos mynx wrack ranger"
+type        "ffa tourney team ctf cctf oneflag overload harvester wtf"
+author      "Agent Orange"
+}

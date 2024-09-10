@@ -1,0 +1,166 @@
+9/4/2001
+================================================================
+
+ENTE'S PadCrash, PadCrash_DM17 and PadCrash_CTF
+
+
+Title                   : ENTE'S PadCrash, ENTE'S PadCrash_DM17 and PadCrash_CTF
+Filename                : padcrash.pk3
+Maps			: padcrash.bsp + padcrash02.bsp
+Author                  : ENTE (Andreas Endres)
+Email Address           : mail@padman.de
+home page		: http://www.padcity.com or www.padworld.de
+
+Music by DiESELKOPF     : http://www.geocities.com/SunsetStrip/Alley/7013/
+                          mailto:ronny@sjostroms.se
+                          You need the PadSpace Map with Dieselkopf music to
+                          hear the music in PadCrash too. 
+                        
+
+Description		:Q3A - DM map and CTF map
+
+Instructions:
+-------------
+1 ) Extract padcrash.pk3 into your quake3/baseq3/ directory
+2 ) Start Quake3
+3 ) Both maps will be accessable from the menu
+
+* Playing Information *
+
+type of game:
+padcrash - ffa & team dm
+
+
+
+Settings                : Deathmatch, Team Deathmatch
+Bot Support             : Bots are fully supported
+
+			: 
+Level Name(s)           : PadCrash and PadCrash_DM17 and PadCrash_CTF
+Single Player           : bots
+Cooperative 2-8 Player  : bots
+Deathmatch Player       : yes
+Ctf			: yes
+Difficulty Settings     : bots again
+
+
+Puter:			:AMD 900MHz, 256ram, GeFoce2pro
+compile time:		:2,2 Hours with FastVis 
+
+
+================================================================
+
+English text version:
+
+The PadCrash maps are not a typical PadMap, it was build in about 1 week and it
+is something for some players like the [Pad]Community and for the players on
+PadHouse, the german PadMaps Server.
+As you will notice PadCrash_DM17 was influenced by q3dm17 but I made it more
+colorfull..*gg*
+In difference to the typical PadMaps it is smaller and not very detailed and
+there are no secrets or gags in it, so it is not really the 10th PadMap it
+is a nice additional map...I think.
+It was really nice to do something simple..;)
+There are 3 versions of PadCrash, a little one which is really fast, a CTF Version
+(my first CTF map) and a q3dm17like version. 
+I put them both into this packet because I couldn't decide which one is better..*gg*
+
+Have fun !!
+     ENTE
+
+
+German Text Version !
+
+Die PadCrash Maps sind keine typischen PadMaps, diese Maps entstand eigentlich eher aus 
+einer Laune herraus innerhalb von einer Woche und sie sind auch mehr für einen kleinen 
+Kreis von Spielern gedacht, wie der [PAD]Community und für die Spieler auf 
+PadHouse, dem deutschen PadMaps Server.
+Wie man wohl schnell erkennen kann, wurde die Map PadCrash:DM17 durch Q3dm17 inspiriert, 
+wobei ich es halt nur etwas bunter haben wollte...*gg*
+Ganz im Gegensatz zu den typischen PadMaps sind diese Maps recht mager und detailarm, auch
+gibt es keine Secrets oder sonstige Gags in diesen Maps zu finden, daher sollten diese Maps
+auch nicht unbedingt als PadMap Nr.10 angesehen werden sondern eher als eine nette Beigabe
+zu den anderen PadMaps...denke ich..!?
+Es tat mir jedenfalls mal ganz gut, etwas Einfaches zu machen...;)
+Von PadCrash gibt es drei Versionen, eine kleine, recht schnelle Map, eine CTF Map (meine 
+erste CTF Map übrigens) und eine Q3dm17 typische Version. 
+Ich habe alle in ein Paket gepackt, da ich mich irgendwie nicht richtig entscheiden
+konnte...*gg*
+
+Viel Spass !!
+       ENTE
+
+
+================================================================
+More of the Pad-Maps you can see on www.padmaps.de..!
+See the other 3A Pad-Maps: PADMAN'S PadCastle, PADMAN'S PadHome, PadGallery, PadCenter, 
+PadGarden, PadPool, PadSpace, PadKitchen and PadShop
+Or my EF Pad-Maps; PadGallery, PadKitchen and PadGarden...!
+and the only real PADMAN Model from TONE (http://homepages.tig.com.au/~adbell/).
+================================================================
+
+
+
+A Special Thank to:
+
+-Ronny:
+ the man behind the swedish band DiESELKOPF. Fantastic guy, fantastic music...hear his work in
+ PadSpace and PadKitchen too.
+
+-the BETA testers of PadShop:
+
+-nKn*Clan      : www.nahkampfnager.de
+               : Bomerlunder - www.bomerlunder.de
+               : Sp@de
+               : MEPHiSTO - http://www.q3e.yashuu.de/
+-KARMU         
+-frank[ger]    : http://www.manga-anime-doyo.de/
+-Kalis         : http://www.am-grundmann.de/
+
+-The [PAD]Community
+
+-All the PADMAN and Pad-Maps Fans, you are the best..!!!
+
+-Michel who help me with many tips for my  maps....!!!
+ http://www.dangerzone.de.st 
+
+
+And a very special big Thank to all of the Quake3 Sites; 
+
+www.quake.de        
+www.planetquake.de
+www.planetquake.com
+www.quake3world.com
+www.k-quake.de
+www.qscene.de
+www.quakerszone.de
+www.quakequakequake.com
+www.fragazone.com
+www.extreme-players.de
+www.swissarena.ch
+www.q3a.de
+www.3d-zone.de
+www.quake2.net
+www.stomped.com
+www.q3e.yashuu.de/
+www.quake3fans.de/
+www.planetquake.com/lvl/default.asp
+
+
+and to all the other Site for the nice reports of my Maps !
+================================================================
+
+
+* Legal Stuff *
+
+This level is (c) 2000 ENTE (Andreas Endres).
+You are not to include or distribute this map in any sort of commercial product without 
+first obtaining permission from the author.  You may not mass distribute this level via any 
+non-electronic means, including but not limited to compact disks, and floppy disks.
+
+
+The Comic charaktere PADMAN (c)ENTE  
+
+
+
+sorry, for my bad english..!!

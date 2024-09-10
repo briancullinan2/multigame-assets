@@ -1,0 +1,38 @@
+Sleep to Dream - ame7q3dm2b2	12.23.2002
+
+
+Installation - Move ame7q3dm2.pk3 to baseq3 folder, and dance like Karnov.
+Description - A blue space space floater map, with kind of a DM17ish feel.
+
+
+Supported Gameplay Modes
+----------------------------
+Single Player -		No
+Deathmatch -		Yes
+Team Deatchmatch -	Sure
+Capture the Flag -	No
+Tournament -		Sure
+
+Bot Support - 		Yes
+
+Custom Textures - 	Yes, The Evil8 set by Evil_Lair.
+Skybox -		PurpleNebula, made by me.
+
+Map by amethyst7, sometimes known as Chris Matz
+amethyst7@gotdoofed.com
+http://amethyst7.gotdoofed.com
+
+Thanks
+-----------------------
+- The Quake3World LE forum junkies, with extra icing for wviperw for going above and beyond with his help... again. :-)
+- The Gibwars players, thanks for all your feedback and playtesting (www.gibwars.org)
+- The KILNET players, for more playtesting and feedback (www.kilnet.org)
+- Todtsletzer for taking the time and showing the interest to create some stuff for me, even though it didn't end up getting used. :-)
+- Everyone else who sent me e-mail, dropped in on threads, or whatever and gave feedback.
+- Rubik, MonkeyBoy, and the rest of the GotDoofed players for testing and running the Uber-l33t server. 
+
+"Copyright"
+-----------------------
+All original copyrights still belong to their original owners.
+All are welcome to distribute this .pk3 in it's entirety, with this readme and all other files transferred in their original state.
+Please do not redistribute any files from inside of this .pk3 without my permission.

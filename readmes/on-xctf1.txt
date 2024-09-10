@@ -1,0 +1,50 @@
+release date: 14/08/2002
+Quake3Arena CTF level
+
+====================================================
+title:            The Bad Ball
+file:             on-xctf1.pk3
+author:           on-X
+email address:    on-x@on-x.net
+URL:              http://www.on-x.net
+description:      medium sized Q3CTF map
+====================================================
+play information
+
+tourney:          no
+deathmatch:       no
+team deathmatch:  no
+CTF:              yes
+Bot File (aas):   yes
+other:            no
+new sounds:       no
+new graphics:     yes, textures from :
+                  threethreewave - WWW.threewave.com
+		  evil lair - www.planetquake.com/hfx/
+new music:        no               
+====================================================
+construction
+
+base:           my left ball
+editor:         GTKRadiant - www.qeradiant.com
+other progs:    Q3Map 2
+know bugs:      where is the second one ??
+build time:     months
+
+====================================================
+thanx (in no paticuliar order) to Calimero,POlux,CHAMPi,
+my clan,Torned (a star player),sat,Glu,id,gtk team,Sof,
+Dekard,kalte,seb,quake3world & mapcenter forum posters,
+everyone who tested the map & all those I forget :/
+
+====================================================
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2002 on-X
+All rights reserved.
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+====================================================
+
+

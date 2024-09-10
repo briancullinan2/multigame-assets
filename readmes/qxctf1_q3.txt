@@ -1,0 +1,54 @@
+Mapname                : Speed Metal Q3 
+Filename               : qxctf1_q3.bsp
+Suggested player load  : 4v4 or more
+Weapons                : All but the Lightning Gun, Plasma, and BFG
+
+Supported gametypes    : CTF
+
+Release date           : August 2, 2001
+				   
+Author                 : Ryan "Quaker-X" Rutherford
+
+Email                  : quakerx@planetquake.com
+
+Website		       : www.planetquake.com/quakerx
+
+Other maps by me       : Lots o' Frags (qxdm1)
+                         Broken Silence (qxdm2)
+			 Gothic Rage (qxtourney1)
+                         Dead Cells (qxtourney2)
+			 Speed Metal (qxctf1_ta, Team Arena Version)	
+
+Compile machine        : P3 866, 256 MB
+
+Compile Time           : No clue...
+
+Build time             : 1 week
+
+Editor used            : Q3Radiant    
+                         
+Some words             : My dad and a couple of guys at his work play space ctf a lot, and wanted a new map. I finally gave in, and created this
+			 map. Didn't take long to make, but I had soooo many problems with compiling it. I won't get into it...anyway, hope you enjoy
+			 this map. Playing with one hardcore bot on your team, against 5-6 other harcore bots on the other team is a lot of fun, really
+		         the ONLY way to play. This map makes a good change from the other space maps out there, which are very few. I used some textures 
+			 from the Dreamcast map-pack to make the Q3 version of this map, hopefully that's alright. Enjoy.
+
+Installation           : Extract the contents of this zip file to x:\your_quake3_path\baseq3\
+                         Start Team Arena and select the map from the multiplayer menu or type g_gametype 4 then type \map qxctf1_q3
+		         in the console, and throw in some bots to start fraggin' and kickin' butt and stuff.
+						 
+                         
+Thanx to               : My Dad (Zeppo), all the other guys at his work that helped beta test this map, HrO, excel`, Q3ME, and
+			 ID Software for the game, and Raster Productions for the Dreamcast map-pack. My bad if I forgot you...
+				   
+Legal notes            : Copyright (c) 2001 Ryan Rutherford (aka Quaker-X)
+                         All rights reserved.
+
+                         Quake III Arena is a registered trademark of 
+                         id Software, Inc.
+
+                         This level may be electronically distributed only at 
+                         NO CHARGE to the recipient in its current state, MUST 
+                         include this .txt file, and may NOT be modified IN 
+                         ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+                         DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.

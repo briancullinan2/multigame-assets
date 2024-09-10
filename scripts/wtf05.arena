@@ -1,0 +1,7 @@
+{
+map         "wtf05"
+longname    "wtf05 - Plasma gun"
+bots        "biker sarge mynx xaero anarki hossman"
+type        "ffa tourney team ctf cctf oneflag overload harvester wtf"
+author      "BerneyBoy"
+}

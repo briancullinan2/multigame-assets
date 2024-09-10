@@ -1,0 +1,60 @@
+date: 06. 04. 2004
+Quake3Arena DM/tourney level
+
+
+---
+titel:			singing waves
+file:			noname-wtf.pk3
+version:		final
+
+author:			noname (Bastian Pastoors)
+email address:		nobasti@arcor.de
+homepage:		http://home.arcor.de/nobasti/
+description:		small sized ctf
+
+
+---
+play information
+
+deathmatch:		no
+team deathmatch: 	no
+tourney:		no
+capture the flag:	yes
+
+bot support (aas):	yes
+new graphics:		yes
+new sounds:		no
+new music:		no
+number of players:	4-6
+
+how to play		place noname-wtf.pk3 in your /baseq3/ folder
+                  	choose it from the skirmish menu to play or type \map noname-wtf in the Quake3 					console.
+
+
+---
+constuction information
+
+editor:			GTK Radiant 1.3.1
+
+known bugs:		none
+
+build PC:		AthlonXP 1500, 512 Mb, Geforce 2
+
+
+---
+thanks
+
+
+to evillair for his textures (http://evillair.net)
+to amethyst7 for his skybox (http://amethyst7.gotdoofed.com)
+to the communities of quake3world.com, killerlevels.de, levelsource.com and thewall.de
+
+
+---
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+You may distribute this level in any way, as long as it includes this .txt
+and you dont do any changes to the .pk3, the files in it or the readme.
+You may not sell this level on a cd without my written permission.
+If you put it on your website for download, please let me know.

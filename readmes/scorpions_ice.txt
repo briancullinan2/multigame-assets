@@ -1,0 +1,182 @@
+ICED MAPS PACK
+-----------------------------------------------------------------
+Filename                 : frozen_maps.pk3
+Autor                    : IMMORTAL
+Email Address            : immortal@planetquake.com
+Web Site                 : http://www.planetquake.com/immortal
+Maps in the pack         : scorpions_ice , hell_ice , hymn_ice
+
+
+Instructions:
+-------------
+1 ) Extract frozen_maps.pk3 into your /Quake3/baseq3/ directory
+2 ) Start Quake3
+3 ) To play type at console "/map scorpions_ice" , "/map hell_ice" , "map hymn_ice" or choose single player skirmish , 
+chose the map and start it
+
+Editor(s) used  : Q3Radiant2.01, by IDSoftware , the only way to fly
+                  Q3 Build by Sagnor and AzrKnight.
+                  guess
+
+ -Other maps by autor:
+ ---------------------
+Damned Corridor 
+Q3CTF555
+Trifixion
+Vesperas     
+In Hell I Born
+Facing Scorpions
+A Hymn To Rocket Launcher (More to Come Soon)
+Also a few half life maps and an opposing force mission i didn't released yet
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+SCORPIONS_ICE
+------------------------------------------------------------------
+ Title                   : scorpions_ice , long name : "Frozen Scorpions"
+ Description             : Tourney map built from Facing Scorpions map sample
+ Custom Files            : Modified textures from Nunuk (www.planetquake.com/nunuk)
+                           Modified textures from Quake3
+                           One Skybox from Sock (www.planetquake.com/simland)
+                           A .wav file  
+                           
+------------------------------------------------------------------
+
+* Play Information *
+--------------------
+ Settings                : Tourney , Deathmatch , Team Deathmatch
+ Players                 : 2 to 3
+ Bot Support             : Yes but don't think they won't be stupid and will use the teleporter
+                           Don't think they won't spend their time falling in holes
+                           Hopefully the interest of q3 isn't fighting the bots
+                           
+
+* Construction *
+----------------
+ Build Time      : 1 Day from Scorpions map sample
+ Compile time    : 2 hours
+ 
+                   
+ 
+* Other Info *
+--------------
+Of course despite of the figurative name of the map , the represation of these 2 facing scorpions isn't
+The scorpion's tail do not alway accelerate you where it should , but if you take it the correct way it will alway be ok .
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+HELL_ICE
+------------------------------------------------------------------
+ Title                   : hell_ice , long name : "Frozen Hell"
+ Description             : Map built from In Hell I Born map sample
+ Custom Files            : Modified textures from Evil Lair (www.planetquake.com/hfx)
+                           Modified textures from Quake3
+                           textures from Immortal
+                           A .wav file  
+                           
+------------------------------------------------------------------
+
+* Play Information *
+--------------------
+ Settings                : Tourney , Deathmatch , Team Deathmatch
+ Players                 : 6 to 8
+ Bot Support             : Yes but don't expect them to find the secret area
+                           
+
+* Construction *
+----------------
+ Build Time      : 1 Day from In Hell I Born Map Sample map sample
+ Compile time    : hours
+
+ 
+* Other Info *
+--------------
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+------------------------------------------------------------------
+ Title                   : hymn_ice , long name : "Frozen Hymn"
+ Description             : A deathmatch-teamdeathmatch dark base style for 8-10 players
+ Custom Files            : modified textures from Evil Lair (HFX :www.planetquake.com/hfx) thanks a lot
+                           modified textures from idsoftware
+                           textures from myself
+                           1 mapobject
+                           2 .wav files  
+                           
+* Play Information *
+--------------------
+ Settings                : Tourney , Deathmatch , Team Deathmatch
+ Players                 : 8-10
+ Bot Support             : Yes 
+                           
+
+* Construction *
+----------------
+ Build Time      : 1 day from A Hymn to Rocket Launcher map sample
+ Compile time    : 19 hours on Duron850 380mb PC100
+ 
+ 
+* Other Info *
+--------------
+Going into the blue plasma , you will get the rocket launcher
+There is no way to get the rocket ammo behind the glass without cheating
+To get into the secret area , do a rocket jump on the pads that are inside the tubes from where you can get the rocket launcher
+When you go into this blue plasma you trigger a tower that shots a rocket in direction of the lightening gun 
+To trigger the rocket shooters , the button is just neer the plasmagun or railgun (upstairs)
+Those shooters retrigger themselves until they don't
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+ -Special Thanks: 
+ ----------------
+To Nunuk for opening the chalenge that made me build Facing Scorpions and for his amazing work    www.planetquake.com/nunuk
+To Icestorm for bug report , reviews on www.iceterminal.com and job on www.planetquake.com \ www.quake3world.com
+To Sock for Frozen Scorpion Skybox www.planetquake.com/simland 
+Zib , Fallen , Alonia for bug report and feedbacks
+Q for the ice script feedbacks and testing
+All the klesks
+To Evil Lair for his awesome textures www.planetquake.com/hfx
+The thing is [TFB] for his servers
+Thanks to IdSoftware for This marvelous Game that Quake3 Arena and Doom are .
+Thanks to all mappers and q3 players who are giving me motivation for working on my maps
+Thanks to all review sites and q3 related sites for their contribution in motivating mappers
+
+
+
+* Distribution / Copyright / Permissions * 
+------------------------------------------
+These maps and map pack are Copyright (c) 2001 Frédérick Monfort immortal@planetquake.com    
+All rights reserved.
+
+Textures used by Nunuk and IdSoftware
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified IN 
+ANY WAY. UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON CD-ROM WITHOUT PRIOR WRITTEN PERMISSION.
+For feedback or comments email me at: immortal@planetquake.com
+
+SUPPORT THE BFG !!!!!!

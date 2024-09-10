@@ -1,0 +1,71 @@
+date: January 31 2004
+Quake3Arena DDOM level
+_____________________________________________________
+title:            Q3skOreDDOM1
+file:             q3skoreddom1.pk3
+author:           David 'skOre' Deutsch
+email address:    skore@skore.de
+website:          www.skore.de
+
+textures authors: me ;)
+
+description:
+
+[Double Domination Test]
+
+===============================================
+
+compiling information:
+===============================================
+proudly compiled with q3map2 by ydnar
+
+
+_____________________________________________________
+play information
+
+Bot File (aas):   no
+new sounds:       no
+new graphics:     yes (textures by me)
+new music:        no
+
+how to play: 	place q3skoreddom1.pk3 in your /baseq3/ folder
+                  	start quake3arena
+		choose q3skoreddom1 in the map screen
+_____________________________________________________
+construction
+
+base:          	none
+editor:      	GtkRadiant-1.4
+other progs:   	q3map2  ASE  Wordpad                  
+known bugs: 	none yet
+build time:    	about 8 hours
+
+_____________________________________________________
+thanx to ...
+
+My Girlfriend for ... everything
+My parents, for making me
+My Dteam buddies!
+The Coca Cola Company and the Glenfiddich Destillery
+The guy, who invented Ice-Cubes
+
+_____________________________________________________
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2004 -=skOre=- (David Deutsch) skore@skore.de  
+All rights reserved. If you steal, at least give credit!
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+Coca-Cola is a registred trademark of the
+Coca-Cola-Company
+
+This level may be electronically distributed only at 
+NO CHARGE to the recipient in its current state, MUST 
+include this .txt file, and may NOT be modified
+IN ANY WAY. 
+UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE 
+DISTRIBUTED ON A DATA CARRIER (DVD/CD/HD etc.)
+WITHOUT PRIOR WRITTEN PERMISSION.
+
+_____________________________________________________

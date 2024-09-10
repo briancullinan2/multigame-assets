@@ -1,0 +1,133 @@
+=====================================================================
+Title                   : AEon's DM17
+Filename                : map-aedm17.pk3
+Map			: aedm17.bsp
+Version                 : 02/14/2001  (r50)
+
+Author                  : Christoph A. Loewe (AEon)
+Email Address           : AEon@gxp.de
+Website                 : http://www.AEons.de
+			 
+Description		: Quake III Arena - DM / Tourney / Instagib.
+                          Re-make of id's q3dm17, with narrow ledges to 
+                          make camping more difficult, changes in pads and
+                          layout...
+                          
+Other Levels by Author  : AEarena, AEsculpt, AEarcs for Quake III Arena.
+			  AEcantow, AEcthdrl, AEcube for Half-Life. 
+                          AEcyrena, AEshake2 both for Quake II.
+
+                          See http://www.AEons.de under "Files".
+
+Thanks to               : id Software for providing the source to q3dm17.
+                          To www.evilbings.de's Blade who inspired me to
+                          do this map with instagib in mind.
+                          Thanx also to my other testers: Flash and the
+                          folks on the EvilBing instagib server.
+                          
+Background              : The map was build in about a week with some more
+                          days of fine tuning and tweaking. Since I have 
+                          played q3dm17 a lot, I wanted to change a few
+                          things to make the new map fresh and challenging.
+                          
+=====================================================================
+
+
+* Instructions *
+
+1) Extract aedm17.pk3 into your Quake3/baseq3/ directory
+2) Start Quake3
+3) Maps will be accessible from the menu
+
+
+* Play Information *
+
+Settings                : Deathmatch, Tourney, 'Instagib'
+Bot Support             : Bots are fully supported
+			: 
+Level Name              : AEdm17
+Single Player           : Bots
+Cooperative 2-4 Player  : Bots
+Deathmatch Player       : yes (12 respawn points)
+Number of Players	: 2-8
+Difficulty Settings     : Bots again
+
+Map build system &	
+Number cruncher		: Athlon 900MHz w/384 MB, Win98 & GeForce 64MB
+Compile Time 		:  5 seconds (bsp), 
+                          28 minutes (full vis), 
+                          32 minutes (light -extra)
+
+* Construction *
+
+Base                    : q3dm17 source by id Software
+Editor used             : GtkRadiant v1.1
+Known Bugs              : None, hopefully 8-)
+Build time	        : February 1st to February 14th
+
+New Textures            : yes... 1 texture that replaces main_q3abanner
+New Shaders             : yes... 1 shader that uses aeons/ae_banner
+New Sounds              : nope...
+
+
+* Design changes *
+
+As mentioned, I started off with id's q3dm17 and moved several things 
+around to make the map more instagib conform, e.g. making it very hard 
+to camp in this map.
+
+- The pad (that went east) to the old railgun platform was removed. 
+  This pad was added to the north and south, where the wall was broken
+  open. You can now reach to 4th floor via these pads.
+
+- The lowest level (1st floor) was made symmetrical and a bit narrower.
+  Major change: The quint-pad in the middle was replaced with a 2-sided
+  teleporter and one pad above the teleporter.
+
+- The 2nd and 3rd floors now have the western parts (north and south) 
+  mirrored to the east side as well. Adding 2 more jumppads in the east 
+  that go north/south.
+
+- The 4th floor (where the quad used to be along with the teleporter)
+  was turned into a larger 8-sided platform that now supports the quad 
+  and the railgun.
+
+
+* More Thoughts *
+
+If you compare my changes to the original q3dm17 you will notice that
+the map gets very fast passed, since the central quint-pad on the lowest
+floor was replaced with a teleporter. Adding more respawn points makes the
+map very unsafe for campers, since 'fresh' players will respawn all around
+you. Against 7 hardcore bots in instagib, your average time alive will go
+down to an average of 2-5 seconds... this is pure frenzy ;).
+
+The map is ideal for 4-5 players, the maximum (same as with q3dm17) is
+definitely 8 players. I tried 11 bots and this made any gameplay 
+impossible, too many re-spawn kills.
+
+Does this make the re-make better than id's original... nope :)... but
+I hope that the map is interesting enough to try out 8-)).
+
+
+* Credits *
+
+Thanx to id Software, for Doom, Quake, Quake II, and Quake3Arena.
+
+
+* Legal Stuff *
+
+This level is (c) 2001 Christoph A. Loewe (AEon).
+You are not to include or distribute this map in any sort of commercial 
+product without first obtaining permission from the author.  You may not mass 
+distribute this level via any non-electronic means, including but not limited 
+to compact disks, and floppy disks.
+
+
+* Where to get this map *
+
+www.AEons.de, www.planetquake.com/LvL 
+
+
+AEon
+(14.02.2001 09:44)

@@ -1,0 +1,71 @@
+=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=
+=  Eccentric Entities by {DEMO}LITION  =
+=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=
+
+Map name: Eccentric Entities
+
+Map file name: dmlctf01
+
+Game: Quake III Arena
+
+Map status: Final
+
+Release date: 03/07/2004
+
+Author: {DEMO}LITION (a.k.a. demo)
+
+Bot support: Yes
+
+DM: No
+TDM: No
+Tourney: No
+CTF: Yes
+
+=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=
+
+Info:
+
+This is the final of my first attempt at a CTF map for Quake III Arena.
+The map requires Quake III Arena point release 1.32 (available free from the Internet) to run.
+The map refuses to run on lower versions of Quake III Arena (kicking you to your desktop when the map should load).
+
+To run the map, extract dmlctf01.pk3 into your quake3/baseq3 folder (where you installed Quake III Arena).
+Load up Quake 3 and look for the map in the CTF section of the Skirmish menu.
+Alternatively, you can type /map dmlctf01 in the console to run the map.
+
+=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=
+
+Special thanks to:
+
+- id Software for making Quake 3 Arena so that this map was even possible.
+- The authors of GTKRadiant version 1.4.0.
+- The authors of a few other tools I used to create/maintain the map.
+- Speedy for most of the textures. Check out his site at http://www.planetquake.com/speedy/.
+- BerneyBoy for several texture modifications.
+- BerneyBoy, Fjoggs, idolator, blahDL, Shakz, W01f, reptile and dONKEY for beta testing and comments.
+
+=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=
+
+Texture and shader credits:
+
+- Speedy's Andromeda texture set (BerneyBoy and I have made some additions and modifications).
+- id Software's textures (which are run in the map from your copy of pak0.pk3).
+- My own textures and shaders.
+
+=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=
+
+Copyright and permissions:
+
+© Paul "{DEMO}LITION" Barlow 2004.
+
+- This map and all of its contents are copyrighted.
+- You may distribute this map as you wish, however there must be no charge to the recipient.
+- You may use my textures as long as you give credit in a text document that is distributed with the file you use them in.
+- You must contact me if you wish to do anything else with the map that I have not specified here.
+
+=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=
+
+{DEMO}LITION
+
+- Email: demolition_q3a@hotmail.com
+- Website: http://www.demolitionq3a.tk

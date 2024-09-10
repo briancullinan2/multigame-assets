@@ -1,0 +1,76 @@
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Basic Information
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Title           : Templatic - Q3CTF4 Industrialization
+Author          : Greg [skinmaster] Crockatt
+Release date    : June 2004?
+Filename        : templatic.pk3
+Email Address	: mylastname@hotmail.com (subj:q3mapping)
+Note - if placing this txt file online, leave
+mylastname to avoid spidering of my email please.
+
+Webpage 	: http://www.crockatt.computed.net
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Play Information
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Game           	: Quake III Arena CTF (©id software)
+Map Name       	: templatic.bsp
+Bot play        : Yes
+Deathmatch      : No
+Standard CTF    : Yes (4-6 per team)
+One Flag CTF    : No
+Overload        : No
+Harvester       : No
+
+How To Play     : Place Map Name in your /baseq3/ folder
+                  start quake3arena      
+                  hit ~
+                  enter /g_gametype 4
+                  enter /map "templatic"
+                  enter /addbot <botname> <skill> <team>
+                  hit ~ (to hide the console)
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Mapping Info & Construction
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Program         : Gtk Radiant 1.4.0 Q3Map2
+Other           : notepad/Photoshop 7.0
+
+Bot File (aas)  : yes
+new sounds      : yes - Space Freaks by SLrec.
+new graphics    : yes - Evil ecel_template
+new music:      : no
+other           : 
+
+Build Time      : 30hr~
+Compile Time    : 1hr~p/c
+Compile machine : SGI320 - PII300Mhz 384MB RAM, Cobalt OpenGL Motherboard
+Known Bugs      : None yet
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Special Thanks + Other Notes
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+
+Yves "evil lair" Allaire for the textures, Q3W testers. Ydnar for his wonderful compiler, and all of the awesome mappers who inspire me regularily to keep creating. SonicClang!
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Textures and Models
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Distribution / Copyright / Permissions 
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+
+© 2004 Greg [skinmaster] Crockatt, All rights reserved.
+Pass it around, play on it, but don't sell it please.
+
+This level is not made by or supported by id Software.
+It requires a registered version of QUAKE III ARENA.
+
+Quake III Arena is a registered trademark of 
+id Software, Inc. Quake III: Team Arena is a 
+registered trademark of id Software, Inc.
+
+Distribute this level as you wish.
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
