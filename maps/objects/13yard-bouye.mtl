@@ -1,0 +1,42 @@
+newmtl 13yard_xt/bars
+map_Kd textures/13yard_xt/bars
+
+newmtl 13yard_xt/baselamp
+map_Kd textures/13yard_xt/baselamp
+
+newmtl 13yard_xt/baselamp_flare_static
+map_Kd textures/13yard_xt/baselamp_flare_static
+
+newmtl 13yard_xt/metal_dark
+map_Kd textures/13yard_xt/metal_dark
+
+newmtl 13yard_xt/metal_dark_bolts_border
+map_Kd textures/13yard_xt/metal_dark_bolts_border
+
+newmtl 13yard_xt/metal_dark_trans
+map_Kd textures/13yard_xt/metal_dark_trans
+
+newmtl common/WTF
+map_Kd 
+
+newmtl common/botclip
+map_Kd 
+
+newmtl common/caulk
+map_Kd 
+
+newmtl common/clip
+map_Kd 
+
+newmtl common/hint
+map_Kd 
+
+newmtl common/nodraw
+map_Kd 
+
+newmtl common/origin
+map_Kd 
+
+newmtl common/weapclip
+map_Kd textures/common/weapclip
+
