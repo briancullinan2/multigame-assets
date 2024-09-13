@@ -1209,7 +1209,7 @@
 // entity 158
 {
 "classname" "misc_model2"
-"origin" "5552 -976 128"
+"origin" "5600 -976 128"
 "model2" "maps/bases/atcs-side.bsp"
 }
 // entity 159
