@@ -142,7 +142,7 @@ textures/terrain/mpterrax_1
     map textures/stone/pjrock12c.tga
     //tcmod transform 1 0 1 1 1 1
     rgbGen vertex
-    tcmod scale 0.25 0.25 
+    tcmod scale 0.125 0.125 
   }
   {
     map textures/skies2/clouds2.tga
@@ -166,7 +166,7 @@ textures/terrain/mpterrax_2
   {
     map textures/stone/pjrock10c.tga
     rgbGen vertex
-    tcmod scale 0.25 0.25 
+    tcmod scale 0.125 0.125 
   }
   {
     map textures/skies2/clouds2.tga
@@ -222,12 +222,12 @@ textures/terrain/mpterrax_0to2
     map textures/stone/pjrock12c.tga
     rgbGen vertex
     alphaGen vertex
-    tcmod scale 0.5 0.5
+    tcmod scale 0.25 0.25
   }
   {
     map textures/stone/pjrock10c.tga
     //tcmod transform 1 0 1 1 1 1
-    tcmod scale 0.25 0.25 
+    tcmod scale 0.125 0.125 
     rgbGen vertex
     alphaGen vertex
     blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
@@ -260,7 +260,7 @@ textures/terrain/mpterrax_1to2
   {
     map textures/stone/pjrock10c.tga
     //tcmod transform 1 0 1 1 1 1
-    tcmod scale 0.25 0.25 
+    tcmod scale 0.125 0.125 
     rgbGen vertex
     alphaGen vertex
     blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
