@@ -9,19 +9,23 @@ bpy.ops.object.select_all(action="SELECT")
 bpy.ops.object.delete()
 # bpy.ops.render.view_show('INVOKE_DEFAULT')
 
+# usage: 
 
 print(f'Starting {sys.argv[4]}...')
 
 extname = '.map'
-if ".map" not in sys.argv[4]:
+if ".map" in sys.argv[4]:
+  bpy.ops.import_scene.id_map(filepath=sys.argv[4])
+elif ".bsp" in sys.argv[4]:
   extname = '.bsp'
   bpy.ops.import_scene.id3_bsp(
     filepath=sys.argv[4], 
     preset="BRUSHES", 
     vert_map_packing="Keep"
     )
-else:
-  bpy.ops.import_scene.id_map(filepath=sys.argv[4])
+elif ".obj" in sys.argv[4]:
+  extname = '.obj'
+  bpy.ops.wm.obj_import(filepath=sys.argv[4])
 
 
 bpy.context.view_layer.update()

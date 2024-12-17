@@ -21,48 +21,48 @@ textures/trees/pine_foliage_plane
   }
 }
 
-textures/house6/Wood_Floor_Light
-{
-  cull none
-  surfaceparm trans
-  surfaceparm nolightmap
-  {
-    map textures/house6/Wood_Floor_Light.tga
-  }
-}
+// textures/house6/Wood_Floor_Light
+// {
+//   cull none
+//   surfaceparm trans
+//   surfaceparm nolightmap
+//   {
+//     map textures/house6/Wood_Floor_Light.tga
+//   }
+// }
 
-textures/house6/Polished_Concrete_New
-{
-  q3map_surfacelight 10
+// textures/house6/Polished_Concrete_New
+// {
+//   q3map_surfacelight 10
 
-  {
-    map textures/house6/Polished_Concrete_New.tga
-    blendFunc GL_ONE GL_ZERO
-    rgbGen identity
-  }
-  {
-    map $lightmap
-    blendFunc filter
-    rgbGen identity
-  }
-}
+//   {
+//     map textures/house6/Polished_Concrete_New.tga
+//     blendFunc GL_ONE GL_ZERO
+//     rgbGen identity
+//   }
+//   {
+//     map $lightmap
+//     blendFunc filter
+//     rgbGen identity
+//   }
+// }
 
 
-textures/house6/Polished_Drywall
-{
-  q3map_surfacelight 10
+// textures/house6/Polished_Drywall
+// {
+//   q3map_surfacelight 10
 
-  {
-    map textures/house6/Polished_Drywall.tga
-    blendFunc GL_ONE GL_ZERO
-    rgbGen identity
-  }
-  {
-    map $lightmap
-    blendFunc filter
-    rgbGen identity
-  }
-}
+//   {
+//     map textures/house6/Polished_Drywall.tga
+//     blendFunc GL_ONE GL_ZERO
+//     rgbGen identity
+//   }
+//   {
+//     map $lightmap
+//     blendFunc filter
+//     rgbGen identity
+//   }
+// }
 
 
 textures/sfx/proto_zzztblu2

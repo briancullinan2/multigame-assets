@@ -4,63 +4,63 @@
 {
 "classname" "worldspawn"
 "_tb_mod" "pak0.pk3dir;pak99.pk3dir;pak91.pk3dir;pak90.pk3dir"
-"_tb_textures" "textures/base_floor;textures/base_wall;textures/common;textures/house6;textures/sfx;textures/skies;textures/skies2;textures/terrain;textures/trees;textures/urban_floors;textures/urban_ground;textures/urban_terror;textures/urban_terror2"
+"_tb_textures" "textures/base_floor;textures/base_wall;textures/cardigan_skies;textures/common;textures/house6;textures/sfx;textures/skies;textures/skies2;textures/terrain;textures/trees;textures/urban_floors;textures/urban_ground;textures/urban_terror;textures/urban_terror2"
 "_playerscale" "2.0"
 "gridsize" "1024 1024 1024"
 "_shader" "terrain/mpterrax"
 // brush 0
 {
-( -9728 -12480 -3392 ) ( -9728 12288 -3392 ) ( -9792 12288 -544 ) __TB_empty 0 0 0 0.5 0.5
-( -9728 -12480 -544 ) ( -9664 -12480 -3392 ) ( -9728 -12480 -3392 ) __TB_empty 0 0 0 0.5 0.5
-( -9664 -12480 -3392 ) ( -9664 12288 -3392 ) ( -9728 12288 -3392 ) __TB_empty 0 0 0 0.5 0.5
-( -9792 12288 -544 ) ( -9728 12288 -544 ) ( -9728 -12480 -544 ) __TB_empty 0 0 0 0.5 0.5
-( -9728 12288 -3392 ) ( -9664 12288 -3392 ) ( -9728 12288 -544 ) __TB_empty 0 0 0 0.5 0.5
-( -9728 12288 -544 ) ( -9664 12288 -3392 ) ( -9664 -12480 -3392 ) skies2/nebula3 0 0 0 0.5 0.5
+( -9728 -12480 -3392 ) ( -9728 12288 -3392 ) ( -9792 12288 400 ) cardigan_skies/nebula2_green_lightning 0 24.843842 0 0.5 0.6657303
+( -9728 -12480 400 ) ( -9664 -12480 -3392 ) ( -9728 -12480 -3392 ) cardigan_skies/nebula2_green_lightning 0 24.843906 0 0.5 0.6657303
+( -9664 -12480 -3392 ) ( -9664 12288 -3392 ) ( -9728 12288 -3392 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9792 12288 400 ) ( -9728 12288 400 ) ( -9728 -12480 400 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9728 12288 -3392 ) ( -9664 12288 -3392 ) ( -9728 12288 400 ) cardigan_skies/nebula2_green_lightning 0 24.843906 0 0.5 0.6657303
+( -9728 12288 400 ) ( -9664 12288 -3392 ) ( -9664 -12480 -3392 ) cardigan_skies/nebula2_green_lightning 0 24.843887 0 0.5 0.6657303
 }
 // brush 1
 {
-( -9696 12288 -3360 ) ( -9760 12288 -528 ) ( -9760 12272 -528 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 12272 -528 ) ( 10000 12272 -3360 ) ( -9696 12272 -3360 ) skies2/nebula3 0 0 0 0.5 0.5
-( 10000 12272 -3360 ) ( 10000 12288 -3360 ) ( -9696 12288 -3360 ) __TB_empty 0 0 0 0.5 0.5
-( -9760 12288 -528 ) ( 9936 12288 -528 ) ( 9936 12272 -528 ) __TB_empty 0 0 0 0.5 0.5
-( -9696 12288 -3360 ) ( 10000 12288 -3360 ) ( 9936 12288 -528 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 12288 -528 ) ( 10000 12288 -3360 ) ( 10000 12272 -3360 ) __TB_empty 0 0 0 0.5 0.5
+( -9696 12288 -3360 ) ( -9760 12288 416 ) ( -9760 12272 416 ) cardigan_skies/nebula2_green_lightning 0 16.000458 0 0.5 0.66666573
+( 9936 12272 416 ) ( 10000 12272 -3360 ) ( -9696 12272 -3360 ) cardigan_skies/nebula2_green_lightning 0 16.001175 0 0.5 0.66666573
+( 10000 12272 -3360 ) ( 10000 12288 -3360 ) ( -9696 12288 -3360 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9760 12288 416 ) ( 9936 12288 416 ) ( 9936 12272 416 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9696 12288 -3360 ) ( 10000 12288 -3360 ) ( 9936 12288 416 ) cardigan_skies/nebula2_green_lightning 0 16.000717 0 0.5 0.66666573
+( 9936 12288 416 ) ( 10000 12288 -3360 ) ( 10000 12272 -3360 ) cardigan_skies/nebula2_green_lightning 0 16.00087 0 0.5 0.66666573
 }
 // brush 2
 {
-( -9776 12288 -528 ) ( -9776 -12480 -528 ) ( -9776 -12480 -592 ) __TB_empty 0 0 0 0.5 0.5
-( -9776 -12480 -528 ) ( 9936 -12480 -528 ) ( 9936 -12480 -592 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 -12480 -592 ) ( 9936 12288 -592 ) ( -9776 12288 -592 ) skies2/nebula3 0 0 0 0.5 0.5
-( -9776 12288 -528 ) ( 9936 12288 -528 ) ( 9936 -12480 -528 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 12288 -592 ) ( 9936 12288 -528 ) ( -9776 12288 -528 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 -12480 -528 ) ( 9936 12288 -528 ) ( 9936 12288 -592 ) __TB_empty 0 0 0 0.5 0.5
+( -9776 12288 416 ) ( -9776 -12480 416 ) ( -9776 -12480 352 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9776 -12480 416 ) ( 9936 -12480 416 ) ( 9936 -12480 352 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9936 -12480 352 ) ( 9936 12288 352 ) ( -9776 12288 352 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9776 12288 416 ) ( 9936 12288 416 ) ( 9936 -12480 416 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9936 12288 352 ) ( 9936 12288 416 ) ( -9776 12288 416 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9936 -12480 416 ) ( 9936 12288 416 ) ( 9936 12288 352 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
 }
 // brush 3
 {
-( -9696 -12448 -3360 ) ( -9760 -12448 -528 ) ( -9760 -12464 -528 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 -12464 -528 ) ( 10000 -12464 -3360 ) ( -9696 -12464 -3360 ) __TB_empty 0 0 0 0.5 0.5
-( 10000 -12464 -3360 ) ( 10000 -12448 -3360 ) ( -9696 -12448 -3360 ) __TB_empty 0 0 0 0.5 0.5
-( -9760 -12448 -528 ) ( 9936 -12448 -528 ) ( 9936 -12464 -528 ) __TB_empty 0 0 0 0.5 0.5
-( -9696 -12448 -3360 ) ( 10000 -12448 -3360 ) ( 9936 -12448 -528 ) skies2/nebula3 0 0 0 0.5 0.5
-( 9936 -12448 -528 ) ( 10000 -12448 -3360 ) ( 10000 -12464 -3360 ) __TB_empty 0 0 0 0.5 0.5
+( -9696 -12448 -3360 ) ( -9760 -12448 416 ) ( -9760 -12464 416 ) cardigan_skies/nebula2_green_lightning 0 16.000458 0 0.5 0.66666573
+( 9936 -12464 416 ) ( 10000 -12464 -3360 ) ( -9696 -12464 -3360 ) cardigan_skies/nebula2_green_lightning 0 16.000717 0 0.5 0.66666573
+( 10000 -12464 -3360 ) ( 10000 -12448 -3360 ) ( -9696 -12448 -3360 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9760 -12448 416 ) ( 9936 -12448 416 ) ( 9936 -12464 416 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9696 -12448 -3360 ) ( 10000 -12448 -3360 ) ( 9936 -12448 416 ) cardigan_skies/nebula2_green_lightning 0 16.001175 0 0.5 0.66666573
+( 9936 -12448 416 ) ( 10000 -12448 -3360 ) ( 10000 -12464 -3360 ) cardigan_skies/nebula2_green_lightning 0 16.00087 0 0.5 0.66666573
 }
 // brush 4
 {
-( 9984 -12464 -3360 ) ( 9984 12288 -3360 ) ( 9920 12288 -528 ) skies2/nebula3 0 0 0 0.5 0.5
-( 9936 -12464 -528 ) ( 10000 -12464 -3360 ) ( 9984 -12464 -3360 ) __TB_empty 0 0 0 0.5 0.5
-( 10000 -12464 -3360 ) ( 10000 12288 -3360 ) ( 9984 12288 -3360 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 -12464 -528 ) ( 9920 -12464 -528 ) ( 9920 12288 -528 ) __TB_empty 0 0 0 0.5 0.5
-( 9984 12288 -3360 ) ( 10000 12288 -3360 ) ( 9936 12288 -528 ) __TB_empty 0 0 0 0.5 0.5
-( 9936 12288 -528 ) ( 10000 12288 -3360 ) ( 10000 -12464 -3360 ) __TB_empty 0 0 0 0.5 0.5
+( 9984 -12464 -3360 ) ( 9984 12288 -3360 ) ( 9920 12288 416 ) cardigan_skies/nebula2_green_lightning 0 16.001617 0 0.5 0.66666573
+( 9936 -12464 416 ) ( 10000 -12464 -3360 ) ( 9984 -12464 -3360 ) cardigan_skies/nebula2_green_lightning 0 16.000717 0 0.5 0.66666573
+( 10000 -12464 -3360 ) ( 10000 12288 -3360 ) ( 9984 12288 -3360 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9936 -12464 416 ) ( 9920 -12464 416 ) ( 9920 12288 416 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9984 12288 -3360 ) ( 10000 12288 -3360 ) ( 9936 12288 416 ) cardigan_skies/nebula2_green_lightning 0 16.000717 0 0.5 0.66666573
+( 9936 12288 416 ) ( 10000 12288 -3360 ) ( 10000 -12464 -3360 ) cardigan_skies/nebula2_green_lightning 0 16.00087 0 0.5 0.66666573
 }
 // brush 5
 {
-( -9728 12288 -3328 ) ( -9728 -12480 -3328 ) ( -9728 -12480 -3392 ) __TB_empty 0 0 0 0.5 0.5
-( -9728 -12480 -3328 ) ( 9984 -12480 -3328 ) ( 9984 -12480 -3392 ) __TB_empty 0 0 0 0.5 0.5
-( 9984 -12480 -3392 ) ( 9984 12288 -3392 ) ( -9728 12288 -3392 ) __TB_empty 0 0 0 0.5 0.5
-( -9728 12288 -3328 ) ( 9984 12288 -3328 ) ( 9984 -12480 -3328 ) skies2/nebula3 0 0 0 0.5 0.5
-( 9984 12288 -3392 ) ( 9984 12288 -3328 ) ( -9728 12288 -3328 ) __TB_empty 0 0 0 0.5 0.5
-( 9984 -12480 -3328 ) ( 9984 12288 -3328 ) ( 9984 12288 -3392 ) __TB_empty 0 0 0 0.5 0.5
+( -9728 12288 -3328 ) ( -9728 -12480 -3328 ) ( -9728 -12480 -3392 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9728 -12480 -3328 ) ( 9984 -12480 -3328 ) ( 9984 -12480 -3392 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9984 -12480 -3392 ) ( 9984 12288 -3392 ) ( -9728 12288 -3392 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( -9728 12288 -3328 ) ( 9984 12288 -3328 ) ( 9984 -12480 -3328 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9984 12288 -3392 ) ( 9984 12288 -3328 ) ( -9728 12288 -3328 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
+( 9984 -12480 -3328 ) ( 9984 12288 -3328 ) ( 9984 12288 -3392 ) cardigan_skies/nebula2_green_lightning 0 0 0 0.5 0.5
 }
 // brush 6
 {
@@ -5287,7 +5287,7 @@
 // entity 93
 {
 "classname" "info_player_start"
-"origin" "-1792 1888 -2264"
+"origin" "-1856 2848 -2264"
 }
 // entity 94
 {
@@ -5295,6 +5295,7 @@
 "origin" "-304 2336 -3296"
 "model" "maps/terrain/weatherford.obj"
 "spawnflags" "2"
+"_tb_textures" "textures/base_floor;textures/base_wall;textures/cardigan_skies;textures/common;textures/house6;textures/sfx;textures/skies;textures/skies2;textures/terrain;textures/trees;textures/urban_floors;textures/urban_ground;textures/urban_terror;textures/urban_terror2"
 }
 // entity 95
 {
@@ -5372,7 +5373,7 @@
 {
 "classname" "misc_model2"
 "origin" "-2696 2304 -2368"
-"model2" "maps/rooms/weatherford-kitchen-quarter.md3"
+"model2" "maps/rooms/weatherford-kitchen.bsp"
 "spawnflags" "8"
 "modelscale" "4"
 "health" "40"
@@ -5381,14 +5382,14 @@
 {
 "classname" "misc_model2"
 "origin" "-2488 -368 -2368"
-"model2" "maps/rooms/weatherford-guest.obj"
+"model2" "maps/rooms/weatherford-guest.bsp"
 "spawnflags" "2"
 }
 // entity 105
 {
 "classname" "misc_model2"
 "origin" "-3632 -752 -2432"
-"model2" "maps/rooms/weatherford-garage.obj"
+"model2" "maps/rooms/weatherford-garage.bsp"
 "spawnflags" "2"
 }
 // entity 106
@@ -6176,24 +6177,21 @@
 {
 "classname" "misc_model2"
 "origin" "-1616 832 -2368"
-"model2" "maps/rooms/weatherford-upstairs-quarter.md3"
+"model2" "maps/rooms/weatherford-upstairs.bsp"
 "spawnflags" "8"
 "modelscale" "4"
 "health" "40"
 }
 // entity 178
 {
-"classname" "misc_model2"
-"origin" "-1576 2048 -2368"
-"model2" "maps/rooms/weatherford-rooms-quarter.md3"
-"spawnflags" "8"
-"modelscale" "4"
-"health" "40"
-}
-// entity 179
-{
 "classname" "misc_model"
 "origin" "-304 2336 -3296"
 "model" "maps/terrain/weatherford.obj"
 "spawnflags" "2"
+}
+// entity 179
+{
+"classname" "misc_model2"
+"origin" "-1544 2088 -2360"
+"model2" "maps/rooms/weatherford-rooms.bsp"
 }

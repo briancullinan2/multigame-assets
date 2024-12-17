@@ -8358,520 +8358,520 @@ default
 	sampleSize 0
 }
 
-1392 // ESurfaceType::Meta V: 4 I: 6 planar
+1392 // ESurfaceType::Meta V: 14 I: 24 planar
 {
-	shader textures/house6/Granite_Dark_Gray
+	shader textures/__TB_empty
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1393 // ESurfaceType::Meta V: 4 I: 6 planar
+1393 // ESurfaceType::Meta V: 6 I: 12 planar
 {
-	shader textures/house6/Granite_Dark_Gray
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1394 // ESurfaceType::Meta V: 4 I: 6 planar
+1394 // ESurfaceType::Meta V: 16 I: 30 planar
 {
-	shader textures/house6/Granite_Dark_Gray
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1395 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/__TB_empty
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1395 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/Granite_Dark_Gray
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1396 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Granite_Dark_Gray
+	shader textures/__TB_empty
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1397 // ESurfaceType::Meta V: 4 I: 6 planar
+1397 // ESurfaceType::Meta V: 8 I: 12 planar
 {
-	shader textures/house6/Granite_Dark_Gray
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1398 // ESurfaceType::Meta V: 4 I: 6 planar
+1398 // ESurfaceType::Meta V: 14 I: 24 planar
 {
-	shader textures/house6/Granite_Dark_Gray
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1399 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Granite_Dark_Gray
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1400 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Granite_Dark_Gray
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1401 // ESurfaceType::Meta V: 4 I: 6 planar
+1401 // ESurfaceType::Meta V: 8 I: 12 planar
 {
-	shader textures/house6/Granite_Dark_Gray
+	shader textures/__TB_empty
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1402 // ESurfaceType::Meta V: 4 I: 6 planar
+1402 // ESurfaceType::Meta V: 8 I: 12 planar
 {
-	shader textures/house6/Granite_Dark_Gray
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1403 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/Polished_Concrete_Old
+	shader textures/__TB_empty
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1404 // ESurfaceType::Meta V: 5 I: 9 planar
+1403 // ESurfaceType::Meta V: 14 I: 24 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1404 // ESurfaceType::Meta V: 14 I: 24 planar
+{
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1405 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1406 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
+	shader textures/__TB_empty
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1407 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1408 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
+	shader textures/__TB_empty
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1409 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/__TB_empty
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1409 // ESurfaceType::Meta V: 5 I: 9 planar
+1410 // ESurfaceType::Meta V: 8 I: 12 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1410 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/__TB_empty
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1411 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1412 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1413 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1414 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1415 // ESurfaceType::Meta V: 5 I: 9 planar
+1415 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1416 // ESurfaceType::Meta V: 5 I: 9 planar
+1416 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1417 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
+	shader textures/house6/Granite_Dark_Gray
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1418 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1419 // ESurfaceType::Meta V: 3 I: 3 planar
+1419 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1420 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/house6/Granite_Dark_Gray
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1421 // ESurfaceType::Meta V: 8 I: 12 planar
+1421 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1422 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/Polished_Concrete_Old
+	shader textures/house6/Granite_Dark_Gray
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1423 // ESurfaceType::Meta V: 4 I: 6 planar
+1422 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1423 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1424 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/Polished_Concrete_Old
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1425 // ESurfaceType::Meta V: 5 I: 9 planar
+1425 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1426 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1427 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1428 // ESurfaceType::Meta V: 4 I: 6 planar
+1428 // ESurfaceType::Meta V: 5 I: 9 planar
 {
-	shader textures/terrain/mpterra4_2
+	shader textures/house6/Polished_Concrete_Old
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1429 // ESurfaceType::Meta V: 5 I: 9 planar
+1429 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1430 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1431 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1432 // ESurfaceType::Meta V: 5 I: 9 planar
+1432 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1433 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1434 // ESurfaceType::Meta V: 5 I: 9 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1435 // ESurfaceType::Meta V: 4 I: 6 planar
+1435 // ESurfaceType::Meta V: 5 I: 9 planar
 {
-	shader textures/terrain/mpterra4_2
+	shader textures/house6/Polished_Concrete_Old
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1436 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1437 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1438 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/terrain/mpterra4_2
+	shader textures/house6/Polished_Concrete_Old
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1439 // ESurfaceType::Meta V: 5 I: 9 planar
+1438 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1440 // ESurfaceType::Meta V: 4 I: 6 planar
+1439 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1440 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1441 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1442 // ESurfaceType::Meta V: 5 I: 9 planar
+1442 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/house6/Polished_Concrete_Old
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1443 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/terrain/mpterra4_2
+	shader textures/house6/Polished_Concrete_Old
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1444 // ESurfaceType::Meta V: 4 I: 6 planar
+1444 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1445 // ESurfaceType::Meta V: 6 I: 12 planar
+1445 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_2
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1446 // ESurfaceType::Meta V: 5 I: 9 planar
+1446 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1447 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/terrain/mpterra4_2
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1448 // ESurfaceType::Meta V: 4 I: 6 planar
+1448 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/terrain/mpterra4_2
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1449 // ESurfaceType::Meta V: 14 I: 24 planar
+1449 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1450 // ESurfaceType::Meta V: 16 I: 30 planar
-{
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1451 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/__TB_empty
+	shader textures/terrain/mpterra4_2
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1452 // ESurfaceType::Meta V: 6 I: 12 planar
+1450 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1451 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/terrain/mpterra4_2
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1452 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1453 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1454 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterra4_2
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1454 // ESurfaceType::Meta V: 8 I: 12 planar
+1455 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1455 // ESurfaceType::Meta V: 14 I: 24 planar
-{
-	shader textures/__TB_empty
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1456 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1457 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/__TB_empty
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1458 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1459 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/__TB_empty
+	shader textures/terrain/mpterra4_2
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1460 // ESurfaceType::Meta V: 14 I: 24 planar
+1457 // ESurfaceType::Meta V: 5 I: 9 planar
 {
-	shader textures/__TB_empty
+	shader textures/terrain/mpterra4_2
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1461 // ESurfaceType::Meta V: 14 I: 24 planar
+1458 // ESurfaceType::Meta V: 5 I: 9 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1459 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1460 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1461 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1462 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1463 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1464 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/__TB_empty
+	shader textures/terrain/mpterra4_2
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1465 // ESurfaceType::Meta V: 4 I: 6 planar
+1464 // ESurfaceType::Meta V: 6 I: 12 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1465 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1466 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	shader textures/terrain/mpterra4_2
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1467 // ESurfaceType::Meta V: 8 I: 12 planar
+1467 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/__TB_empty
+	shader textures/terrain/mpterra4_2
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1468 // ESurfaceType::Meta V: 6 I: 12 planar
+1468 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1469 // ESurfaceType::Meta V: 6 I: 12 planar
+1469 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1470 // ESurfaceType::Meta V: 6 I: 12 planar
+1470 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1471 // ESurfaceType::Meta V: 6 I: 12 planar
+1471 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1472 // ESurfaceType::Meta V: 6 I: 12 planar
+1472 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1473 // ESurfaceType::Meta V: 6 I: 12 planar
+1473 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1474 // ESurfaceType::Meta V: 6 I: 12 planar
+1474 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1475 // ESurfaceType::Meta V: 6 I: 12 planar
+1475 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1476 // ESurfaceType::Meta V: 6 I: 12 planar
+1476 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
-1477 // ESurfaceType::Meta V: 6 I: 12 planar
+1477 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
 }
 
 1478 // ESurfaceType::Meta V: 6 I: 12 planar
@@ -8910,136 +8910,136 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1484 // ESurfaceType::Meta V: 35 I: 84 planar
+1484 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1485 // ESurfaceType::Meta V: 21 I: 51 planar
+1485 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1486 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1487 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1488 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1489 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1490 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1491 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1492 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1493 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1494 // ESurfaceType::Meta V: 35 I: 84 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1495 // ESurfaceType::Meta V: 21 I: 51 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1486 // ESurfaceType::Meta V: 64 I: 144 planar
+1496 // ESurfaceType::Meta V: 64 I: 144 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1487 // ESurfaceType::Meta V: 23 I: 48 planar
+1497 // ESurfaceType::Meta V: 23 I: 48 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1488 // ESurfaceType::Meta V: 8 I: 12 planar
+1498 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1489 // ESurfaceType::Meta V: 10 I: 21 planar
+1499 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1490 // ESurfaceType::Meta V: 24 I: 57 planar
+1500 // ESurfaceType::Meta V: 24 I: 57 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1491 // ESurfaceType::Meta V: 18 I: 48 planar
+1501 // ESurfaceType::Meta V: 18 I: 48 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1492 // ESurfaceType::Meta V: 4 I: 6 planar
+1502 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1493 // ESurfaceType::Meta V: 6 I: 15 planar
+1503 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1494 // ESurfaceType::Meta V: 4 I: 6 planar
+1504 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1495 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1496 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1497 // ESurfaceType::Meta V: 9 I: 24 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1498 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1499 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1500 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1501 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1502 // ESurfaceType::Meta V: 64 I: 141 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1503 // ESurfaceType::Meta V: 64 I: 168 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1504 // ESurfaceType::Meta V: 49 I: 132 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1505 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1506 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -9048,52 +9048,52 @@ default
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1507 // ESurfaceType::Meta V: 8 I: 12 planar
+1507 // ESurfaceType::Meta V: 9 I: 24 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1508 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1509 // ESurfaceType::Meta V: 11 I: 30 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1510 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1511 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1512 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1513 // ESurfaceType::Meta V: 4 I: 6 planar
+1509 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1514 // ESurfaceType::Meta V: 4 I: 6 planar
+1510 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1511 // ESurfaceType::Meta V: 10 I: 21 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1512 // ESurfaceType::Meta V: 64 I: 141 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1513 // ESurfaceType::Meta V: 64 I: 168 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1514 // ESurfaceType::Meta V: 49 I: 132 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1515 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -9108,40 +9108,40 @@ default
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1517 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1518 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1519 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1520 // ESurfaceType::Meta V: 31 I: 72 planar
+1517 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1521 // ESurfaceType::Meta V: 4 I: 6 planar
+1518 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1519 // ESurfaceType::Meta V: 11 I: 30 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1520 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
+1521 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
 1522 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1523 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -9150,16 +9150,16 @@ default
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1524 // ESurfaceType::Meta V: 8 I: 12 planar
+1524 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1525 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1526 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -9168,130 +9168,130 @@ default
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1527 // ESurfaceType::Meta V: 24 I: 54 planar
+1527 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1528 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1529 // ESurfaceType::Meta V: 4 I: 6 planar
+1528 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1530 // ESurfaceType::Meta V: 4 I: 6 planar
+1529 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1530 // ESurfaceType::Meta V: 31 I: 72 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1531 // ESurfaceType::Meta V: 20 I: 48 planar
+1531 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1532 // ESurfaceType::Meta V: 17 I: 36 planar
+1532 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1533 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1534 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1535 // ESurfaceType::Meta V: 64 I: 144 planar
+1534 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1536 // ESurfaceType::Meta V: 40 I: 105 planar
+1535 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1537 // ESurfaceType::Meta V: 4 I: 6 planar
+1536 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1538 // ESurfaceType::Meta V: 4 I: 6 planar
+1537 // ESurfaceType::Meta V: 24 I: 54 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1538 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1539 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1540 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1541 // ESurfaceType::Meta V: 19 I: 45 planar
+1541 // ESurfaceType::Meta V: 20 I: 48 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1542 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1543 // ESurfaceType::Meta V: 19 I: 54 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1544 // ESurfaceType::Meta V: 13 I: 36 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1545 // ESurfaceType::Meta V: 4 I: 6 planar
+1542 // ESurfaceType::Meta V: 17 I: 36 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1546 // ESurfaceType::Meta V: 4 I: 6 planar
+1543 // ESurfaceType::Meta V: 64 I: 144 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1544 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1545 // ESurfaceType::Meta V: 6 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1546 // ESurfaceType::Meta V: 40 I: 105 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1547 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1548 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -9303,22 +9303,22 @@ default
 1549 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1550 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1551 // ESurfaceType::Meta V: 4 I: 6 planar
+1551 // ESurfaceType::Meta V: 19 I: 45 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1552 // ESurfaceType::Meta V: 18 I: 60 planar
+1552 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -9327,16 +9327,16 @@ default
 1553 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1554 // ESurfaceType::Meta V: 4 I: 6 planar
+1554 // ESurfaceType::Meta V: 19 I: 54 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1555 // ESurfaceType::Meta V: 4 I: 6 planar
+1555 // ESurfaceType::Meta V: 13 I: 36 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -9345,40 +9345,40 @@ default
 1556 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1557 // ESurfaceType::Meta V: 26 I: 60 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1558 // ESurfaceType::Meta V: 16 I: 36 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1559 // ESurfaceType::Meta V: 3 I: 3 planar
+1557 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1560 // ESurfaceType::Meta V: 4 I: 6 planar
+1558 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
+1559 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1560 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
 1561 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1562 // ESurfaceType::Meta V: 4 I: 6 planar
+1562 // ESurfaceType::Meta V: 18 I: 60 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -9390,16 +9390,16 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1564 // ESurfaceType::Meta V: 16 I: 54 planar
+1564 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1565 // ESurfaceType::Meta V: 15 I: 42 planar
+1565 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1566 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -9408,64 +9408,64 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1567 // ESurfaceType::Meta V: 5 I: 9 planar
+1567 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1568 // ESurfaceType::Meta V: 5 I: 9 planar
+1568 // ESurfaceType::Meta V: 26 I: 60 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1569 // ESurfaceType::Meta V: 16 I: 36 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1570 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1571 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1569 // ESurfaceType::Meta V: 5 I: 9 planar
+1572 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1573 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1574 // ESurfaceType::Meta V: 16 I: 54 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1575 // ESurfaceType::Meta V: 15 I: 42 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1570 // ESurfaceType::Meta V: 5 I: 9 planar
+1576 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1571 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1572 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1573 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1574 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1575 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1576 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1577 // ESurfaceType::Meta V: 5 I: 9 planar
@@ -9600,127 +9600,127 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1599 // ESurfaceType::Meta V: 20 I: 54 planar
+1599 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1600 // ESurfaceType::Meta V: 23 I: 63 planar
+1600 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1601 // ESurfaceType::Meta V: 8 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1602 // ESurfaceType::Meta V: 7 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1603 // ESurfaceType::Meta V: 7 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1604 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1605 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1606 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1607 // ESurfaceType::Meta V: 38 I: 84 planar
+1601 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1608 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1609 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1610 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1611 // ESurfaceType::Meta V: 28 I: 90 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1612 // ESurfaceType::Meta V: 4 I: 6 planar
+1602 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1613 // ESurfaceType::Meta V: 4 I: 6 planar
+1603 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1604 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1605 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1606 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1607 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1608 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1609 // ESurfaceType::Meta V: 20 I: 54 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1610 // ESurfaceType::Meta V: 23 I: 63 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1611 // ESurfaceType::Meta V: 8 I: 21 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1614 // ESurfaceType::Meta V: 4 I: 6 planar
+1612 // ESurfaceType::Meta V: 7 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1613 // ESurfaceType::Meta V: 7 I: 18 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1614 // ESurfaceType::Meta V: 38 I: 81 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1615 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1616 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1617 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1618 // ESurfaceType::Meta V: 4 I: 6 planar
+1618 // ESurfaceType::Meta V: 33 I: 75 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1619 // ESurfaceType::Meta V: 12 I: 27 planar
+1619 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -9729,193 +9729,193 @@ default
 1620 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1621 // ESurfaceType::Meta V: 16 I: 36 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1622 // ESurfaceType::Meta V: 4 I: 6 planar
+1621 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1622 // ESurfaceType::Meta V: 28 I: 90 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1623 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1624 // ESurfaceType::Meta V: 7 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1625 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1626 // ESurfaceType::Meta V: 13 I: 30 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1627 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1628 // ESurfaceType::Meta V: 14 I: 33 planar
+1624 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1625 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1626 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1627 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1628 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1629 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1630 // ESurfaceType::Meta V: 4 I: 6 planar
+1630 // ESurfaceType::Meta V: 12 I: 27 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1631 // ESurfaceType::Meta V: 6 I: 12 planar
+1631 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1632 // ESurfaceType::Meta V: 36 I: 78 planar
+1632 // ESurfaceType::Meta V: 16 I: 36 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1633 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1634 // ESurfaceType::Meta V: 33 I: 84 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1635 // ESurfaceType::Meta V: 64 I: 129 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1636 // ESurfaceType::Meta V: 7 I: 15 planar
+1634 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1637 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1638 // ESurfaceType::Meta V: 7 I: 15 planar
+1635 // ESurfaceType::Meta V: 7 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1639 // ESurfaceType::Meta V: 6 I: 15 planar
+1636 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1637 // ESurfaceType::Meta V: 13 I: 30 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1638 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1639 // ESurfaceType::Meta V: 14 I: 33 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1640 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1641 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1642 // ESurfaceType::Meta V: 4 I: 6 planar
+1642 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1643 // ESurfaceType::Meta V: 8 I: 12 planar
+1643 // ESurfaceType::Meta V: 36 I: 78 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1644 // ESurfaceType::Meta V: 28 I: 57 planar
+1644 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1645 // ESurfaceType::Meta V: 33 I: 84 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1646 // ESurfaceType::Meta V: 64 I: 141 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1645 // ESurfaceType::Meta V: 12 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1646 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1647 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1648 // ESurfaceType::Meta V: 33 I: 72 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1649 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1650 // ESurfaceType::Meta V: 29 I: 63 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1651 // ESurfaceType::Meta V: 10 I: 18 planar
+1647 // ESurfaceType::Meta V: 7 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1648 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1649 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1650 // ESurfaceType::Meta V: 6 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1651 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1652 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -9924,226 +9924,226 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1653 // ESurfaceType::Meta V: 5 I: 9 planar
+1653 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1654 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1654 // ESurfaceType::Meta V: 25 I: 57 planar
+1655 // ESurfaceType::Meta V: 22 I: 45 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1655 // ESurfaceType::Meta V: 7 I: 18 planar
+1656 // ESurfaceType::Meta V: 12 I: 18 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1656 // ESurfaceType::Meta V: 6 I: 15 planar
+1657 // ESurfaceType::Meta V: 10 I: 21 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1658 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1659 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1657 // ESurfaceType::Meta V: 9 I: 24 planar
+1660 // ESurfaceType::Meta V: 16 I: 24 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1661 // ESurfaceType::Meta V: 29 I: 63 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1658 // ESurfaceType::Meta V: 7 I: 15 planar
+1662 // ESurfaceType::Meta V: 10 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1659 // ESurfaceType::Meta V: 7 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1660 // ESurfaceType::Meta V: 4 I: 6 planar
+1663 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1661 // ESurfaceType::Meta V: 18 I: 45 planar
+1664 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1662 // ESurfaceType::Meta V: 13 I: 30 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1663 // ESurfaceType::Meta V: 39 I: 84 planar
+1665 // ESurfaceType::Meta V: 7 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1664 // ESurfaceType::Meta V: 27 I: 57 planar
+1666 // ESurfaceType::Meta V: 6 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1667 // ESurfaceType::Meta V: 9 I: 24 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1668 // ESurfaceType::Meta V: 7 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1665 // ESurfaceType::Meta V: 9 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1666 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1667 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1668 // ESurfaceType::Meta V: 10 I: 18 planar
+1669 // ESurfaceType::Meta V: 7 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1669 // ESurfaceType::Meta V: 10 I: 27 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1670 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1671 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1672 // ESurfaceType::Meta V: 4 I: 6 planar
+1671 // ESurfaceType::Meta V: 18 I: 45 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1673 // ESurfaceType::Meta V: 4 I: 6 planar
+1672 // ESurfaceType::Meta V: 13 I: 30 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1674 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1675 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1676 // ESurfaceType::Meta V: 64 I: 150 planar
+1673 // ESurfaceType::Meta V: 64 I: 144 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1677 // ESurfaceType::Meta V: 35 I: 90 planar
+1674 // ESurfaceType::Meta V: 27 I: 57 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1678 // ESurfaceType::Meta V: 64 I: 141 planar
+1675 // ESurfaceType::Meta V: 9 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1679 // ESurfaceType::Meta V: 23 I: 54 planar
+1676 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1677 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1678 // ESurfaceType::Meta V: 10 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1679 // ESurfaceType::Meta V: 10 I: 27 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1680 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1681 // ESurfaceType::Meta V: 15 I: 30 planar
+1681 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1682 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1683 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1684 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1685 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1686 // ESurfaceType::Meta V: 4 I: 6 planar
+1686 // ESurfaceType::Meta V: 64 I: 156 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1687 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1688 // ESurfaceType::Meta V: 4 I: 6 planar
+1687 // ESurfaceType::Meta V: 35 I: 90 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1689 // ESurfaceType::Meta V: 4 I: 6 planar
+1688 // ESurfaceType::Meta V: 41 I: 90 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1689 // ESurfaceType::Meta V: 23 I: 54 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1690 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -10152,76 +10152,76 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1691 // ESurfaceType::Meta V: 9 I: 24 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1692 // ESurfaceType::Meta V: 7 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1693 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1694 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1695 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1696 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1697 // ESurfaceType::Meta V: 12 I: 27 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1698 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1699 // ESurfaceType::Meta V: 12 I: 27 planar
+1691 // ESurfaceType::Meta V: 15 I: 30 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1700 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1701 // ESurfaceType::Meta V: 4 I: 6 planar
+1692 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1702 // ESurfaceType::Meta V: 5 I: 9 planar
+1693 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1694 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1695 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1696 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1697 // ESurfaceType::Meta V: 6 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1698 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1699 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1700 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1701 // ESurfaceType::Meta V: 9 I: 24 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1702 // ESurfaceType::Meta V: 7 I: 18 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1703 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -10230,91 +10230,91 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1704 // ESurfaceType::Meta V: 4 I: 6 planar
+1704 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1705 // ESurfaceType::Meta V: 16 I: 39 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1706 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1707 // ESurfaceType::Meta V: 4 I: 6 planar
+1705 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1708 // ESurfaceType::Meta V: 8 I: 12 planar
+1706 // ESurfaceType::Meta V: 12 I: 27 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1709 // ESurfaceType::Meta V: 12 I: 18 planar
+1707 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1710 // ESurfaceType::Meta V: 8 I: 12 planar
+1708 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1709 // ESurfaceType::Meta V: 12 I: 27 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1710 // ESurfaceType::Meta V: 6 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1711 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1711 // ESurfaceType::Meta V: 16 I: 36 planar
+1712 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1712 // ESurfaceType::Meta V: 3 I: 3 planar
+1713 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1714 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1713 // ESurfaceType::Meta V: 7 I: 15 planar
+1715 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1714 // ESurfaceType::Meta V: 8 I: 12 planar
+1716 // ESurfaceType::Meta V: 16 I: 39 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1715 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1716 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1717 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1718 // ESurfaceType::Meta V: 8 I: 12 planar
+1718 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -10323,61 +10323,61 @@ default
 1719 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1720 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1721 // ESurfaceType::Meta V: 10 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1722 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1723 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1724 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1725 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1726 // ESurfaceType::Meta V: 4 I: 6 planar
+1720 // ESurfaceType::Meta V: 12 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1727 // ESurfaceType::Meta V: 4 I: 6 planar
+1721 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1728 // ESurfaceType::Meta V: 3 I: 3 planar
+1722 // ESurfaceType::Meta V: 16 I: 36 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1723 // ESurfaceType::Meta V: 7 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1724 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1725 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1726 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1727 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1728 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1729 // ESurfaceType::Meta V: 8 I: 12 planar
@@ -10392,10 +10392,10 @@ default
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1731 // ESurfaceType::Meta V: 8 I: 12 planar
+1731 // ESurfaceType::Meta V: 10 I: 18 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1732 // ESurfaceType::Meta V: 8 I: 12 planar
@@ -10407,7 +10407,7 @@ default
 1733 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1734 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -10425,322 +10425,322 @@ default
 1736 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1737 // ESurfaceType::Meta V: 8 I: 12 planar
+1737 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1738 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1739 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1740 // ESurfaceType::Meta V: 4 I: 6 planar
+1739 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1740 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1741 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1742 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1742 // ESurfaceType::Meta V: 4 I: 6 planar
+1743 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1743 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1744 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1745 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1746 // ESurfaceType::Meta V: 4 I: 6 planar
+1745 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1746 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1747 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1748 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1748 // ESurfaceType::Meta V: 4 I: 6 planar
+1749 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1749 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1750 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1751 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1752 // ESurfaceType::Meta V: 4 I: 6 planar
+1751 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1752 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1753 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1754 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1754 // ESurfaceType::Meta V: 4 I: 6 planar
+1755 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1755 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1756 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1757 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1758 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1759 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1760 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1760 // ESurfaceType::Meta V: 4 I: 6 planar
+1761 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1761 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1762 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1763 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1764 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1765 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1766 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1767 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1768 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1769 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1770 // ESurfaceType::Meta V: 4 I: 6 planar
+1769 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1770 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1771 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1772 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1773 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1774 // ESurfaceType::Meta V: 4 I: 6 planar
+1774 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1775 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1776 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1777 // ESurfaceType::Meta V: 4 I: 6 planar
+1777 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1778 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1779 // ESurfaceType::Meta V: 4 I: 6 planar
+1779 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1780 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1781 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1782 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1783 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1784 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1785 // ESurfaceType::Meta V: 4 I: 6 planar
+1784 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
+1785 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
 1786 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1787 // ESurfaceType::Meta V: 8 I: 12 planar
+1787 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1788 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1789 // ESurfaceType::Meta V: 4 I: 6 planar
+1789 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
@@ -10749,64 +10749,64 @@ default
 1790 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1791 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1791 // ESurfaceType::Meta V: 8 I: 12 planar
+1792 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1792 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1793 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1794 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1795 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1795 // ESurfaceType::Meta V: 8 I: 12 planar
+1796 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1796 // ESurfaceType::Meta V: 4 I: 6 planar
+1797 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1797 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1798 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1799 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1800 // ESurfaceType::Meta V: 4 I: 6 planar
+1800 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -10815,82 +10815,82 @@ default
 1801 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1802 // ESurfaceType::Meta V: 8 I: 12 planar
+1802 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1803 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1804 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1805 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1806 // ESurfaceType::Meta V: 4 I: 6 planar
+1806 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1807 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1808 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1809 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1810 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1811 // ESurfaceType::Meta V: 8 I: 12 planar
+1809 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
+1810 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1811 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
 1812 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1813 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1814 // ESurfaceType::Meta V: 4 I: 6 planar
+1814 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -10899,40 +10899,40 @@ default
 1815 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1816 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1817 // ESurfaceType::Meta V: 8 I: 12 planar
+1816 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1818 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1819 // ESurfaceType::Meta V: 6 I: 12 planar
+1817 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
+1818 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1819 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
 1820 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1821 // ESurfaceType::Meta V: 4 I: 6 planar
+1821 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -10941,82 +10941,82 @@ default
 1822 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1823 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1824 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1825 // ESurfaceType::Meta V: 4 I: 6 planar
+1825 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1826 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1826 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1827 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1828 // ESurfaceType::Meta V: 8 I: 12 planar
+1828 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1829 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1830 // ESurfaceType::Meta V: 10 I: 21 planar
+1830 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1831 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1832 // ESurfaceType::Meta V: 5 I: 9 planar
+1832 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1833 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1834 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1835 // ESurfaceType::Meta V: 16 I: 36 planar
+1835 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -11025,34 +11025,34 @@ default
 1836 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1837 // ESurfaceType::Meta V: 11 I: 24 planar
+1837 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1838 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1839 // ESurfaceType::Meta V: 10 I: 21 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1839 // ESurfaceType::Meta V: 18 I: 33 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1840 // ESurfaceType::Meta V: 14 I: 27 planar
+1840 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1841 // ESurfaceType::Meta V: 4 I: 6 planar
+1841 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
@@ -11061,19 +11061,19 @@ default
 1842 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1843 // ESurfaceType::Meta V: 18 I: 33 planar
+1843 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1844 // ESurfaceType::Meta V: 10 I: 18 planar
+1844 // ESurfaceType::Meta V: 16 I: 36 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1845 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -11082,118 +11082,118 @@ default
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1846 // ESurfaceType::Meta V: 17 I: 39 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1847 // ESurfaceType::Meta V: 7 I: 15 planar
+1846 // ESurfaceType::Meta V: 11 I: 24 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1848 // ESurfaceType::Meta V: 27 I: 54 planar
+1847 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1848 // ESurfaceType::Meta V: 18 I: 33 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1849 // ESurfaceType::Meta V: 4 I: 6 planar
+1849 // ESurfaceType::Meta V: 14 I: 27 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1850 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1851 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1852 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1853 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1854 // ESurfaceType::Meta V: 4 I: 6 planar
+1851 // ESurfaceType::Meta V: 18 I: 33 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1855 // ESurfaceType::Meta V: 4 I: 6 planar
+1852 // ESurfaceType::Meta V: 10 I: 18 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1856 // ESurfaceType::Meta V: 8 I: 12 planar
+1853 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1854 // ESurfaceType::Meta V: 17 I: 39 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1855 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1856 // ESurfaceType::Meta V: 27 I: 54 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1857 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1858 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1859 // ESurfaceType::Meta V: 4 I: 6 planar
+1859 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1860 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1861 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1862 // ESurfaceType::Meta V: 4 I: 6 planar
+1860 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1863 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1864 // ESurfaceType::Meta V: 4 I: 6 planar
+1861 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1862 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1863 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1864 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1865 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -11211,40 +11211,40 @@ default
 1867 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1868 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1869 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1870 // ESurfaceType::Meta V: 7 I: 15 planar
+1870 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1871 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1872 // ESurfaceType::Meta V: 5 I: 9 planar
+1872 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1873 // ESurfaceType::Meta V: 6 I: 15 planar
+1873 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -11256,187 +11256,187 @@ default
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1875 // ESurfaceType::Meta V: 10 I: 18 planar
+1875 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1876 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1877 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1878 // ESurfaceType::Meta V: 46 I: 108 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1879 // ESurfaceType::Meta V: 4 I: 6 planar
+1878 // ESurfaceType::Meta V: 7 I: 15 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1879 // ESurfaceType::Meta V: 3 I: 3 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1880 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1881 // ESurfaceType::Meta V: 4 I: 6 planar
+1881 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1882 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1883 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1884 // ESurfaceType::Meta V: 31 I: 69 planar
+1883 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1885 // ESurfaceType::Meta V: 13 I: 33 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1886 // ESurfaceType::Meta V: 30 I: 84 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1887 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1888 // ESurfaceType::Meta V: 64 I: 153 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1889 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1890 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1891 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1892 // ESurfaceType::Meta V: 7 I: 15 planar
+1884 // ESurfaceType::Meta V: 10 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1893 // ESurfaceType::Meta V: 4 I: 6 planar
+1885 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1886 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1894 // ESurfaceType::Meta V: 4 I: 6 planar
+1887 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1888 // ESurfaceType::Meta V: 46 I: 108 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1889 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1895 // ESurfaceType::Meta V: 56 I: 147 planar
+1890 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1891 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1896 // ESurfaceType::Meta V: 9 I: 24 planar
+1892 // ESurfaceType::Meta V: 6 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1893 // ESurfaceType::Meta V: 31 I: 69 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1894 // ESurfaceType::Meta V: 11 I: 27 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1897 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1898 // ESurfaceType::Meta V: 5 I: 9 planar
+1895 // ESurfaceType::Meta V: 30 I: 84 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1899 // ESurfaceType::Meta V: 5 I: 9 planar
+1896 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1897 // ESurfaceType::Meta V: 64 I: 144 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1900 // ESurfaceType::Meta V: 5 I: 9 planar
+1898 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1901 // ESurfaceType::Meta V: 5 I: 9 planar
+1899 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1902 // ESurfaceType::Meta V: 5 I: 9 planar
+1900 // ESurfaceType::Meta V: 7 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1901 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1902 // ESurfaceType::Meta V: 38 I: 78 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1903 // ESurfaceType::Meta V: 5 I: 9 planar
+1903 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1904 // ESurfaceType::Meta V: 5 I: 9 planar
+1904 // ESurfaceType::Meta V: 56 I: 147 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1905 // ESurfaceType::Meta V: 5 I: 9 planar
+1905 // ESurfaceType::Meta V: 9 I: 24 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
@@ -11445,139 +11445,139 @@ default
 1906 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1907 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1908 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1909 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1910 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1911 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1912 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1913 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1914 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1915 // ESurfaceType::Meta V: 29 I: 75 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1916 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1917 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1918 // ESurfaceType::Meta V: 4 I: 6 planar
+1915 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1919 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1920 // ESurfaceType::Meta V: 4 I: 6 planar
+1916 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1921 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1922 // ESurfaceType::Meta V: 18 I: 30 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1923 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1924 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-1925 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1926 // ESurfaceType::Meta V: 10 I: 18 planar
+1917 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
+1918 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1919 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1920 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1921 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1922 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1923 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1924 // ESurfaceType::Meta V: 29 I: 75 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1925 // ESurfaceType::Meta V: 10 I: 21 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1926 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
 1927 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1928 // ESurfaceType::Meta V: 5 I: 9 planar
+1928 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1929 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -11586,85 +11586,85 @@ default
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1930 // ESurfaceType::Meta V: 26 I: 69 planar
+1930 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1931 // ESurfaceType::Meta V: 18 I: 30 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1932 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1933 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1934 // ESurfaceType::Meta V: 20 I: 42 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1931 // ESurfaceType::Meta V: 25 I: 66 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1932 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1933 // ESurfaceType::Meta V: 21 I: 54 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1934 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
 1935 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1936 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1937 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1938 // ESurfaceType::Meta V: 14 I: 27 planar
+1937 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1939 // ESurfaceType::Meta V: 4 I: 6 planar
+1938 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1940 // ESurfaceType::Meta V: 4 I: 6 planar
+1939 // ESurfaceType::Meta V: 26 I: 69 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1941 // ESurfaceType::Meta V: 4 I: 6 planar
+1940 // ESurfaceType::Meta V: 25 I: 66 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1942 // ESurfaceType::Meta V: 4 I: 6 planar
+1941 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1943 // ESurfaceType::Meta V: 4 I: 6 planar
+1942 // ESurfaceType::Meta V: 21 I: 54 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1943 // ESurfaceType::Meta V: 25 I: 48 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
@@ -11679,67 +11679,67 @@ default
 1945 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1946 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+1947 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1948 // ESurfaceType::Meta V: 14 I: 27 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1946 // ESurfaceType::Meta V: 5 I: 9 planar
+1949 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1947 // ESurfaceType::Meta V: 5 I: 9 planar
+1950 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+1951 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1948 // ESurfaceType::Meta V: 5 I: 9 planar
+1952 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1953 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1949 // ESurfaceType::Meta V: 5 I: 9 planar
+1954 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1950 // ESurfaceType::Meta V: 5 I: 9 planar
+1955 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1951 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1952 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1953 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1954 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-1955 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 1956 // ESurfaceType::Meta V: 5 I: 9 planar
@@ -11766,556 +11766,556 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1960 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-1961 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1962 // ESurfaceType::Meta V: 33 I: 72 planar
+1960 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1963 // ESurfaceType::Meta V: 4 I: 6 planar
+1961 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1962 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1963 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1964 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1965 // ESurfaceType::Meta V: 55 I: 156 planar
+1965 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+1966 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1966 // ESurfaceType::Meta V: 4 I: 6 planar
+1967 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1967 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1968 // ESurfaceType::Meta V: 21 I: 42 planar
+1968 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1969 // ESurfaceType::Meta V: 4 I: 6 planar
+1969 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1970 // ESurfaceType::Meta V: 6 I: 15 planar
+1970 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1971 // ESurfaceType::Meta V: 8 I: 12 planar
+1971 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-1972 // ESurfaceType::Meta V: 4 I: 6 planar
+1972 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-1973 // ESurfaceType::Meta V: 6 I: 12 planar
+1973 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1974 // ESurfaceType::Meta V: 27 I: 63 planar
+1974 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1975 // ESurfaceType::Meta V: 5 I: 9 planar
+1975 // ESurfaceType::Meta V: 55 I: 156 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 1976 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1977 // ESurfaceType::Meta V: 4 I: 6 planar
+1977 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1978 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1979 // ESurfaceType::Meta V: 9 I: 24 planar
+1979 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1980 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1981 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-1982 // ESurfaceType::Meta V: 25 I: 57 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1983 // ESurfaceType::Meta V: 4 I: 6 planar
+1981 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+1982 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1984 // ESurfaceType::Meta V: 4 I: 6 planar
+1983 // ESurfaceType::Meta V: 27 I: 63 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1984 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1985 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1986 // ESurfaceType::Meta V: 10 I: 21 planar
+1986 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 1987 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-1988 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-1989 // ESurfaceType::Meta V: 4 I: 6 planar
+1988 // ESurfaceType::Meta V: 22 I: 48 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+1989 // ESurfaceType::Meta V: 9 I: 24 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 1990 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1991 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-1992 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-1993 // ESurfaceType::Meta V: 27 I: 54 planar
+1992 // ESurfaceType::Meta V: 25 I: 57 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+1993 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1994 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1995 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-1996 // ESurfaceType::Meta V: 4 I: 6 planar
+1996 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 1997 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 1998 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-1999 // ESurfaceType::Meta V: 21 I: 42 planar
+1999 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2000 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2001 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2002 // ESurfaceType::Meta V: 10 I: 21 planar
+2002 // ESurfaceType::Meta V: 27 I: 54 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2003 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2004 // ESurfaceType::Meta V: 8 I: 12 planar
+2003 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2004 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2005 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2006 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2007 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2008 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+2009 // ESurfaceType::Meta V: 19 I: 36 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2009 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2010 // ESurfaceType::Meta V: 12 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2011 // ESurfaceType::Meta V: 14 I: 27 planar
+2010 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2012 // ESurfaceType::Meta V: 4 I: 6 planar
+2011 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2013 // ESurfaceType::Meta V: 4 I: 6 planar
+2012 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2014 // ESurfaceType::Meta V: 16 I: 33 planar
+2013 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2014 // ESurfaceType::Meta V: 10 I: 21 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2015 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2016 // ESurfaceType::Meta V: 6 I: 15 planar
+2016 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2017 // ESurfaceType::Meta V: 16 I: 36 planar
+2017 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2018 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2019 // ESurfaceType::Meta V: 6 I: 12 planar
+2019 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2020 // ESurfaceType::Meta V: 12 I: 18 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2020 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2021 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-2022 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2023 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2024 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-2025 // ESurfaceType::Meta V: 6 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2026 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2027 // ESurfaceType::Meta V: 4 I: 6 planar
+2021 // ESurfaceType::Meta V: 14 I: 27 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2028 // ESurfaceType::Meta V: 4 I: 6 planar
+2022 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2029 // ESurfaceType::Meta V: 4 I: 6 planar
+2023 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2024 // ESurfaceType::Meta V: 16 I: 33 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2025 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2026 // ESurfaceType::Meta V: 6 I: 15 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2030 // ESurfaceType::Meta V: 6 I: 12 planar
+2027 // ESurfaceType::Meta V: 16 I: 36 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+2028 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+2029 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2030 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2031 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2032 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2033 // ESurfaceType::Meta V: 6 I: 12 planar
+2032 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2033 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2034 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2035 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2036 // ESurfaceType::Meta V: 6 I: 12 planar
+2035 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2036 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2037 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2038 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+2039 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2039 // ESurfaceType::Meta V: 6 I: 12 planar
+2040 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2040 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2041 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2042 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2042 // ESurfaceType::Meta V: 6 I: 12 planar
+2043 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2043 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2044 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2045 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2045 // ESurfaceType::Meta V: 6 I: 12 planar
+2046 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2046 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2047 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2048 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2048 // ESurfaceType::Meta V: 6 I: 12 planar
+2049 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2049 // ESurfaceType::Meta V: 4 I: 6 planar
+2050 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2050 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
 2051 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2052 // ESurfaceType::Meta V: 6 I: 12 planar
@@ -12327,7 +12327,7 @@ default
 2053 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2054 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -12336,58 +12336,58 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2055 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-2056 // ESurfaceType::Meta V: 6 I: 12 planar
+2055 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2056 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2057 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-2058 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2059 // ESurfaceType::Meta V: 6 I: 12 planar
+2058 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2059 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2060 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2061 // ESurfaceType::Meta V: 4 I: 6 planar
+2061 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2062 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2063 // ESurfaceType::Meta V: 6 I: 12 planar
+2063 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2064 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -12396,16 +12396,16 @@ default
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2065 // ESurfaceType::Meta V: 6 I: 12 planar
+2065 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+2066 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2066 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2067 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -12441,28 +12441,28 @@ default
 2072 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2073 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-2074 // ESurfaceType::Meta V: 18 I: 33 planar
+2073 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2075 // ESurfaceType::Meta V: 14 I: 27 planar
+2074 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2076 // ESurfaceType::Meta V: 10 I: 21 planar
+2075 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2076 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
@@ -12471,52 +12471,52 @@ default
 2077 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2078 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2079 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2080 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2081 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2082 // ESurfaceType::Meta V: 14 I: 27 planar
+2080 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2083 // ESurfaceType::Meta V: 6 I: 12 planar
+2081 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2084 // ESurfaceType::Meta V: 4 I: 6 planar
+2082 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2085 // ESurfaceType::Meta V: 10 I: 18 planar
+2083 // ESurfaceType::Meta V: 10 I: 21 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2084 // ESurfaceType::Meta V: 18 I: 33 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2085 // ESurfaceType::Meta V: 14 I: 27 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
@@ -12525,274 +12525,274 @@ default
 2086 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2087 // ESurfaceType::Meta V: 4 I: 6 planar
+2087 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2088 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2089 // ESurfaceType::Meta V: 8 I: 12 planar
+2089 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2090 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2091 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2092 // ESurfaceType::Meta V: 4 I: 6 planar
+2091 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2093 // ESurfaceType::Meta V: 4 I: 6 planar
+2092 // ESurfaceType::Meta V: 14 I: 27 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2093 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2094 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+2095 // ESurfaceType::Meta V: 10 I: 18 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+2096 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2095 // ESurfaceType::Meta V: 6 I: 12 planar
+2097 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2096 // ESurfaceType::Meta V: 5 I: 9 planar
+2098 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2097 // ESurfaceType::Meta V: 22 I: 57 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-2098 // ESurfaceType::Meta V: 10 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2099 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+2100 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2101 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2100 // ESurfaceType::Meta V: 10 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2101 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2102 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2103 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2104 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2105 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2106 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-2107 // ESurfaceType::Meta V: 4 I: 6 planar
+2105 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2108 // ESurfaceType::Meta V: 5 I: 9 planar
+2106 // ESurfaceType::Meta V: 6 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2107 // ESurfaceType::Meta V: 22 I: 57 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+2108 // ESurfaceType::Meta V: 10 I: 18 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2109 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2110 // ESurfaceType::Meta V: 11 I: 21 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2110 // ESurfaceType::Meta V: 26 I: 57 planar
+2111 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2111 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2112 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2113 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2114 // ESurfaceType::Meta V: 21 I: 42 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2115 // ESurfaceType::Meta V: 16 I: 39 planar
+2114 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
+}
+
+2115 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2116 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2117 // ESurfaceType::Meta V: 40 I: 87 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2118 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-2119 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2120 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2121 // ESurfaceType::Meta V: 20 I: 39 planar
+2117 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2122 // ESurfaceType::Meta V: 13 I: 21 planar
+2118 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2123 // ESurfaceType::Meta V: 4 I: 6 planar
+2119 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2124 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2125 // ESurfaceType::Meta V: 4 I: 6 planar
+2120 // ESurfaceType::Meta V: 26 I: 57 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2126 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2127 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2128 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2129 // ESurfaceType::Meta V: 4 I: 6 planar
+2121 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2130 // ESurfaceType::Meta V: 10 I: 21 planar
+2122 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2123 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2124 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2125 // ESurfaceType::Meta V: 16 I: 39 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2131 // ESurfaceType::Meta V: 4 I: 6 planar
+2126 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2127 // ESurfaceType::Meta V: 40 I: 87 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+2128 // ESurfaceType::Meta V: 5 I: 9 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+2129 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2130 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2131 // ESurfaceType::Meta V: 20 I: 39 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
@@ -12801,37 +12801,37 @@ default
 2132 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2133 // ESurfaceType::Meta V: 10 I: 21 planar
+2133 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2134 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2135 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2136 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2137 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2138 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -12840,31 +12840,31 @@ default
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2139 // ESurfaceType::Meta V: 4 I: 6 planar
+2139 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2140 // ESurfaceType::Meta V: 4 I: 6 planar
+2140 // ESurfaceType::Meta V: 10 I: 21 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2141 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2142 // ESurfaceType::Meta V: 18 I: 33 planar
+2142 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2143 // ESurfaceType::Meta V: 18 I: 33 planar
+2143 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
@@ -12900,25 +12900,25 @@ default
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2149 // ESurfaceType::Meta V: 6 I: 15 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2150 // ESurfaceType::Meta V: 4 I: 6 planar
+2149 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2151 // ESurfaceType::Meta V: 4 I: 6 planar
+2150 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+2151 // ESurfaceType::Meta V: 18 I: 33 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2152 // ESurfaceType::Meta V: 4 I: 6 planar
+2152 // ESurfaceType::Meta V: 18 I: 33 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
@@ -12942,70 +12942,70 @@ default
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2156 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
-}
-
-2157 // ESurfaceType::Meta V: 8 I: 12 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-2158 // ESurfaceType::Meta V: 4 I: 6 planar
+2156 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2159 // ESurfaceType::Meta V: 16 I: 36 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-2160 // ESurfaceType::Meta V: 10 I: 21 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2161 // ESurfaceType::Meta V: 8 I: 12 planar
+2157 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2158 // ESurfaceType::Meta V: 6 I: 15 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2159 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+2160 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2161 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2162 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2163 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2164 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2165 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2166 // ESurfaceType::Meta V: 4 I: 6 planar
+2165 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+2166 // ESurfaceType::Meta V: 8 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2167 // ESurfaceType::Meta V: 4 I: 6 planar
@@ -13014,181 +13014,181 @@ default
 	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2168 // ESurfaceType::Meta V: 4 I: 6 planar
+2168 // ESurfaceType::Meta V: 16 I: 36 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2169 // ESurfaceType::Meta V: 4 I: 6 planar
+2169 // ESurfaceType::Meta V: 10 I: 21 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2170 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-2170 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2171 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2172 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2173 // ESurfaceType::Meta V: 9 I: 15 planar
+2173 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2174 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2175 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2176 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2177 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2178 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2179 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
 2180 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2181 // ESurfaceType::Meta V: 8 I: 12 planar
+2181 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 1.000000 0.000000 0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2182 // ESurfaceType::Meta V: 6 I: 12 planar
+2182 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2183 // ESurfaceType::Meta V: 4 I: 6 planar
+2183 // ESurfaceType::Meta V: 9 I: 15 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
 2184 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
 2185 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2186 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
 2187 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2188 // ESurfaceType::Meta V: 8 I: 12 planar
+2188 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
 2189 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2190 // ESurfaceType::Meta V: 8 I: 12 planar
+2190 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2191 // ESurfaceType::Meta V: 5 I: 9 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
-}
-
-2192 // ESurfaceType::Meta V: 4 I: 6 planar
+2191 // ESurfaceType::Meta V: 8 I: 12 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( 1.000000 0.000000 0.000000 )
+}
+
+2192 // ESurfaceType::Meta V: 6 I: 12 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
 2193 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
+}
+
+2194 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2194 // ESurfaceType::Meta V: 5 I: 9 planar
+2195 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2195 // ESurfaceType::Meta V: 6 I: 12 planar
+2196 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2196 // ESurfaceType::Meta V: 10 I: 18 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( 0.000000 0.000000 1.000000 )
-}
-
-2197 // ESurfaceType::Meta V: 8 I: 12 planar
+2197 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
@@ -13203,94 +13203,94 @@ default
 2199 // ESurfaceType::Meta V: 4 I: 6 planar
 {
 	shader textures/house6/quad
-	lightmapAxis ( 0.000000 1.000000 0.000000 )
-}
-
-2200 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
 	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2201 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
-}
-
-2202 // ESurfaceType::Meta V: 4 I: 6 planar
-{
-	shader textures/house6/quad
-	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
-}
-
-2203 // ESurfaceType::Meta V: 4 I: 6 planar
+2200 // ESurfaceType::Meta V: 5 I: 9 planar
 {
 	shader textures/house6/quad
 	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2204 // ESurfaceType::Meta V: 24 I: 48 planar
+2201 // ESurfaceType::Meta V: 8 I: 12 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2205 // ESurfaceType::Meta V: 3 I: 3 planar
+2202 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( 1.000000 0.000000 0.000000 )
 }
 
-2206 // ESurfaceType::Meta V: 3 I: 3 planar
+2203 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2207 // ESurfaceType::Meta V: 3 I: 3 planar
+2204 // ESurfaceType::Meta V: 5 I: 9 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2208 // ESurfaceType::Meta V: 3 I: 3 planar
+2205 // ESurfaceType::Meta V: 6 I: 12 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
 }
 
-2209 // ESurfaceType::Meta V: 3 I: 3 planar
+2206 // ESurfaceType::Meta V: 10 I: 18 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2210 // ESurfaceType::Meta V: 3 I: 3 planar
+2207 // ESurfaceType::Meta V: 8 I: 12 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
 }
 
-2211 // ESurfaceType::Meta V: 3 I: 3 planar
+2208 // ESurfaceType::Meta V: 8 I: 12 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
 }
 
-2212 // ESurfaceType::Meta V: 3 I: 3 planar
+2209 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 1.000000 0.000000 )
 }
 
-2213 // ESurfaceType::Meta V: 3 I: 3 planar
+2210 // ESurfaceType::Meta V: 4 I: 6 planar
 {
-	shader textures/sfx/proto_zzztblu2
-	sampleSize 0
+	shader textures/house6/quad
+	lightmapAxis ( 0.000000 0.000000 1.000000 )
 }
 
-2214 // ESurfaceType::Meta V: 3 I: 3 planar
+2211 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -1.000000 -0.000000 -0.000000 )
+}
+
+2212 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -1.000000 -0.000000 )
+}
+
+2213 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/house6/quad
+	lightmapAxis ( -0.000000 -0.000000 -1.000000 )
+}
+
+2214 // ESurfaceType::Meta V: 24 I: 48 planar
 {
 	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
@@ -13320,7 +13320,7 @@ default
 	sampleSize 0
 }
 
-2219 // ESurfaceType::Meta V: 17 I: 48 planar
+2219 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
@@ -13380,7 +13380,7 @@ default
 	sampleSize 0
 }
 
-2229 // ESurfaceType::Meta V: 3 I: 3 planar
+2229 // ESurfaceType::Meta V: 17 I: 48 planar
 {
 	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
@@ -13434,7 +13434,7 @@ default
 	sampleSize 0
 }
 
-2238 // ESurfaceType::Meta V: 5 I: 6 planar
+2238 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
@@ -13494,7 +13494,7 @@ default
 	sampleSize 0
 }
 
-2248 // ESurfaceType::Meta V: 3 I: 3 planar
+2248 // ESurfaceType::Meta V: 5 I: 6 planar
 {
 	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
@@ -13524,7 +13524,7 @@ default
 	sampleSize 0
 }
 
-2253 // ESurfaceType::Meta V: 5 I: 6 planar
+2253 // ESurfaceType::Meta V: 3 I: 3 planar
 {
 	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
@@ -13584,7 +13584,7 @@ default
 	sampleSize 0
 }
 
-2263 // ESurfaceType::Meta V: 3 I: 3 planar
+2263 // ESurfaceType::Meta V: 5 I: 6 planar
 {
 	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
@@ -13614,63 +13614,63 @@ default
 	sampleSize 0
 }
 
-2268 // ESurfaceType::Meta V: 4 I: 6 planar
+2268 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2269 // ESurfaceType::Meta V: 4 I: 6 planar
+2269 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2270 // ESurfaceType::Meta V: 4 I: 6 planar
+2270 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2271 // ESurfaceType::Meta V: 4 I: 6 planar
+2271 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2272 // ESurfaceType::Meta V: 4 I: 6 planar
+2272 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2273 // ESurfaceType::Meta V: 4 I: 6 planar
+2273 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2274 // ESurfaceType::Meta V: 4 I: 6 planar
+2274 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2275 // ESurfaceType::Meta V: 4 I: 6 planar
+2275 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2276 // ESurfaceType::Meta V: 4 I: 6 planar
+2276 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 
-2277 // ESurfaceType::Meta V: 4 I: 6 planar
+2277 // ESurfaceType::Meta V: 3 I: 3 planar
 {
-	shader textures/skies2/nebula3
+	shader textures/sfx/proto_zzztblu2
 	sampleSize 0
 }
 

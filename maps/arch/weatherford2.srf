@@ -6,3 +6,4215 @@ default
 	longestCurve 0.000000
 }
 
+0 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+1 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+2 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+3 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+4 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+5 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+6 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+7 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+8 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+9 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+10 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+11 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+12 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+13 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+14 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+15 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+16 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+17 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+18 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+19 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+20 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+21 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+22 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+23 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+24 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+25 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+26 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+27 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+28 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+29 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+30 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+31 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+32 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+33 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+34 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+35 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+36 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+37 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+38 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+39 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+40 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+41 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+42 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+43 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+44 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+45 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+46 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+47 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+48 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+49 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+50 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+51 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+52 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+53 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+54 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+55 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+56 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+57 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+58 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+59 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+60 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+61 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+62 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+63 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+64 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+65 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+66 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+67 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+68 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+69 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+70 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+71 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+72 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+73 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+74 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+75 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+76 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+77 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+78 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+79 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+80 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+81 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+82 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+83 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+84 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+85 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+86 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+87 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+88 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+89 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+90 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+91 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+92 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+93 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+94 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+95 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+96 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+97 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+98 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+99 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+100 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+101 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+102 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+103 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+104 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+105 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+106 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+107 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+108 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+109 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+110 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+111 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+112 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+113 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+114 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+115 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+116 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+117 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+118 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+119 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+120 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+121 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+122 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+123 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+124 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+125 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+126 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+127 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+128 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+129 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+130 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+131 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+132 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+133 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+134 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+135 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+136 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+137 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+138 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+139 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+140 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+141 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+142 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+143 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+144 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+145 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+146 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+147 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+148 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+149 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+150 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+151 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+152 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+153 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+154 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+155 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+156 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+157 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+158 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+159 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+160 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+161 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+162 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+163 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+164 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+165 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+166 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+167 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+168 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+169 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+170 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+171 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+172 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+173 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+174 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+175 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+176 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+177 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+178 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+179 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+180 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+181 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+182 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+183 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+184 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+185 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+186 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+187 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+188 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+189 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+190 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+191 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+192 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+193 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+194 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+195 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+196 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+197 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+198 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+199 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+200 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+201 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+202 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+203 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+204 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+205 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+206 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+207 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+208 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+209 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+210 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+211 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+212 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+213 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+214 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+215 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+216 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+217 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+218 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+219 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+220 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+221 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+222 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+223 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+224 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+225 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+226 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+227 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+228 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+229 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+230 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+231 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+232 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+233 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+234 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Granite_Dark_Gray
+	sampleSize 0
+}
+
+235 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+236 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+237 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+238 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+239 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+240 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+241 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+242 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+243 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+244 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+245 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+246 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+247 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+248 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+249 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+250 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+251 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+252 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+253 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+254 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+255 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+256 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+257 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+258 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+259 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+260 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+261 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+262 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+263 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+264 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+265 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+266 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+267 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+268 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+269 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+270 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+271 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+272 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+273 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+274 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+275 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+276 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+277 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+278 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+279 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+280 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+281 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+282 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+283 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+284 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+285 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+286 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+287 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+288 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+289 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+290 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+291 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+292 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+293 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+294 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+295 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+296 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+297 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+298 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+299 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+300 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+301 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+302 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+303 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+304 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+305 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+306 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+307 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+308 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+309 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+310 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+311 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+312 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+313 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+314 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+315 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+316 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+317 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+318 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+319 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+320 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+321 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+322 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+323 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+324 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+325 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+326 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+327 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+328 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+329 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+330 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+331 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+332 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+333 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+334 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+335 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+336 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+337 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+338 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+339 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+340 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+341 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+342 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+343 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+344 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+345 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+346 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+347 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+348 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+349 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+350 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+351 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+352 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+353 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+354 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+355 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+356 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+357 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+358 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+359 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+360 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+361 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+362 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+363 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+364 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+365 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+366 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+367 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+368 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+369 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+370 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+371 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+372 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+373 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+374 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+375 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+376 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+377 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+378 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+379 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+380 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+381 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+382 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+383 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+384 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+385 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+386 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+387 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+388 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+389 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+390 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+391 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+392 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+393 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+394 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+395 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+396 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+397 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+398 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+399 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+400 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+401 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+402 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+403 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+404 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+405 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+406 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+407 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+408 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+409 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+410 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+411 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+412 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+413 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+414 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+415 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+416 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+417 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+418 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+419 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+420 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+421 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+422 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+423 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+424 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+425 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+426 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+427 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+428 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+429 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+430 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+431 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+432 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+433 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+434 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+435 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+436 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+437 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+438 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+439 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+440 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+441 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+442 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+443 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+444 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+445 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+446 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+447 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+448 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+449 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+450 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+451 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+452 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+453 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+454 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+455 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+456 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+457 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+458 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+459 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+460 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+461 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+462 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+463 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+464 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+465 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+466 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+467 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+468 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+469 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+470 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+471 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+472 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+473 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+474 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+475 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+476 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+477 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+478 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+479 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+480 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+481 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+482 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+483 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+484 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+485 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+486 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+487 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+488 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+489 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+490 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+491 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+492 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+493 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+494 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+495 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+496 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+497 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+498 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+499 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+500 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+501 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+502 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+503 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+504 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+505 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+506 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+507 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+508 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+509 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+510 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+511 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+512 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+513 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+514 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+515 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+516 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+517 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+518 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+519 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+520 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+521 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+522 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+523 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+524 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+525 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+526 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+527 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+528 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+529 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+530 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+531 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+532 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+533 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+534 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+535 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+536 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+537 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+538 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+539 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+540 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+541 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+542 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+543 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+544 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+545 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+546 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+547 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+548 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+549 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+550 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+551 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+552 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+553 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+554 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+555 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+556 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+557 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+558 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+559 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+560 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+561 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+562 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+563 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+564 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+565 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+566 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+567 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+568 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+569 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+570 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+571 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+572 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+573 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+574 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+575 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+576 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+577 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+578 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+579 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+580 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+581 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+582 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+583 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+584 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+585 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+586 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+587 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+588 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+589 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+590 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+591 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+592 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+593 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+594 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+595 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+596 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+597 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+598 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+599 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+600 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+601 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+602 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+603 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+604 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+605 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+606 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+607 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+608 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+609 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+610 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+611 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+612 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+613 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+614 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+615 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+616 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+617 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+618 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+619 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+620 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+621 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+622 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+623 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+624 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+625 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+626 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+627 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+628 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+629 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+630 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+631 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+632 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+633 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+634 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+635 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+636 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+637 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+638 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+639 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+640 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+641 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+642 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+643 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+644 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+645 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+646 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+647 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+648 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+649 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+650 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+651 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+652 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+653 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+654 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+655 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+656 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+657 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+658 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+659 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+660 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+661 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+662 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+663 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+664 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+665 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+666 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+667 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+668 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+669 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+670 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+671 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+672 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+673 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+674 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+675 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+676 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+677 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+678 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+679 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/house6/Polished_Concrete_New
+	sampleSize 0
+}
+
+680 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+681 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+682 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+683 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+684 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+685 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+686 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+687 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+688 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+689 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+690 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+691 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+692 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+693 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+694 // ESurfaceType::Triangles V: 3 I: 3 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+695 // ESurfaceType::Triangles V: 4 I: 6 planar
+{
+	shader textures/terrain/mpterrax_0
+	sampleSize 0
+}
+
+696 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
+}
+
+697 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
+}
+
+698 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
+}
+
+699 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
+}
+
+700 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
+}
+
+701 // ESurfaceType::Meta V: 4 I: 6 planar
+{
+	shader textures/cardigan_skies/nebula2_green_lightning
+	sampleSize 0
+}
+
